@@ -30,6 +30,8 @@ Syntax highlighted code block
 
 Link-example: [biggest chess server](www.chess.com) and ![Image](demo.jpg)
 
+test-link: [testtolocalhtml](test.html)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
