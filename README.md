@@ -8,7 +8,9 @@ Themen für attraktive, dynamische Inhalte sind
 - Mattprobleme, Partiestudien! hier bieten sich folgende Möglichkeiten, pgn files oder FEN strings einzustellen:
 
 
-[matthias-francis 0-1 22.11.2017](start.html)
+[matthias-francis cbreplay](start.html)
+
+[matthias-francis pgnviewerjs](pgnvjs095/examples/mf.html)
 
 [PgnViewerJS](http://mliebelt.github.io/PgnViewerJS/docu/example/config.html)
 
