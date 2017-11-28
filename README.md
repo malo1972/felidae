@@ -8,7 +8,7 @@ Themen für attraktive, dynamische Inhalte sind
 - Mattprobleme, Partiestudien! hier bieten sich folgende Möglichkeiten, pgn files oder FEN strings einzustellen:
 
 
-[chessbase replay](start.html)
+[matthias-francis 0-1 22.11.2017](start.html)
 
 [PgnViewerJS](http://mliebelt.github.io/PgnViewerJS/docu/example/config.html)
 
