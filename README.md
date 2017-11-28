@@ -7,12 +7,14 @@ Themen für attraktive, dynamische Inhalte sind
 - Linksammlung
 - Mattprobleme, Partiestudien! hier bieten sich folgende Möglichkeiten, pgn files oder FEN strings einzustellen:
 
+## PgnViewerJs
+[Matthias-Francis 23.11.2017](pgnvjs095/examples/mf.html)
 
-[matthias-francis cbreplay](start.html)
+[PgnViewerJS config-builder](http://mliebelt.github.io/PgnViewerJS/docu/example/config.html)
 
-[matthias-francis pgnviewerjs](pgnvjs095/examples/mf.html)
+## Chessbase (cbreplay)
+[Matthias-Francis 23.11.2017](start.html)
 
-[PgnViewerJS](http://mliebelt.github.io/PgnViewerJS/docu/example/config.html)
 
 
 
