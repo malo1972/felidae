@@ -1,4 +1,6 @@
-# under construction!
+# under construction
+![Image of empty board](brett.jpg)
+
 
 Themen für attraktive, dynamische Inhalte sind
 - Kalender für Terminverwaltung von Turnieren, Events etc.
