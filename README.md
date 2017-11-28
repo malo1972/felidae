@@ -10,7 +10,7 @@ Themen für attraktive, dynamische Inhalte sind
 
 [chessbase replay](start.html)
 
-http://mliebelt.github.io/PgnViewerJS/docu/example/config.html
+[PgnViewerJS](http://mliebelt.github.io/PgnViewerJS/docu/example/config.html)
 
 
 
