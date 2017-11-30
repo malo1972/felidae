@@ -13,7 +13,7 @@ Themen für attraktive, dynamische Inhalte sind
 [Matthias-Francis 23.11.2017](pgnvjs095/examples/mf.html)
 
 
-[DEBUG](pgnvjs095/examples/aronian.html)
+[DEBUGME](pgnvjs095/examples/aronian.html)
 
 [PgnViewerJS config-builder](http://mliebelt.github.io/PgnViewerJS/docu/example/config.html)
 
