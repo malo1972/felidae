@@ -12,7 +12,12 @@ Themen für attraktive, dynamische Inhalte sind
 ## PgnViewerJs
 [Matthias-Francis 23.11.2017](pgnvjs095/examples/mf.html)
 
+
+[DEBUG](pgnvjs095/examples/aronian.html)
+
 [PgnViewerJS config-builder](http://mliebelt.github.io/PgnViewerJS/docu/example/config.html)
+
+
 
 ## Chessbase (cbreplay)
 [Matthias-Francis 23.11.2017](start.html)
