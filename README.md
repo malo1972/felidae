@@ -17,6 +17,8 @@ Themen für attraktive, dynamische Inhalte sind
 
 [PgnViewerJS config-builder](http://mliebelt.github.io/PgnViewerJS/docu/example/config.html)
 
+[lichess](lichesstest.html)
+
 
 
 ## Chessbase (cbreplay)
