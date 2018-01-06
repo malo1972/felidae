@@ -24,29 +24,29 @@
 ***
 
 # Philosophische Ausgangspunkte
-* « Wir sind alle Verwandte. » - *Erkenntnis der SIOUX*
-* « Staunen veranlasste zuerst – wie noch heute – die Menschen zum
-Philosophieren. » – *ARISTOTELES: Metaphysik I 2, 982 b 12*
-* « Tu ne cede malis, sed contra audentior ito! » - *VERGIL: AENEIS VI, 95*
-* « Unumquodque autem tendens in suam perfectionem, tendit in divinam
-similitudinem. » – THOMAS VON AQUIN: Summa contra Gentiles III 21 n. 6 + « Quem
-quis, sempre pôde.. » - *LUÍS VAZ DE CAMÕES (1524/5-1579)*
-* « Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass
-sie ein allgemeines Gesetz werde. » - IMMANUEL
+* **« Wir sind alle Verwandte. »** *Erkenntnis der SIOUX*
+* **« Staunen veranlasste zuerst – wie noch heute – die Menschen zum
+Philosophieren. »** *ARISTOTELES: Metaphysik I 2, 982 b 12*
+* **« Tu ne cede malis, sed contra audentior ito! »** *VERGIL: AENEIS VI, 95*
+* **« Unumquodque autem tendens in suam perfectionem, tendit in divinam
+similitudinem. »** THOMAS VON AQUIN: Summa contra Gentiles III 21 n. 6 
+* **« Quem quis, sempre pôde.. »** *LUÍS VAZ DE CAMÕES (1524/5-1579)*
+* **« Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass
+sie ein allgemeines Gesetz werde. »** *IMMANUEL
 KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant
-Werke IV, 421/429, 10–12
-* « Was die Schachfreunde (...) von einander unterscheidet, nennt man Strategie:
+Werke IV, 421/429, 10–12*
+* **« Was die Schachfreunde (...) von einander unterscheidet, nennt man Strategie:
 die Planmäßigkeit, die Zweckmäßigkeit; die Vernunft ihrer Züge.
 Diese Vernunft ist (...) ein Teil aller Vernunft (...). An demselben Baume, an dem
 ein kleines Zweiglein die Logik des Aristoteles heißt, hängt ein anderes Zweiglein,
-das sich Strategie im Schachspiel nennt. » - EMANUEL LASKER: Lehrbuch des
-Schachspiels, Berlin² 1928, 13
-* « El Ajedrez es algo más que un juego; es una diversión intelectual que tiene algo
+das sich Strategie im Schachspiel nennt. »** *EMANUEL LASKER: Lehrbuch des
+Schachspiels, Berlin² 1928, 13*
+* **« El Ajedrez es algo más que un juego; es una diversión intelectual que tiene algo
 de Arte y mucho de Ciencia. Es además, un medio de acercamiento social e
-intelectual. » - JOSÉ RAOUL CAPABLANCA (1888-1942) + « Im
-Schach, wie im Leben, ist der Mensch sich selbst der gefährlichste
-Widersacher. » - WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)
-* « Die Würde des Menschen ist unantastbar; Bürden des Menschseins milderbar. »
+intelectual. »** *JOSÉ RAOUL CAPABLANCA (1888-1942)*
+* **« Im Schach, wie im Leben, ist der Mensch sich selbst der gefährlichste
+Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
+* **« Die Würde des Menschen ist unantastbar; Bürden des Menschseins milderbar. »**
 
 ***
 
