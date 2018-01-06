@@ -24,13 +24,13 @@
 ***
 
 # Philosophische Ausgangspunkte
-* « Wir sind alle Verwandte. » - Erkenntnis der SIOUX
+* « Wir sind alle Verwandte. » - *Erkenntnis der SIOUX*
 * « Staunen veranlasste zuerst – wie noch heute – die Menschen zum
-Philosophieren. » – ARISTOTELES: Metaphysik I 2, 982 b 12
-* « Tu ne cede malis, sed contra audentior ito! » - VERGIL: AENEIS VI, 95
+Philosophieren. » – *ARISTOTELES: Metaphysik I 2, 982 b 12*
+* « Tu ne cede malis, sed contra audentior ito! » - *VERGIL: AENEIS VI, 95*
 * « Unumquodque autem tendens in suam perfectionem, tendit in divinam
 similitudinem. » – THOMAS VON AQUIN: Summa contra Gentiles III 21 n. 6 + « Quem
-quis, sempre pôde.. » - LUÍS VAZ DE CAMÕES (1524/5-1579)
+quis, sempre pôde.. » - *LUÍS VAZ DE CAMÕES (1524/5-1579)*
 * « Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass
 sie ein allgemeines Gesetz werde. » - IMMANUEL
 KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant
@@ -88,7 +88,7 @@ Widersacher. » - WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)
 ***
 
 # Kalender
-[link](calendar.md)
+Veranstaltungen sowie Trainings- und Turniertermine der Schachfreunde Felidae Zürich sind [hier](calendar.md) zu finden
 
 ***
 
