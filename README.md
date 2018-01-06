@@ -1,4 +1,4 @@
-![Aenas](Aenas_and_Turnus.jpg)
+![Aenas](Aeneas_and_Turnus.jpg)
 
 # Faszinosum Schach
 * Kunstform seit Strukturierung durch Perser
