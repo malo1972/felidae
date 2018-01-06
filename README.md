@@ -7,7 +7,9 @@
 * Ausdrucksform der Schönheit vektorieller Logik
 * kosmopolitisches Vergnügen
 * Strategien, Operationen, Taktiken
+
 ***
+
 # Wir pflegen
 * Freuden an Spiel &amp; Rätsellösen
 * Courtoisie im Verkehr
@@ -17,7 +19,9 @@
 * (Re)Aktionstempo &amp; Schlagfertigkeit
 * Lakonismus als rhetorische Tugend
 * « Schach am Bach! »
+
 ***
+
 # Philosophische Ausgangspunkte
 * « Wir sind alle Verwandte. » - Erkenntnis der SIOUX
 * « Staunen veranlasste zuerst – wie noch heute – die Menschen zum
@@ -42,7 +46,9 @@ intelectual. » - JOSÉ RAOUL CAPABLANCA (1888-1942) + « Im
 Schach, wie im Leben, ist der Mensch sich selbst der gefährlichste
 Widersacher. » - WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)
 * « Die Würde des Menschen ist unantastbar; Bürden des Menschseins milderbar. »
+
 ***
+
 # Rhetorik als «Findekunst»
 * « Mens sana in corpore sano. »
 * « Non quot sed quales. »
@@ -52,7 +58,9 @@ Widersacher. » - WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)
 * « Suum cuique. »
 * « Virtute et exempla. »
 * « Viribus unitis. »
+
 ***
+
 # Institute
 * Spielabende: Variiert jahreszeitlich; bei Regen/Sturm/Schnee im Winterlager
 * Herbst + Winter: Pétanque-Club Bella Italia, Katzenbachstr. 5, 8052 Zürich
@@ -65,7 +73,9 @@ Widersacher. » - WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)
 * Schachrallyes: 1x Frühling-, 1x Herbsthalbjahr
 * Stammcafé: Café Ami, Schaffhauserstraße 448, 8052 ZH-Seebach
 * Freiluftschach: GZ Seebach, Hertensteinstraße 20, 8052 ZH-Seebach
+
 ***
+
 # Kontakte
 * Erstansprechpartner: René Rohr – tabellarius@felidae.ch
 * Jugendarbeit: Matthias Lobmayer – iuventus@felidae.ch
@@ -73,10 +83,14 @@ Widersacher. » - WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)
 * Operationen: Luís Oliveira - cancellarius@felidae.ch
 * Schriftverkehr &amp; Mannschaftskämpfe: Pascal Fehr - scriptor@felidae.ch
 * Training: Marcus Jurij Vogt - exercitor@felidae.ch
+
 ***
+
 # Kalender
-[link] (calendar.md)
+[link](calendar.md)
+
 ***
+
 # experimentelle PGN-Darstellungen
 [Matthias-Francis 23.11.2017](pgnvjs095/examples/mf.html)
 
