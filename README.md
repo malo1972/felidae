@@ -51,29 +51,29 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Rhetorik als «Findekunst»
-* « Mens sana in corpore sano. »
+* **« Mens sana in corpore sano. »
 * « Non quot sed quales. »
 * « Non soli cedit. »
 * « Rem tene, verba sequentur. »
 * « Scientia est potentia. »
 * « Suum cuique. »
 * « Virtute et exempla. »
-* « Viribus unitis. »
+* « Viribus unitis. »**
 
 ***
 
 # Institute
-* Spielabende: Variiert jahreszeitlich; bei Regen/Sturm/Schnee im Winterlager
-* Herbst + Winter: Pétanque-Club Bella Italia, Katzenbachstr. 5, 8052 Zürich
-* Frühling: GZ Seebach, Hertensteinstraße 20, 8052 ZH-Seebach
-* Sommer: Badi Seebach, Glattalstraße 43, 8052 ZH-Seebach
-* Training: Jeden Donnerstag ab 18:30 Uhr (außer Feiertage)
-* Mannschaftskämpfe: Gemeindesaal Markus-Kirche, Höhenring 56, Buhnrain,
+* **Spielabende:** Variiert jahreszeitlich; bei Regen/Sturm/Schnee im Winterlager
+* **Herbst + Winter:** Pétanque-Club Bella Italia, Katzenbachstr. 5, 8052 Zürich
+* **Frühling:** GZ Seebach, Hertensteinstraße 20, 8052 ZH-Seebach
+* **Sommer:** Badi Seebach, Glattalstraße 43, 8052 ZH-Seebach
+* **Training:** Jeden Donnerstag ab 18:30 Uhr (außer Feiertage)
+* **Mannschaftskämpfe:** Gemeindesaal Markus-Kirche, Höhenring 56, Buhnrain,
 8052 Zürich; ggf. andere Bekanntgabe an Spielgegner
-* Trainingslager: 1x Winter-, 1x Sommerhalbjahr
-* Schachrallyes: 1x Frühling-, 1x Herbsthalbjahr
-* Stammcafé: Café Ami, Schaffhauserstraße 448, 8052 ZH-Seebach
-* Freiluftschach: GZ Seebach, Hertensteinstraße 20, 8052 ZH-Seebach
+* **Trainingslager:** 1x Winter-, 1x Sommerhalbjahr
+* **Schachrallyes:** 1x Frühling-, 1x Herbsthalbjahr
+* **Stammcafé:** Café Ami, Schaffhauserstraße 448, 8052 ZH-Seebach
+* **Freiluftschach:** GZ Seebach, Hertensteinstraße 20, 8052 ZH-Seebach
 
 ***
 
@@ -88,7 +88,7 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Kalender
-Veranstaltungen sowie Trainings- und Turniertermine der Schachfreunde Felidae Zürich sind [hier](calendar.md) zu finden
+[Veranstaltungen sowie Trainings- und Turniertermine der Schachfreunde Felidae Zürich](calendar.md)
 
 ***
 
