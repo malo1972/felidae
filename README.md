@@ -51,14 +51,14 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Rhetorik als «Findekunst»
-* **« Mens sana in corpore sano. »
-* « Non quot sed quales. »
-* « Non soli cedit. »
-* « Rem tene, verba sequentur. »
-* « Scientia est potentia. »
-* « Suum cuique. »
-* « Virtute et exempla. »
-* « Viribus unitis. »**
+* **« Mens sana in corpore sano. »**
+* **« Non quot sed quales. »**
+* **« Non soli cedit. »**
+* **« Rem tene, verba sequentur. »**
+* **« Scientia est potentia. »**
+* **« Suum cuique. »**
+* **« Virtute et exempla. »**
+* **« Viribus unitis. »**
 
 ***
 
@@ -78,12 +78,12 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Kontakte
-* Erstansprechpartner: René Rohr – tabellarius@felidae.ch
-* Jugendarbeit: Matthias Lobmayer – iuventus@felidae.ch
-* Logistik: Simon Theus - quaestor@felidae.ch
-* Operationen: Luís Oliveira - cancellarius@felidae.ch
-* Schriftverkehr &amp; Mannschaftskämpfe: Pascal Fehr - scriptor@felidae.ch
-* Training: Marcus Jurij Vogt - exercitor@felidae.ch
+* **Erstansprechpartner:** René Rohr – tabellarius@felidae.ch
+* **Jugendarbeit:** Matthias Lobmayer – iuventus@felidae.ch
+* **Logistik:** Simon Theus - quaestor@felidae.ch
+* **Operationen:** Luís Oliveira - cancellarius@felidae.ch
+* **Schriftverkehr &amp; Mannschaftskämpfe:** Pascal Fehr - scriptor@felidae.ch
+* **Training:** Marcus Jurij Vogt - exercitor@felidae.ch
 
 ***
 
