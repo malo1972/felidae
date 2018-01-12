@@ -1,14 +1,28 @@
 ![Aenas](Aeneas_and_Turnus.jpg)
 
-# Faszinosum Schach
-* Kunstform seit Strukturierung durch Perser
-* Spiel der Könige … &amp; Königinnen
-* konfigurative Æsthetik
-* transkultureller Exportschlager
-* Ausdrucksform der Schönheit vektorieller Logik
-* kosmopolitisches Vergnügen
-* Strategien, Operationen, Taktiken
-
+# Das Schachspiel fasziniert, weil
+* **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
+* **... es eine Kunstform ist seit der Strukturierung durch die Perser.**
+* **... es das Spiel der Könige … &amp; Königinnen ist.**
+* **... es ein transkultureller Exportschlager ist.**
+* **... es Ausdrucksform der Schönheit vektorieller Logik ist.**
+* **... es ein kosmopolitisches Vergnügen ist.**
+* **... Schacheröffnungen so klangvolle Namen haben.** 
+* **... der Rausch im Mittelspiel betörend ist.**
+* **... es eine Lust ist, etwas kaputt zu machen.** 
+* **... man im Schach lernt, Geräusche auszuhalten.** 
+* **... Schach wie das Leben ist: ohne Dame macht es keinen Spass**
+* **... Schach wie das Leben ist: Material alleine macht nicht (immer) glücklich**
+* **... Weil Schach ein göttliches Spiel ist, das auch dem Teufel gefällt.
+* **... Schach ohne Humor undenkbar ist.** 
+* **... Magnus Carlsen zaubern kann.** 
+* **... man im Schach seine Menschenkenntnis schult.** 
+* **... im Schach Kinder und Erwachsene ebenbürtig gegeneinander kämpfen können.** 
+* **... auch Weltmeister alberne Fehler machen.** 
+* **... Schach und Fussball gut zusammenpassen.** 
+* **... der Läufer ganz eigene Fragen stellt.** 
+* **... im Schach kein Problem schwierig genug sein kann.** 
+* **... das erstickte Matt ein ästhetisches Vergnügen ist:**
 
 <iframe src="https://lichess.org/study/embed/H8YjnSdz/xTa8skSm#0" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
 
@@ -16,14 +30,14 @@
 ***
 
 # Wir pflegen
-* Freuden an Spiel &amp; Rätsellösen
-* Courtoisie im Verkehr
-* Freundschaften zum Wachsen
-* kinder- & familienfreundliche Polysportivität
-* experimentier- &amp; naturfreudige Romanophilie
-* (Re)Aktionstempo &amp; Schlagfertigkeit
-* Lakonismus als rhetorische Tugend
-* « Schach am Bach! »
+* **Freuden an Spiel &amp; Rätsellösen**
+* **Courtoisie im Verkehr**
+* **Freundschaften zum Wachsen**
+* **kinder- & familienfreundliche Polysportivität**
+* **experimentier- &amp; naturfreudige Romanophilie**
+* **(Re)Aktionstempo &amp; Schlagfertigkeit**
+* **Lakonismus als rhetorische Tugend**
+* **« Schach am Bach! »**
 
 ***
 
@@ -97,7 +111,7 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 <iframe src="https://calendar.google.com/calendar/embed?src=d2c7plclaup7qpr8e8g3v4kcb0%40group.calendar.google.com&ctz=Europe%2FZurich" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
 
 ***
-
+<!---
 # experimentelle PGN-Darstellungen
 [Matthias-Francis 23.11.2017](pgnvjs095/examples/mf.html)
 
@@ -108,6 +122,7 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 [PgnViewerJS config-builder](http://mliebelt.github.io/PgnViewerJS/docu/example/config.html)
 
 [DEBUGME](pgnvjs095/examples/aronian.html)
+--->
 
 
 
