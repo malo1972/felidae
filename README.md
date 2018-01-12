@@ -1,6 +1,6 @@
 ![Aenas](Aeneas_and_Turnus.jpg)
 
-# Das Schachspiel fasziniert, weil
+# Das Schachspiel fasziniert, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
 * **... es eine Kunstform ist seit der Strukturierung durch die Perser.**
 * **... es das Spiel der Könige … &amp; Königinnen ist.**
@@ -13,11 +13,11 @@
 * **... man im Schach lernt, Geräusche auszuhalten.** 
 * **... Schach wie das Leben ist: ohne Dame macht es keinen Spass**
 * **... Schach wie das Leben ist: Material alleine macht nicht (immer) glücklich**
-* **... Weil Schach ein göttliches Spiel ist, das auch dem Teufel gefällt.
 * **... Schach ohne Humor undenkbar ist.** 
 * **... Magnus Carlsen zaubern kann.** 
 * **... man im Schach seine Menschenkenntnis schult.** 
 * **... im Schach Kinder und Erwachsene ebenbürtig gegeneinander kämpfen können.** 
+* **... Schach nachweislich das Erinnerungsvermögen und die Geduld schult.**
 * **... auch Weltmeister alberne Fehler machen.** 
 * **... Schach und Fussball gut zusammenpassen.** 
 * **... der Läufer ganz eigene Fragen stellt.** 
