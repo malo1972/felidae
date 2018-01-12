@@ -3,7 +3,7 @@
 # Das Schachspiel fasziniert, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
 * **... es eine Kunstform ist seit der Strukturierung durch die Perser.**
-* **... es das Spiel der Könige … &amp; Königinnen ist.**
+* **... es das Spiel der Könige &amp; Königinnen ist.**
 * **... es ein transkultureller Exportschlager ist.**
 * **... es Ausdrucksform der Schönheit vektorieller Logik ist.**
 * **... es ein kosmopolitisches Vergnügen ist.**
