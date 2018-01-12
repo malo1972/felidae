@@ -96,12 +96,12 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Kontakte
-* **Erstansprechpartner:** René Rohr – tabellarius@felidae.ch
-* **Jugendarbeit:** Matthias Lobmayer – iuventus@felidae.ch
-* **Logistik:** Simon Theus - quaestor@felidae.ch
-* **Operationen:** Luís Oliveira - cancellarius@felidae.ch
-* **Schriftverkehr &amp; Mannschaftskämpfe:** Pascal Fehr - scriptor@felidae.ch
-* **Training:** Marcus Jurij Vogt - exercitor@felidae.ch
+* **Erstansprechpartner:** René Rohr: rohrjr@hispeed.ch
+* **Jugendarbeit:** Matthias Lobmayer: matthias.lobmayer@gmail.com
+* **Logistik:** Simon Theus: simon.theus@gmx.ch
+* **Operationen:** Luís Oliveira: luis.apoliveira@gmail.com
+* **Schriftverkehr &amp; Mannschaftskämpfe:** Pascal Fehr: pascal-fehr@bluewin.ch
+* **Training:** Marcus Jurij Vogt: marcusjurij.vogt@yahoo.com
 
 ***
 
