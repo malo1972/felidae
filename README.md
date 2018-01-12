@@ -9,6 +9,8 @@
 * kosmopolitisches Vergnügen
 * Strategien, Operationen, Taktiken
 
+<iframe width=600 height=400 src="https://lichess.org/study/embed/H8YjnSdz/xTa8skSm" frameborder=0></iframe>
+
 ***
 
 # Wir pflegen
