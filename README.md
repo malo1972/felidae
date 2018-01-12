@@ -9,7 +9,9 @@
 * kosmopolitisches Vergnügen
 * Strategien, Operationen, Taktiken
 
-<iframe width=600 height=400 src="https://lichess.org/study/embed/H8YjnSdz/xTa8skSm" frameborder=0></iframe>
+
+<iframe src="https://lichess.org/study/embed/H8YjnSdz/xTa8skSm#0" width=600 height=371 frameborder=0></iframe>
+
 
 ***
 
@@ -44,7 +46,7 @@ ein kleines Zweiglein die Logik des Aristoteles heißt, hängt ein anderes Zweig
 das sich Strategie im Schachspiel nennt. »** *EMANUEL LASKER: Lehrbuch des
 Schachspiels, Berlin² 1928, 13*
 * **« El Ajedrez es algo más que un juego; es una diversión intelectual que tiene algo
-de Arte y mucho de Ciencia. Es además, un medio de acercamiento social e
+de Arte https://lichess.org/study/embed/H8YjnSdz/xTa8skSmy mucho de Ciencia. Es además, un medio de acercamiento social e
 intelectual. »** *JOSÉ RAOUL CAPABLANCA (1888-1942)*
 * **« Im Schach, wie im Leben, ist der Mensch sich selbst der gefährlichste
 Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
