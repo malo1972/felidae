@@ -1,6 +1,6 @@
 ![Aenas](Aeneas_and_Turnus.jpg)
 
-# Das Schachspiel fasziniert, weil...
+# Schach fasziniert, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
 * **... es eine Kunstform ist seit der Strukturierung durch die Perser.**
 * **... es das Spiel der Könige &amp; Königinnen ist.**
