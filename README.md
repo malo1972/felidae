@@ -88,7 +88,7 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Kalender
-[Veranstaltungen sowie Trainings- und Turniertermine der Schachfreunde Felidae Zürich](calendar.md)
+hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch/turniere/smm/2018/smmspielplan2018.pdf)
 
 <iframe src="https://calendar.google.com/calendar/embed?src=d2c7plclaup7qpr8e8g3v4kcb0%40group.calendar.google.com&ctz=Europe%2FZurich" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
 
