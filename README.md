@@ -79,6 +79,10 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 * **« Viribus unitis. »**
 
 ***
+# Rätsel
+<iframe src="https://livetactics.chessbase.com" width="600" height="400"></iframe>
+
+***
 
 # Institute
 * **Spielabende:** Variiert jahreszeitlich; bei Regen/Sturm/Schnee im Winterlager
