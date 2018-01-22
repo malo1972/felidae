@@ -118,9 +118,13 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 # Weblinks
 [Schweizer Schachbund SSB](http://www.swisschess.ch/startseite_v1.html)
-[lichess](https://lichess.org/)
-[chess.com](https://www.chess.com/)
-[chesstree](http://www.chesstree.net/)
+
+[open source Schachserver lichess](https://lichess.org/)
+
+[kommerzieller Schachserver chess.com](https://www.chess.com/)
+
+[Eröffnungsbaum-Visualisierung chesstree](http://www.chesstree.net/)
+
 [Diagramm Generator](http://www.jinchess.com/chessboard/composer/)
 
 
