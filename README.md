@@ -102,12 +102,12 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Kontakte
+* **Training:** Marcus Jurij Vogt: marcusjurij.vogt@yahoo.com
 * **Erstansprechpartner:** René Rohr: rohrjr@hispeed.ch
-* **Jugendarbeit:** Matthias Lobmayer: matthias.lobmayer@gmail.com
 * **Logistik:** Simon Theus: simon.theus@gmx.ch
 * **Operationen:** Luís Oliveira: luis.apoliveira@gmail.com
 * **Schriftverkehr &amp; Mannschaftskämpfe:** Pascal Fehr: pascal-fehr@bluewin.ch
-* **Training:** Marcus Jurij Vogt: marcusjurij.vogt@yahoo.com
+* **Jugendarbeit:** Matthias Lobmayer: matthias.lobmayer@gmail.com
 
 ***
 
@@ -130,6 +130,8 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 [Diagramm Generator jinchess](http://www.jinchess.com/chessboard/composer/)
 
 [online Spieledatenbank chessgames.com](http://www.chessgames.com/perl/chessgame?gid=1008361)
+
+[Gerhard Hund's Linksammlung teleschach.de](http://www.teleschach.de)
 
 
 <!---
