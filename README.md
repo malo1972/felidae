@@ -109,7 +109,7 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 * **Logistik:** Simon Theus: <simon.theus@gmx.ch>
 * **Operationen:** Luís Oliveira: <luis.apoliveira@gmail.com>
 * **Schriftverkehr &amp; Mannschaftskämpfe:** Pascal Fehr: <pascal-fehr@bluewin.ch>
-* **Jugendarbeit:** Matthias Lobmayer: <matthias.lobmayer@gmail.com>
+* **Web Content &amp; Jugendarbeit:** Matthias Lobmayer: <matthias.lobmayer@gmail.com>
 
 ***
 
