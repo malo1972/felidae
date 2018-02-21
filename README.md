@@ -105,8 +105,7 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Kontakte
-* **Training:** Marcus Jurij Vogt: <marcusjurij.vogt@yahoo.com>
-* **Erstansprechpartner:** René Rohr: <rohrjr@hispeed.ch>
+* **Erstansprechpartner &amp; Training:** Marcus Jurij Vogt: <marcusjurij.vogt@yahoo.com>
 * **Logistik:** Simon Theus: <simon.theus@gmx.ch>
 * **Operationen:** Luís Oliveira: <luis.apoliveira@gmail.com>
 * **Schriftverkehr &amp; Mannschaftskämpfe:** Pascal Fehr: <pascal-fehr@bluewin.ch>
