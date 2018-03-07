@@ -1,7 +1,5 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-![Aenas](Aeneas_and_Turnus.jpg)
-
 # Schach fasziniert, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
 * **... es eine Kunstform ist seit der Strukturierung durch die Perser.**
