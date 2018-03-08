@@ -130,6 +130,8 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [online Spieledatenbank chessgames.com](http://www.chessgames.com/perl/chessgame?gid=1008361)
 
+[Schach-Puzzle Editor Apronus](http://www.apronus.com/chess/wbeditor.php)
+
 [Gerhard Hund's Linksammlung teleschach.de](http://www.teleschach.de)
 
 
