@@ -2,7 +2,8 @@
 
 # Wer wir sind
 Wir, die Schachfreunde Felidae Zürich (SFF) sind eine generationenübergreifende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell 10 Mitgliefern betreiben wir die die Pflege und Förderung von Schachspiel und Kunstschach als universale Kulturgüter in Courtoisie zur Persönlichkeitsentwicklung.
-siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](statuten.md)
+
+siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)
 
 # Schach fasziniert, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
