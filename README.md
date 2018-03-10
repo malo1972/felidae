@@ -1,12 +1,16 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
+# Wer wir sind
+Wir, die Schachfreunde Felidae Zürich (SFF) sind eine generationenübergreifende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell 10 Mitgliefern betreiben wir die die Pflege und Förderung von Schachspiel und Kunstschach als universale Kulturgüter in Courtoisie zur Persönlichkeitsentwicklung.
+siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](statuten.md)
+
 # Schach fasziniert, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
-* **... es eine Kunstform ist seit der Strukturierung durch die Perser.**
-* **... es das Spiel der Könige &amp; Königinnen ist.**
-* **... es ein transkultureller Exportschlager ist.**
-* **... es Ausdrucksform der Schönheit vektorieller Logik ist.**
-* **... es ein kosmopolitisches Vergnügen ist.**
+* **... Schach eine Kunstform ist seit der Strukturierung durch die Perser.**
+* **... Schach das Spiel der Könige &amp; Königinnen ist.**
+* **... Schach ein transkultureller Exportschlager ist.**
+* **... Schach Ausdrucksform der Schönheit vektorieller Logik ist.**
+* **... Schach ein kosmopolitisches Vergnügen ist.**
 * **... Schacheröffnungen so klangvolle Namen haben.** 
 * **... der Rausch im Mittelspiel betörend ist.**
 * **... es eine Lust ist, etwas kaputt zu machen.** 
@@ -114,6 +118,9 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch/turniere/smm/2018/smmspielplan2018.pdf)
 
 <iframe src="https://calendar.google.com/calendar/embed?src=d2c7plclaup7qpr8e8g3v4kcb0%40group.calendar.google.com&ctz=Europe%2FZurich" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
+
+# Events
+[Plus Ultra: Schach und Informatik am 1.3.2018](plusultra/markup.md)
 
 ***
 
