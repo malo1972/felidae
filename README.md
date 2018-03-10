@@ -5,6 +5,16 @@ Wir, die Schachfreunde Felidae Zürich (SFF) sind eine generationenübergreifend
 
 siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)
 
+Wir pflegen
+* **Freuden an Spiel &amp; Rätsellösen**
+* **Courtoisie im Verkehr**
+* **Freundschaften zum Wachsen**
+* **kinder- & familienfreundliche Polysportivität**
+* **experimentier- &amp; naturfreudige Romanophilie**
+* **(Re)Aktionstempo &amp; Schlagfertigkeit**
+* **Lakonismus als rhetorische Tugend**
+* **« Schach am Bach! »**
+
 # Schach fasziniert, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
 * **... Schach eine Kunstform ist seit der Strukturierung durch die Perser.**
@@ -31,18 +41,6 @@ siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatut
 
 <iframe src="https://lichess.org/study/embed/H8YjnSdz/xTa8skSm#0" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
 
-
-***
-
-# Wir pflegen
-* **Freuden an Spiel &amp; Rätsellösen**
-* **Courtoisie im Verkehr**
-* **Freundschaften zum Wachsen**
-* **kinder- & familienfreundliche Polysportivität**
-* **experimentier- &amp; naturfreudige Romanophilie**
-* **(Re)Aktionstempo &amp; Schlagfertigkeit**
-* **Lakonismus als rhetorische Tugend**
-* **« Schach am Bach! »**
 
 ***
 
