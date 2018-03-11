@@ -1,7 +1,7 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Wer wir sind
-Wir, die Schachfreunde Felidae Zürich (SFF) sind eine generationenübergreifende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell 10 Mitgliefern betreiben wir die die Pflege und Förderung von Schachspiel und Kunstschach als universale Kulturgüter in Courtoisie zur Persönlichkeitsentwicklung.
+Wir, die Schachfreunde Felidae Zürich (SFF) sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die die Pflege und Förderung des Schachspiels und Kunstschachs als universelle Kulturgüter in Courtoisie zur Persönlichkeitsentwicklung.
 
 siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)
 
@@ -138,7 +138,7 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [online Spieledatenbank chessgames.com](http://www.chessgames.com/perl/chessgame?gid=1008361)
 
-[Schach-Puzzle Editor Apronus](http://www.apronus.com/chess/wbeditor.php)
+[Videosammlung Gunjan Jani](http://gjchess.com/)
 
 [Gerhard Hund's Linksammlung teleschach.de](http://www.teleschach.de)
 
