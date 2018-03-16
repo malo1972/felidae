@@ -1,11 +1,11 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Wer wir sind
-Wir, die Schachfreunde Felidae Zürich (SFF) sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die die Pflege und Förderung des Schachspiels und Kunstschachs als universelle Kulturgüter in Courtoisie zur Persönlichkeitsentwicklung.
+**Wir, die Schachfreunde Felidae Zürich (SFF) sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die die Pflege und Förderung des Schachspiels und Kunstschachs als universelle Kulturgüter in Courtoisie zur Persönlichkeitsentwicklung.**
 
 siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)
 
-Wir pflegen
+**Wir pflegen**
 * **Freuden an Spiel &amp; Rätsellösen**
 * **Courtoisie im Verkehr**
 * **Freundschaften zum Wachsen**
@@ -14,6 +14,8 @@ Wir pflegen
 * **(Re)Aktionstempo &amp; Schlagfertigkeit**
 * **Lakonismus als rhetorische Tugend**
 * **« Schach am Bach! »**
+
+***
 
 # Schach fasziniert, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
@@ -71,7 +73,6 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 * **« Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing. »** *HELEN KELLER (1880-1968)* 
 
 
-
 ***
 
 # Rhetorik als «Findekunst»
@@ -85,10 +86,11 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 * **« Viribus unitis. »**
 
 ***
+
 # Studien
 <iframe src="https://livetactics.chessbase.com" width="600" height="400"></iframe>
 
-[weitere Studien](studies.md)
+**[weitere Studien](studies.md**
 
 ***
 
@@ -120,12 +122,16 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 <iframe src="https://calendar.google.com/calendar/embed?src=d2c7plclaup7qpr8e8g3v4kcb0%40group.calendar.google.com&ctz=Europe%2FZurich" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
 
+***
+
 # Events
-[Plus Ultra: Schach und Informatik am 1.3.2018](plusultra/markup.md)
+
+**[Plus Ultra: Schach und Informatik am 1.3.2018](plusultra/markup.md)**
 
 ***
 
 # Weblinks
+
 [Schweizer Schachbund SSB swisschess.ch](http://www.swisschess.ch/startseite_v1.html)
 
 [open source Schachserver lichess.org](https://lichess.org/)
@@ -141,6 +147,8 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 [Videosammlung Gunjan Jani](http://gjchess.com/)
 
 [Gerhard Hund's Linksammlung teleschach.de](http://www.teleschach.de)
+
+***
 
 
 <!---
