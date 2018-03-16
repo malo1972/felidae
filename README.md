@@ -75,18 +75,6 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 
 ***
 
-# Rhetorik als «Findekunst»
-* **« Mens sana in corpore sano. »**
-* **« Non quot sed quales. »**
-* **« Non soli cedit. »**
-* **« Rem tene, verba sequentur. »**
-* **« Scientia est potentia. »**
-* **« Suum cuique. »**
-* **« Virtute et exempla. »**
-* **« Viribus unitis. »**
-
-***
-
 # Studien
 <iframe src="https://livetactics.chessbase.com" width="600" height="400"></iframe>
 
