@@ -90,7 +90,7 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 # Studien
 <iframe src="https://livetactics.chessbase.com" width="600" height="400"></iframe>
 
-**[weitere Studien](studies.md**
+**[weitere Studien](studies.md)**
 
 ***
 
