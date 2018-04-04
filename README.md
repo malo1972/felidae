@@ -128,6 +128,8 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [kommerzieller Schachserver chess.com](https://www.chess.com/)
 
+[Eröffnungstrainer memchess.com](http://memchess.com/)
+
 [Eröffnungsbaum-Visualisierung chesstree.net](http://www.chesstree.net/)
 
 [Diagramm Generator jinchess](http://www.jinchess.com/chessboard/composer/)
