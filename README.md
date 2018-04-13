@@ -1,10 +1,10 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Aktuell
-**##Bruno Ganz - ganz nah im Heimatquartier!
+##Bruno Ganz - ganz nah im Heimatquartier!
 ###Filmrevue mit Podiumsgespräch: Samstag, 05. Mai 2018
 ###Talenteshow im Vor- & Nachprogramm
-(Näheres wird noch bekanntgegeben!)**
+**(Näheres wird noch bekanntgegeben!)**
 
 ***
 
