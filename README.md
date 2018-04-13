@@ -1,5 +1,13 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
+# Aktuell
+**Bruno Ganz - ganz nah im Heimatquartier!
+Filmrevue mit Podiumsgespräch: Samstag, 05. Mai 2018
+Talenteshow im Vor- & Nachprogramm
+(Näheres wird noch bekanntgegeben!)**
+
+***
+
 # Wer wir sind
 **Wir, die Schachfreunde Felidae Zürich (SFF) sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die die Pflege und Förderung des Schachspiels und Kunstschachs als universelle Kulturgüter in Courtoisie zur Persönlichkeitsentwicklung.**
 
