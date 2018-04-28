@@ -4,7 +4,9 @@
 ## Bruno Ganz - ganz nah im Heimatquartier!
 **Filmrevue mit Podiumsgespräch: Samstag, 05. Mai 2018**
 **Talenteshow im Vor- & Nachprogramm**
-(Näheres wird noch bekanntgegeben!)
+
+![Image of ticket](ticket.jpg)
+
 
 ***
 
