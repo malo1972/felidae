@@ -107,7 +107,6 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Kontakte
-* **Erstansprechpartner &amp; Training:** Marcus Jurij Vogt - <marcusjurij.vogt@yahoo.com>
 * **Logistik:** Simon Theus - <simon.theus@gmx.ch>
 * **Operationen:** Luís Oliveira - <luis.apoliveira@gmail.com>
 * **Schriftverkehr &amp; Mannschaftskämpfe:** Pascal Fehr - <pascal-fehr@bluewin.ch>
@@ -153,15 +152,6 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 [Gerhard Hund's Linksammlung teleschach.de](http://www.teleschach.de)
 
 ***
-
-# Kunst
-
-![Image of Sanduhr](Sanduhr.jpg)
-
-Die Sanduhr ist ein symbolisches Element der europäischen Malerei. 
-Sie dient als Sinnbild der Vergänglichkeit alles Zeitlichen samt der Besinnung auf die moralprägende Erkenntnis "vita brevis est" / "Das Leben ist kurz."
-
-Der Winterthurer Künstler Martin Schwarz (*1946) hat in seinen Cappricci zum Kunstschach, Eigenart-Verlag, Winterthur 2006, 22,- SFr., auch ein Schachspiel in Sanduhrform samt modifizierten Spielregeln entworfen. Auf diese Weise zeigt er in einer signifikanten Wortmeldung zur Diskussion des Schachs als Kunst musterhaft den stets diskutablen Konnex von Regel und Form.
 
 <!---
 # experimentelle PGN-Darstellungen
