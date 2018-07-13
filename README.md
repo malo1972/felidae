@@ -7,10 +7,8 @@
 
 **Wir pflegen**
 * **Freuden an Spiel &amp; Rätsellösen**
-* **Courtoisie im Verkehr**
 * **Freundschaften zum Wachsen**
 * **kinder- & familienfreundliche Polysportivität**
-* **experimentier- &amp; naturfreudige Romanophilie**
 * **(Re)Aktionstempo &amp; Schlagfertigkeit**
 * **Lakonismus als rhetorische Tugend**
 * **« Schach am Bach! »**
@@ -100,7 +98,7 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 * **Präsident &amp; Mannschaftsführer:** Pascal Fehr - <pascal-fehr@bluewin.ch>
 * **Logistik:** Simon Theus - <simon.theus@gmx.ch>
 * **Operationen:** Luís Oliveira - <luis.apoliveira@gmail.com>
-≈* **Web Content &amp;Jugendarbeit:** Matthias Lobmayer - <matthias.lobmayer@gmail.com>
+* **Web Content &amp;Jugendarbeit:** Matthias Lobmayer - <matthias.lobmayer@gmail.com>
 
 ***
 
