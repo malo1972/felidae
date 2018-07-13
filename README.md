@@ -1,15 +1,5 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-# Aktuell
-## Bruno Ganz - ganz nah im Heimatquartier!
-**Filmrevue mit Podiumsgespräch: Samstag, 05. Mai 2018**
-**Talenteshow im Vor- & Nachprogramm**
-
-![Image of ticket](ticket.jpg)
-
-
-***
-
 # Wer wir sind
 **Wir, die Schachfreunde Felidae Zürich (SFF) sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die die Pflege und Förderung des Schachspiels und Kunstschachs als universelle Kulturgüter in Courtoisie zur Persönlichkeitsentwicklung.**
 
@@ -107,10 +97,10 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Kontakte
+* **Präsident &amp; Mannschaftsführer:** Pascal Fehr - <pascal-fehr@bluewin.ch>
 * **Logistik:** Simon Theus - <simon.theus@gmx.ch>
 * **Operationen:** Luís Oliveira - <luis.apoliveira@gmail.com>
-* **Schriftverkehr &amp; Mannschaftskämpfe:** Pascal Fehr - <pascal-fehr@bluewin.ch>
-* **Web Content &amp; Jugendarbeit:** Matthias Lobmayer - <matthias.lobmayer@gmail.com>
+≈* **Web Content &amp;Jugendarbeit:** Matthias Lobmayer - <matthias.lobmayer@gmail.com>
 
 ***
 
