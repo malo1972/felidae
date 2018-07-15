@@ -68,7 +68,8 @@ intelectual. »** *JOSÉ RAOUL CAPABLANCA (1888-1942)*
 * **« Im Schach, wie im Leben, ist der Mensch sich selbst der gefährlichste
 Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 * **« Die Würde des Menschen ist unantastbar; Bürden des Menschseins milderbar. »**
-* **« Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing. »** *HELEN KELLER (1880-1968)* 
+* **« Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing. »** *HELEN KELLER (1880-1968)*
+* **« Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. »** *SAMUEL BECKETT (1906-1998)* 
 
 
 ***
