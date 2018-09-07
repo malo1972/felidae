@@ -1,14 +1,13 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Wer wir sind
-**Wir, die Schachfreunde Felidae Zürich (SFF) sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die die Pflege und Förderung des Schachspiels und Kunstschachs als universelle Kulturgüter in Courtoisie zur Persönlichkeitsentwicklung.**
+**Wir, die Schachfreunde Felidae Zürich sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die die Pflege und Förderung des Schachspiels als universelles Kulturgut zur Persönlichkeitsentwicklung.**
 
 **siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)**
 
 **Wir pflegen**
 * **Freuden an Spiel &amp; Rätsellösen**
 * **Freundschaften zum Wachsen**
-* **kinder- & familienfreundliche Polysportivität**
 * **(Re)Aktionstempo &amp; Schlagfertigkeit**
 * **Lakonismus als rhetorische Tugend**
 * **« Schach am Bach! »**
@@ -48,10 +47,6 @@
 * **« Wir sind alle Verwandte. »** *Erkenntnis der SIOUX*
 * **« Staunen veranlasste zuerst – wie noch heute – die Menschen zum
 Philosophieren. »** *ARISTOTELES: Metaphysik I 2, 982 b 12*
-* **« Tu ne cede malis, sed contra audentior ito! »** *VERGIL: AENEIS VI, 95*
-* **« Unumquodque autem tendens in suam perfectionem, tendit in divinam
-similitudinem. »** THOMAS VON AQUIN: Summa contra Gentiles III 21 n. 6 
-* **« Quem quis, sempre pôde.. »** *LUÍS VAZ DE CAMÕES (1524/5-1579)*
 * **« Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass
 sie ein allgemeines Gesetz werde. »** *IMMANUEL
 KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant
@@ -84,13 +79,9 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 # Institute
 * **Spielabende:** Variiert jahreszeitlich; bei Regen/Sturm/Schnee im Winterlager
 * **Herbst + Winter:** [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.ch/maps/place/Am+Katzenbach+5/@47.4231163,8.5474614,20z/data=!4m6!3m5!1s0x47900a9852352c7f:0x6f813608f5d3d8ca!4b1!8m2!3d47.4231163!4d8.547735)
-* **Frühling:** GZ Seebach, Hertensteinstraße 20, 8052 ZH-Seebach
 * **Sommer:** Badi Seebach, Glattalstraße 43, 8052 ZH-Seebach
 * **Training:** Jeden Donnerstag ab 18:30 Uhr (außer Feiertage)
 * **Mannschaftskämpfe:** [Restaurant Bürgli, Seebacherstrasse 65, 8052 Zürich](https://www.buergli-seebach.com),  ggf. andere Bekanntgabe an Spielgegner
-* **Trainingslager:** 1x Winter-, 1x Sommerhalbjahr
-* **Schachrallyes:** 1x Frühling-, 1x Herbsthalbjahr
-* **Stammcafé:** Café Ami, Schaffhauserstraße 448, 8052 ZH-Seebach
 * **Freiluftschach:** GZ Seebach, Hertensteinstraße 20, 8052 ZH-Seebach
 
 ***
