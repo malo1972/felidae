@@ -5,6 +5,9 @@
 
 **siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)**
 
+# Spielabend
+**Jeden Donnestags (ausser Feiertage) ab 18:30 im ** [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.ch/maps/place/Am+Katzenbach+5/@47.4231163,8.5474614,20z/data=!4m6!3m5!1s0x47900a9852352c7f:0x6f813608f5d3d8ca!4b1!8m2!3d47.4231163!4d8.547735)
+
 **Wir pflegen**
 * **Freuden an Spiel &amp; Rätsellösen**
 * **Freundschaften zum Wachsen**
@@ -73,16 +76,6 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 <iframe src="https://livetactics.chessbase.com" width="600" height="400"></iframe>
 
 **[weitere Studien](studies.md)**
-
-***
-
-# Institute
-* **Spielabende:** Variiert jahreszeitlich; bei Regen/Sturm/Schnee im Winterlager
-* **Herbst + Winter:** [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.ch/maps/place/Am+Katzenbach+5/@47.4231163,8.5474614,20z/data=!4m6!3m5!1s0x47900a9852352c7f:0x6f813608f5d3d8ca!4b1!8m2!3d47.4231163!4d8.547735)
-* **Sommer:** Badi Seebach, Glattalstraße 43, 8052 ZH-Seebach
-* **Training:** Jeden Donnerstag ab 18:30 Uhr (außer Feiertage)
-* **Mannschaftskämpfe:** [Restaurant Bürgli, Seebacherstrasse 65, 8052 Zürich](https://www.buergli-seebach.com),  ggf. andere Bekanntgabe an Spielgegner
-* **Freiluftschach:** GZ Seebach, Hertensteinstraße 20, 8052 ZH-Seebach
 
 ***
 
