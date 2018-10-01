@@ -8,7 +8,7 @@
 ***
 
 # Spielabend
-**Jeden Donnestag (ausser Feiertage) ab 18:30 im [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.ch/maps/place/Am+Katzenbach+5/@47.4231163,8.5474614,20z/data=!4m6!3m5!1s0x47900a9852352c7f:0x6f813608f5d3d8ca!4b1!8m2!3d47.4231163!4d8.547735)**
+**Jeden Donnerstag (ausser Feiertage) ab 18:30 im [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.ch/maps/place/Am+Katzenbach+5/@47.4231163,8.5474614,20z/data=!4m6!3m5!1s0x47900a9852352c7f:0x6f813608f5d3d8ca!4b1!8m2!3d47.4231163!4d8.547735)**
 
 ***
 
