@@ -5,21 +5,15 @@
 
 **siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)**
 
-# Spielabend
-**Jeden Donnestags (ausser Feiertage) ab 18:30 im ** [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.ch/maps/place/Am+Katzenbach+5/@47.4231163,8.5474614,20z/data=!4m6!3m5!1s0x47900a9852352c7f:0x6f813608f5d3d8ca!4b1!8m2!3d47.4231163!4d8.547735)
+***
 
-**Wir pflegen**
-* **Freuden an Spiel &amp; Rätsellösen**
-* **Freundschaften zum Wachsen**
-* **(Re)Aktionstempo &amp; Schlagfertigkeit**
-* **Lakonismus als rhetorische Tugend**
-* **« Schach am Bach! »**
+# Spielabend
+**Jeden Donnestag (ausser Feiertage) ab 18:30 im [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.ch/maps/place/Am+Katzenbach+5/@47.4231163,8.5474614,20z/data=!4m6!3m5!1s0x47900a9852352c7f:0x6f813608f5d3d8ca!4b1!8m2!3d47.4231163!4d8.547735)**
 
 ***
 
 # Schach fasziniert, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
-* **... Schach eine Kunstform ist seit der Strukturierung durch die Perser.**
 * **... Schach das Spiel der Könige &amp; Königinnen ist.**
 * **... Schach ein transkultureller Exportschlager ist.**
 * **... Schach Ausdrucksform der Schönheit vektorieller Logik ist.**
@@ -36,8 +30,7 @@
 * **... im Schach Kinder und Erwachsene ebenbürtig gegeneinander kämpfen können.** 
 * **... Schach nachweislich das Erinnerungsvermögen und die Geduld schult.**
 * **... auch Weltmeister alberne Fehler machen.** 
-* **... Schach und Fussball gut zusammenpassen.** 
-* **... der Läufer ganz eigene Fragen stellt.** 
+* **... Schach und Fussball gut zusammenpassen.**  
 * **... im Schach kein Problem schwierig genug sein kann.** 
 * **... das erstickte Matt ein ästhetisches Vergnügen ist:**
 
