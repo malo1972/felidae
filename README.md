@@ -39,7 +39,7 @@
 
 ***
 
-# Philosophische Ausgangspunkte
+# geklopfte Sprüche
 * **« Wir sind alle Verwandte. »** *Erkenntnis der SIOUX*
 * **« Staunen veranlasste zuerst – wie noch heute – die Menschen zum
 Philosophieren. »** *ARISTOTELES: Metaphysik I 2, 982 b 12*
