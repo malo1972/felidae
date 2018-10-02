@@ -53,9 +53,7 @@ Diese Vernunft ist (...) ein Teil aller Vernunft (...). An demselben Baume, an d
 ein kleines Zweiglein die Logik des Aristoteles heißt, hängt ein anderes Zweiglein,
 das sich Strategie im Schachspiel nennt. »** *EMANUEL LASKER: Lehrbuch des
 Schachspiels, Berlin² 1928, 13*
-* **« El Ajedrez es algo más que un juego; es una diversión intelectual que tiene algo
-de Arte mucho de Ciencia. Es además, un medio de acercamiento social e
-intelectual. »** *JOSÉ RAOUL CAPABLANCA (1888-1942)*
+* **« Der gute Spieler hat immer Glück. »** *JOSÉ RAOUL CAPABLANCA (1888-1942)*
 * **« Im Schach, wie im Leben, ist der Mensch sich selbst der gefährlichste
 Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 * **« Die Würde des Menschen ist unantastbar; Bürden des Menschseins milderbar. »**
