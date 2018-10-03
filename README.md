@@ -12,7 +12,7 @@
 
 ***
 
-# Schach fasziniert, weil...
+# Schach fasziniert uns, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
 * **... Schach das Spiel der Könige &amp; Königinnen ist.**
 * **... Schach ein transkultureller Exportschlager ist.**
@@ -39,7 +39,7 @@
 
 ***
 
-# geklopfte Sprüche
+# Spruchreif
 * **« Wir sind alle Verwandte. »** *Erkenntnis der SIOUX*
 * **« Staunen veranlasste zuerst – wie noch heute – die Menschen zum
 Philosophieren. »** *ARISTOTELES: Metaphysik I 2, 982 b 12*
