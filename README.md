@@ -70,7 +70,7 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Kontakte
-* **Erstansprechpartner, Präsident &amp; Mannschaftsleiter:** Pascal Fehr - <pascal-fehr@bluewin.ch>
+* **Präsident &amp; Mannschaftsleiter:** Pascal Fehr - <pascal-fehr@bluewin.ch>
 * **Vizepräsident:** Simon Theus - <simon.theus@gmx.ch>
 * **Web Content &amp; Jugendarbeit:** Matthias Lobmayer - <matthias.lobmayer@gmail.com>
 
