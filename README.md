@@ -14,7 +14,7 @@
 
 # Schach fasziniert uns, weil...
 * **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
-* **... Schach das Spiel der Könige &amp; Königinnen ist.**
+* **... Schach das Spiel der KönigInnen ist.**
 * **... Schach ein transkultureller Exportschlager ist.**
 * **... Schach Ausdrucksform der Schönheit vektorieller Logik ist.**
 * **... Schach ein kosmopolitisches Vergnügen ist.**
@@ -70,9 +70,8 @@ Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Kontakte
-* **Präsident &amp; Mannschaftsführer:** Pascal Fehr - <pascal-fehr@bluewin.ch>
-* **Logistik:** Simon Theus - <simon.theus@gmx.ch>
-* **Operationen:** Luís Oliveira - <luis.apoliveira@gmail.com>
+* **Erstansprechpartner, Präsident &amp; Mannschaftsleiter:** Pascal Fehr - <pascal-fehr@bluewin.ch>
+* **Vizepräsident:** Simon Theus - <simon.theus@gmx.ch>
 * **Web Content &amp; Jugendarbeit:** Matthias Lobmayer - <matthias.lobmayer@gmail.com>
 
 ***
