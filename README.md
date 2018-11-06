@@ -91,27 +91,27 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 # Weblinks
 
-[Schweizer Schachbund SSB swisschess.ch](http://www.swisschess.ch/startseite_v1.html)
+[Schweizer Schachbund SSB **swisschess.ch**](http://www.swisschess.ch/startseite_v1.html)
 
-[Turnier-Reglement der SSMM](http://www.swisschess.ch/reglemente.html?file=tl_files/ssb/reglemente/turnier/smm-sgm-D-aug2017.pdf)
+[Turnier-Reglement der **SSMM**](http://www.swisschess.ch/reglemente.html?file=tl_files/ssb/reglemente/turnier/smm-sgm-D-aug2017.pdf)
 
-[Ergebnisse unserer Gruppe Zentral 1 in der 4. Liga der SSMM](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAxOCZhZ3J1cHBlPTYwMyZhbGlnYT02JmFyb3VuZD0x)
+[Ergebnisse unserer Gruppe Zentral 1 in der 4. Liga der **SSMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAxOCZhZ3J1cHBlPTYwMyZhbGlnYT02JmFyb3VuZD0x)
 
-[open source Schachserver lichess.org](https://lichess.org/)
+[open source Schachserver **lichess.org**](https://lichess.org/)
 
-[kommerzieller Schachserver chess.com](https://www.chess.com/)
+[kommerzieller Schachserver **chess.com**](https://www.chess.com/)
 
-[Eröffnungstrainer memchess.com](http://memchess.com/)
+[Eröffnungstrainer **memchess.com**](http://memchess.com/)
 
-[Eröffnungsbaum-Visualisierung chesstree.net](http://www.chesstree.net/)
+[Eröffnungsbaum-Visualisierung **chesstree.net**](http://www.chesstree.net/)
 
-[Diagramm Generator jinchess](http://www.jinchess.com/chessboard/composer/)
+[Diagramm Generator **jinchess**](http://www.jinchess.com/chessboard/composer/)
 
-[online Spieledatenbank chessgames.com](http://www.chessgames.com/perl/chessgame?gid=1008361)
+[online Spieledatenbank **chessgames.com**](http://www.chessgames.com/perl/chessgame?gid=1008361)
 
-[Videosammlung Gunjan Jani](http://gjchess.com/)
+[Videosammlung Gunjan Jani **dirty chess tricks**](http://gjchess.com/)
 
-[Gerhard Hund's Linksammlung teleschach.de](http://www.teleschach.de)
+[Gerhard Hund's Linksammlung **teleschach.de**](http://www.teleschach.de)
 
 ***
 
