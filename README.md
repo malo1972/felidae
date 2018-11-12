@@ -113,7 +113,7 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [Gerhard Hund's Linksammlung **teleschach.de**](http://www.teleschach.de)
 
-[Gemeinschaftszentrum Seebach **gz-zh.ch/gz-seebach/**]https://gz-zh.ch/gz-seebach/)
+[Gemeinschaftszentrum Seebach **gz-zh.ch**](https://gz-zh.ch/gz-seebach/)
 
 ***
 
