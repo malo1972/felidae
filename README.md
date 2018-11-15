@@ -91,7 +91,7 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 # Weblinks
 
-[Schweizer Schachbund SSB **swisschess.ch**](http://www.swisschess.ch/startseite_v1.html)
+[Schweizer Schachbund SSB **swisschess.ch**](http://www.swisschess.ch/home-de.html)
 
 [Turnier-Reglement der **SSMM**](http://www.swisschess.ch/reglemente.html?file=tl_files/ssb/reglemente/turnier/smm-sgm-D-aug2017.pdf)
 
@@ -105,11 +105,11 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [Eröffnungsbaum-Visualisierung **chesstree.net**](http://www.chesstree.net/)
 
-[Diagramm Generator **jinchess**](http://www.jinchess.com/chessboard/composer/)
+[Diagramm Generator **jinchess.com**](http://www.jinchess.com/chessboard/composer/)
 
 [online Spieledatenbank **chessgames.com**](http://www.chessgames.com/perl/chessgame?gid=1008361)
 
-[Videosammlung Gunjan Jani **dirty chess tricks**](http://gjchess.com/)
+[Videosammlung Gunjan Jani ("dirty chess tricks") **gjchess.com**](http://gjchess.com/)
 
 [Gerhard Hund's Linksammlung **teleschach.de**](http://www.teleschach.de)
 
