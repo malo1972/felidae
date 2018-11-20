@@ -41,23 +41,35 @@
 
 # Spruchreif
 * **« Chess is life in miniature. Chess is struggle, chess is battles. »**  *Garry Kasparov*
+
 ***
+
 * **« Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass
 sie ein allgemeines Gesetz werde. »**    *IMMANUEL KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant Werke IV, 421/429, 10–12*
+
 ***
+
 * **« Was die Schachfreunde (...) von einander unterscheidet, nennt man Strategie:
 die Planmäßigkeit, die Zweckmäßigkeit; die Vernunft ihrer Züge.
 Diese Vernunft ist (...) ein Teil aller Vernunft (...). An demselben Baume, an dem
 ein kleines Zweiglein die Logik des Aristoteles heißt, hängt ein anderes Zweiglein,
 das sich Strategie im Schachspiel nennt. »** *EMANUEL LASKER: Lehrbuch des Schachspiels, Berlin² 1928, 13*
+
 ***
+
 * **« Der gute Spieler hat immer Glück. »** *JOSÉ RAOUL CAPABLANCA (1888-1942)*
+
 ***
+
 * **« Im Schach, wie im Leben, ist der Mensch sich selbst der gefährlichste
 Widersacher. »** *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
+
 ***
+
 * **« Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing. »** *HELEN KELLER (1880-1968)*
+
 ***
+
 * **« Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. »** *SAMUEL BECKETT (1906-1998)* 
 
 
