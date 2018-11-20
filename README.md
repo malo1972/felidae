@@ -40,9 +40,7 @@
 ***
 
 # Spruchreif
-* **« Wir sind alle Verwandte. »** *Erkenntnis der SIOUX*
-* **« Staunen veranlasste zuerst – wie noch heute – die Menschen zum
-Philosophieren. »** *ARISTOTELES: Metaphysik I 2, 982 b 12*
+* **« Chess is life in miniature. Chess is struggle, chess is battles. »**  *Garry Kasparov*
 * **« Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass
 sie ein allgemeines Gesetz werde. »** *IMMANUEL
 KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant
