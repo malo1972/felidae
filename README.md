@@ -41,12 +41,11 @@
 
 # Spruchreif
 * **« Chess is life in miniature. Chess is struggle, chess is battles. »**  
-*Garry Kasparov*
+Garry Kasparov*
 ___
 * **« Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass
-sie ein allgemeines Gesetz werde. »** 
-*IMMANUEL
-KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant
+sie ein allgemeines Gesetz werde. »**    
+IMMANUEL KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant
 Werke IV, 421/429, 10–12*
 ___
 * **« Was die Schachfreunde (...) von einander unterscheidet, nennt man Strategie:
@@ -54,7 +53,7 @@ die Planmäßigkeit, die Zweckmäßigkeit; die Vernunft ihrer Züge.
 Diese Vernunft ist (...) ein Teil aller Vernunft (...). An demselben Baume, an dem
 ein kleines Zweiglein die Logik des Aristoteles heißt, hängt ein anderes Zweiglein,
 das sich Strategie im Schachspiel nennt. »** 
-*EMANUEL LASKER: Lehrbuch des Schachspiels, Berlin² 1928, 13*
+EMANUEL LASKER: Lehrbuch des Schachspiels, Berlin² 1928, 13*
 ___
 * **« Der gute Spieler hat immer Glück. »** 
 *JOSÉ RAOUL CAPABLANCA (1888-1942)*
