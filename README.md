@@ -43,8 +43,7 @@
 * **« Chess is life in miniature. Chess is struggle, chess is battles. »**  *Garry Kasparov*
 ___
 * **« Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass
-sie ein allgemeines Gesetz werde. »**    *IMMANUEL KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant
-Werke IV, 421/429, 10–12*
+sie ein allgemeines Gesetz werde. »**    *IMMANUEL KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant Werke IV, 421/429, 10–12*
 ___
 * **« Was die Schachfreunde (...) von einander unterscheidet, nennt man Strategie:
 die Planmäßigkeit, die Zweckmäßigkeit; die Vernunft ihrer Züge.
