@@ -37,19 +37,18 @@
 <iframe src="https://lichess.org/study/embed/H8YjnSdz/xTa8skSm#0" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
 
 
-***
 
 # Spruchreif
 ***
 
-* **« Chess is life in miniature. Chess is struggle, chess is battles. »**  *Garry Kasparov*
+* **« Chess is life in miniature. Chess is struggle, chess is battles. »**  <br/>*Garry Kasparov*
 
 ***
 
 * **« Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass
 sie ein allgemeines Gesetz werde. »**    *IMMANUEL KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant Werke IV, 421/429, 10–12*
 
-***
+___
 
 * **« Was die Schachfreunde (...) von einander unterscheidet, nennt man Strategie:
 die Planmäßigkeit, die Zweckmäßigkeit; die Vernunft ihrer Züge.
@@ -57,7 +56,7 @@ Diese Vernunft ist (...) ein Teil aller Vernunft (...). An demselben Baume, an d
 ein kleines Zweiglein die Logik des Aristoteles heißt, hängt ein anderes Zweiglein,
 das sich Strategie im Schachspiel nennt. »** *EMANUEL LASKER: Lehrbuch des Schachspiels, Berlin² 1928, 13*
 
-***
+---
 
 * **« Der gute Spieler hat immer Glück. »** *JOSÉ RAOUL CAPABLANCA (1888-1942)*
 
