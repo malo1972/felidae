@@ -40,6 +40,8 @@
 ***
 
 # Spruchreif
+***
+
 * **« Chess is life in miniature. Chess is struggle, chess is battles. »**  *Garry Kasparov*
 
 ***
