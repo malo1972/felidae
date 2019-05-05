@@ -109,7 +109,7 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [Turnier-Reglement der **SSMM**](http://www.swisschess.ch/reglemente.html?file=tl_files/ssb/reglemente/turnier/smm-sgm-D-aug2017.pdf)
 
-[Ergebnisse unserer Gruppe Zentral 1 in der 4. Liga der **SSMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAxOCZhZ3J1cHBlPTYwMyZhbGlnYT02JmFyb3VuZD0x)
+[Ergebnisse unserer Gruppe Zentral 1 in der 4. Liga der **SSMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAxOSZhZ3J1cHBlPTYwMyZhbGlnYT02JmFyb3VuZD0y)
 
 [open source Schachserver **lichess.org**](https://lichess.org/)
 
