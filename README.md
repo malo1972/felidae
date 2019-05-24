@@ -1,7 +1,7 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Wer wir sind
-**Wir, die Schachfreunde Felidae Zürich sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die die Pflege und Förderung des Schachspiels als universelles Kulturgut zur Persönlichkeitsentwicklung.**
+**Wir, die Schachfreunde Felidae Zürich sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die Pflege und Förderung des Schachspiels als universelles Kulturgut zur Persönlichkeitsentwicklung.**
 
 **siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)**
 
@@ -13,7 +13,6 @@
 ***
 
 # Schach fasziniert uns, weil...
-* **... es ein göttliches Spiel ist, das auch dem Teufel gefällt.**
 * **... Schach das Spiel der KönigInnen ist.**
 * **... Schach ein transkultureller Exportschlager ist.**
 * **... Schach Ausdrucksform der Schönheit vektorieller Logik ist.**
@@ -45,18 +44,13 @@
 
 ***
 
-* **« Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass
-sie ein allgemeines Gesetz werde. »**  <br/>  *IMMANUEL KANT: Grundlegung zur Metaphysik der Sitten (1785), Akademie- Ausgabe Kant Werke IV, 421/429, 10–12*
-
-___
-
 * **« Was die Schachfreunde (...) von einander unterscheidet, nennt man Strategie:
 die Planmäßigkeit, die Zweckmäßigkeit; die Vernunft ihrer Züge.
 Diese Vernunft ist (...) ein Teil aller Vernunft (...). An demselben Baume, an dem
 ein kleines Zweiglein die Logik des Aristoteles heißt, hängt ein anderes Zweiglein,
 das sich Strategie im Schachspiel nennt. »**  <br/>  *EMANUEL LASKER: Lehrbuch des Schachspiels, Berlin² 1928, 13*
 
----
+***
 
 * **« Der gute Spieler hat immer Glück. »**  <br/>  *JOSÉ RAOUL CAPABLANCA (1888-1942)*
 
