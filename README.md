@@ -123,6 +123,8 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [Gemeinschaftszentrum Seebach **gz-zh.ch**](https://gz-zh.ch/gz-seebach/)
 
+http://sk-freising.de/
+www.stchess.de
 ***
 
 <!---
