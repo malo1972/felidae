@@ -2,8 +2,12 @@
 
 # Aktuell
 **erstes offenes Schachturnier für jedermann am 18.8.2019**
+
 **im [Pavillon der BGZ, Katzenbachweg 5, Zürich Seebach](https://goo.gl/maps/JhksAZdMcmDksooS9)**
+
 **die Ausschreibung zum download: [Flyer Schachopen](Schach Open Flyer.pdf)**
+
+***
 
 # Wer wir sind
 **Wir, die Schachfreunde Felidae Zürich sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die Pflege und Förderung des Schachspiels als universelles Kulturgut zur Persönlichkeitsentwicklung.**
