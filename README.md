@@ -1,11 +1,11 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Aktuell
-**erstes offenes Schachturnier für jedermann am 18.8.2019**
+**erstes offenes Schachturnier für jedermann am Sonntag, 18. August 2019**
 
 **im [Pavillon der BGZ, Katzenbachweg 5, Zürich Seebach](https://goo.gl/maps/JhksAZdMcmDksooS9)**
 
-**die Ausschreibung zum download: [Flyer Schachopen](Schach Open Flyer.pdf)**
+**die Ausschreibung als download: [Flyer Schachopen](Schach Open Flyer.pdf)**
 
 ***
 
