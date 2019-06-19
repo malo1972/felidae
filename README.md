@@ -21,6 +21,8 @@
 # Spielabend
 **Jeden Donnerstag (ausser Feiertage) ab 18:30 im [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.ch/maps/place/Am+Katzenbach+5/@47.4231163,8.5474614,20z/data=!4m6!3m5!1s0x47900a9852352c7f:0x6f813608f5d3d8ca!4b1!8m2!3d47.4231163!4d8.547735)**
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d337.42837733073856!2d8.5474614!3d47.4231163!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900a9852352c7f%3A0x6f813608f5d3d8ca!2sAm+Katzenbach+5%2C+8052+Z%C3%BCrich!5e0!3m2!1sen!2sch!4v1560926301699!5m2!1sen!2sch" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 ***
 
 # Schach fasziniert uns, weil...
