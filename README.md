@@ -118,6 +118,8 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [Ergebnisse unserer Gruppe Zentral 1 in der 4. Liga der **SSMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAxOSZhZ3J1cHBlPTYwMyZhbGlnYT02JmFyb3VuZD0y)
 
+[online Schach Shop Schweiz **chesspoint.ch](https://www.chesspoint.ch/)
+
 [open source Schachserver **lichess.org**](https://lichess.org/)
 
 [kommerzieller Schachserver **chess.com**](https://www.chess.com/)
@@ -136,8 +138,6 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [Gemeinschaftszentrum Seebach **gz-zh.ch**](https://gz-zh.ch/gz-seebach/)
 
-http://sk-freising.de/
-www.stchess.de
 ***
 
 <!---
