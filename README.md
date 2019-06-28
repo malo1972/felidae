@@ -57,11 +57,7 @@
 
 ***
 
-* **« Was die Schachfreunde (...) von einander unterscheidet, nennt man Strategie:
-die Planmäßigkeit, die Zweckmäßigkeit; die Vernunft ihrer Züge.
-Diese Vernunft ist (...) ein Teil aller Vernunft (...). An demselben Baume, an dem
-ein kleines Zweiglein die Logik des Aristoteles heißt, hängt ein anderes Zweiglein,
-das sich Strategie im Schachspiel nennt. »**  <br/>  *EMANUEL LASKER: Lehrbuch des Schachspiels, Berlin² 1928, 13*
+* **« Life like chess is about knowing to do the right move at the right time. »**  <br/>  *Kaleb Rivera*
 
 ***
 
@@ -124,19 +120,6 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [kommerzieller Schachserver **chess.com**](https://www.chess.com/)
 
-[Eröffnungstrainer **memchess.com**](http://memchess.com/)
-
-[Eröffnungsbaum-Visualisierung **chesstree.net**](http://www.chesstree.net/)
-
-[Diagramm Generator **jinchess.com**](http://www.jinchess.com/chessboard/composer/)
-
-[online Spieledatenbank **chessgames.com**](http://www.chessgames.com/perl/chessgame?gid=1008361)
-
-[Videosammlung Gunjan Jani ("dirty chess tricks") **gjchess.com**](http://gjchess.com/)
-
-[Gerhard Hund's Linksammlung **teleschach.de**](http://www.teleschach.de)
-
-[Gemeinschaftszentrum Seebach **gz-zh.ch**](https://gz-zh.ch/gz-seebach/)
 
 ***
 
