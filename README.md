@@ -57,7 +57,7 @@
 
 ***
 
-* **« Life like chess is about knowing to do the right move at the right time. »**  <br/>  *Kaleb Rivera*
+* **« Life like chess is about knowing to do the right move at the right time. »**  <br/>  *KALEB RIVERA*
 
 ***
 
