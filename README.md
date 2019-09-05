@@ -93,7 +93,7 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 **[Plus Ultra: Schach und Informatik am 1.3.2018](plusultra/markup.md)**
 
-**Ergebnisse des 1 Felidae Open am 18.8.2019 [Rangliste](Rangliste1.pdf)**
+**Ergebnisse des 1 Felidae Open am 18.8.2019 [Rangliste](Schlussrangliste SeebacherSchachturnier.pdf)**
 
 
 
