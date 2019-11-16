@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Schach am Bach
 description: Herzlich Willkommen auf der Webseite der Schachfreunde Felidae Zürich
+github:
+  is_project_page: false
