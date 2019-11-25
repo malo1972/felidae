@@ -43,7 +43,7 @@
 
 
 
-# Spruchreif
+# Schachsinn
 ***
 
 * **« Chess is life in miniature. Chess is struggle, chess is battles. »**  <br/>  *GARRY KASPAROV*
