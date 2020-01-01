@@ -50,6 +50,10 @@
 
 ***
 
+* **« Chess is everything: art, science and sport. »**  <br/>  *ANATOLY KARPOV*
+
+***
+
 * **« Life like chess is about knowing to do the right move at the right time. »**  <br/>  *KALEB RIVERA*
 
 ***
