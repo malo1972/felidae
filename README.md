@@ -6,7 +6,7 @@
 **siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)**
 
 
-<iframe src="https://lichess.org/tv/frame?theme=green-plasic&bg=dark" style="width: 600px; height: 400px;" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://lichess.org/tv/frame?theme=green-plasic&bg=light" style="width: 600px; height: 400px;" allowtransparency="true" frameborder="0"></iframe>
 
 ***
 
