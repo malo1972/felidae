@@ -1,7 +1,8 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Wer wir sind
-**Wir, die Schachfreunde Felidae Zürich sind eine Generationen und Kulturen vereinende Interessensgemeinschaft, die zu gesellschaftlicher Integration beitragen will. Mit aktuell zehn Mitgliedern betreiben wir die Pflege und Förderung des Schachspiels als universelles Kulturgut zur Persönlichkeitsentwicklung.**
+**Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des schweizerischen Schachbundes nehmen wir an der Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere. Jeder ist bei uns willkommen, auch Anfänger!
+.**
 
 **siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)**
 
