@@ -4,9 +4,10 @@
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere. 
 Jeder ist bei uns willkommen, auch Anfänger!**
 
-**siehe auch [Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)**
+**siehe auch:
+[Die Vereinsstatuten der Schachfreunde Felidae Zürich](Vereinsstatuten.pdf)**
 
-
+lichess TV:
 <iframe src="https://lichess.org/tv/frame?theme=green&bg=dark" style="width: 600px; height: 400px;" allowtransparency="true" frameborder="0"></iframe>
 
 ***
