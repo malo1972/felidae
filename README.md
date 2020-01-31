@@ -4,19 +4,19 @@
 **Seebach Open im GZ** <br/>
 **Wir veranstalten erneut ein offenes Schachturnier am 29. März 2020 im Gemeinschaftszentrum Seebach**  <br/>
 
-Anwesenheitskontrolle: bis 12 Uhr
-Spielbeginn: 12:30
-Siegerehrung: ca. 17 Uhr
-Achtung Zeitumstellung, Sommerzeit 
+Anwesenheitskontrolle: bis 12 Uhr <br/>
+Spielbeginn: 12:30 <br/>
+Siegerehrung: ca. 17 Uhr <br/>
+Achtung Zeitumstellung, Sommerzeit <br/>
 
-Modus:
-7 Runden Schweizer System
-Bedenkzeit: 15 min
-Kategorien: U8, U12, U16, Open
-Gewinne: Pokale je Kategorie und Sachpreise
+Modus: <br/>
+7 Runden Schweizer System <br/>
+Bedenkzeit: 15 min <br/>
+Kategorien: U8, U12, U16, Open <br/>
+Gewinne: Pokale je Kategorie und Sachpreise<br/>
 
-Anmeldung via mail bis 25. 3. an: pascal-fehr@bluewin.ch
-Gebühr10 CHF, Essen und Trinken im Angebot
+Anmeldung via mail bis 25. 3. an: pascal-fehr@bluewin.ch <br/>
+Gebühr: 10 CHF, Essen und Trinken im Angebot <br/>
 
 **siehe auch:**  <br/>
 **[Ausschreibung 2. Seebach Open](Auschreibung2020.pdf)**
