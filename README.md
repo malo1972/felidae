@@ -19,7 +19,7 @@ Anmeldung via mail bis 25. 3. an: pascal-fehr@bluewin.ch <br/>
 Gebühr: 10 CHF, Essen und Trinken im Angebot <br/>
 
 **siehe auch:**  <br/>
-**[Ausschreibung 2. Seebach Open](Auschreibung2020.pdf)**
+**[Ausschreibung 2. Seebach Open](Ausschreibung2020.pdf)**
 
 
 # Wer wir sind
