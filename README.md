@@ -1,4 +1,26 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+ 
+# Aktuell
+**Seebach Open im GZ**
+**Wir veranstalten erneut ein offenes Schachturnier am 29. März 2020 im Gemeinschaftszentrum Seebach**  <br/>
+
+Anwesenheitskontrolle: bis 12 Uhr
+Spielbeginn: 12:30
+Siegerehrung: ca. 17 Uhr
+Achtung Zeitumstellung, Sommerzeit 
+
+Modus:
+7 Runden Schweizer System
+Bedenkzeit: 15 min
+Kategorien: U8, U12, U16, Open
+Gewinne: Pokale je Kategorie und Sachpreise
+
+Anmeldung via mail bis 25. 3. an: pascal-fehr@bluewin.ch
+Gebühr10 CHF, Essen und Trinken im Angebot
+
+**siehe auch:**  <br/>
+**[Ausschreibung 2. Seebach Open](Ausschreibung2020.pdf)**
+
 
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
