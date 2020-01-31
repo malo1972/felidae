@@ -1,7 +1,7 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
 # Aktuell
-**Seebach Open im GZ**
+**Seebach Open im GZ** <br/>
 **Wir veranstalten erneut ein offenes Schachturnier am 29. März 2020 im Gemeinschaftszentrum Seebach**  <br/>
 
 Anwesenheitskontrolle: bis 12 Uhr
@@ -19,7 +19,7 @@ Anmeldung via mail bis 25. 3. an: pascal-fehr@bluewin.ch
 Gebühr10 CHF, Essen und Trinken im Angebot
 
 **siehe auch:**  <br/>
-**[Ausschreibung 2. Seebach Open](Ausschreibung2020.pdf)**
+**[Ausschreibung 2. Seebach Open](Auschreibung2020.pdf)**
 
 
 # Wer wir sind
