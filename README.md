@@ -2,11 +2,9 @@
  
 # Aktuell
 **Seebach Open** <br/>
-**Wir veranstalten erneut ein offenes Schachturnier am Sonntag, 29. März 2020 <br/>
-im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/), Hertensteinstr. 20, 8052 Zürich**  <br/>
+**Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/) durchführen.** <br/>
 
-**siehe auch:**  <br/>
-**[Ausschreibung 2. Seebach Open](Ausschreibung2020.pdf)**
+**Stattdessen werden wir für den gleichen Termin ein online-Turnier unter www.lichess.org organisieren. Stay tuned!** <br/>
 
 Anwesenheitskontrolle: bis 12 Uhr <br/>
 Spielbeginn: 12:30 <br/>
