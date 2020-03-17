@@ -4,7 +4,7 @@
 **Seebach Open** <br/>
 **Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/) durchführen.** <br/>
 
-**Stattdessen werden wir für den gleichen Termin ein online-Turnier unter www.lichess.org organisieren. Stay tuned!** <br/>
+**Stattdessen werden wir für den gleichen Termin ein online-Turnier natürlich kostenfrei auf [LICHESS](www.lichess.org) organisieren. Stay tuned!** <br/>
 
 Anwesenheitskontrolle: bis 12 Uhr <br/>
 Spielbeginn: 12:30 <br/>
@@ -18,7 +18,7 @@ Kategorien: U8, U12, U16, Open <br/>
 Gewinne: Pokale je Kategorie und Sachpreise<br/>
 
 Anmeldung via mail bis 25. 3. an: pascal-fehr@bluewin.ch <br/>
-Gebühr: 10 CHF, Essen und Trinken im Angebot <br/>
+
 
 
 # Wer wir sind
