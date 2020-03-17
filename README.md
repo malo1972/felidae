@@ -2,7 +2,7 @@
  
 # Aktuell
 **Seebach Open** <br/>
-**Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/) durchführen.** <br/>
+**Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/) durchführen, um das Virus in SCHACH zu halten.** <br/>
 
 **Stattdessen werden wir für den gleichen Termin ein online-Turnier natürlich kostenfrei auf [LICHESS](https://lichess.org/) organisieren. Stay tuned!** <br/>
 
