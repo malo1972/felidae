@@ -5,19 +5,16 @@
 **Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [GZ Seebach](https://gz-zh.ch/gz-seebach/) durchführen, um das Virus in SCHACH zu halten.** <br/>
 **Stattdessen haben wir für den gleichen Termin ein online-Turnier auf lichess organisiert:** <br/>
 <br/>
-**>>>>>>>>>>>>>     [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)     <<<<<<<<<<<** <br/>
+**>>>>>>>>>>>>>>>>>>>     [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)     <<<<<<<<<<<<<<<<<<** <br/>
 <br/>
 
-Spielbeginn: 12:30, bitte rechtzeitig den link öffnen<br/>
+Spielbeginn: 12:30, bitte rechtzeitig den Link öffnen<br/>
 Achtung Zeitumstellung, Sommerzeit! <br/>
 
-Modus: <br/>
-lichess Arena, Details [hier](https://lichess.org/tournament/help?system=arena) <br/>
-Während der Turnierzeit von 3 Stunden (also bis 15:30) werden soviele Partien gespielt wie möglich, wer Pause machen will, sollte den Pausen-Button drücken, ansonsten würde er in Abwesenheit zu einer Partie zugeteilt.
+Modus: lichess Arena, Details [hier](https://lichess.org/tournament/help?system=arena) <br/>
+Während der Turnierzeit von 3 Stunden (also bis 15:30) werden soviele Partien gespielt wie möglich, wer Pause machen will, sollte den Pause-Button drücken, ansonsten würde eine Partie in Abwesenheit gestartet.
 
 Bedenkzeit: 10 min, kein Inkrement <br/>
-
-
 
 
 # Wer wir sind
