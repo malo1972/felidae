@@ -6,7 +6,7 @@
 <br/>
 **Stattdessen haben wir für den gleichen Termin ein online-Turnier auf lichess organisiert: ** <br/>
 <br/>
-**>>>>>>>>>>>>>[Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)<<<<<<<<** <br/>
+**>>>>>>>>>>>>>     [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)     <<<<<<<<<<<** <br/>
 <br/>
 
 Spielbeginn: 12:30, bitte rechtzeitig den link öffnen<br/>
