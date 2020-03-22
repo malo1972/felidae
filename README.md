@@ -8,6 +8,8 @@
 **>>>>>>>>>>>>>>>>>>>     [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)     <<<<<<<<<<<<<<<<<<** <br/>
 <br/>
 
+Teilnehmer müssen in einem lichess account angemeldet sein. Eltern können für Kinder in den Einstellungen des Profils einen Kids-Mode aktivieren. Damit werden chats unmöglich. <br/>
+<br/>
 Spielbeginn: 12:30, bitte rechtzeitig den Link öffnen<br/>
 Achtung Zeitumstellung, Sommerzeit! <br/>
 
