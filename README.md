@@ -1,7 +1,8 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
 # Aktuell
-**Seebach Open** <br/>
+**Seebach Open, offenes Schachturnier:** <br/>
+<br/>
 **Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [GZ Seebach](https://gz-zh.ch/gz-seebach/) durchführen, um das Virus in SCHACH zu halten.** <br/>
 <br/>
 **Stattdessen spielen wir am Sonntag, 29.3., 12:30 ein online-Turnier auf lichess:** <br/>
