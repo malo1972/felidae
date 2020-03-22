@@ -3,9 +3,9 @@
 # Aktuell
 **Seebach Open** <br/>
 **Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [GZ Seebach](https://gz-zh.ch/gz-seebach/) durchführen, um das Virus in SCHACH zu halten.** <br/>
-**Stattdessen haben wir für den gleichen Termin ein online-Turnier auf lichess organisiert:** <br/>
+**Stattdessen spielen wir am Sonntag, 29.3. ein online-Turnier auf lichess:** <br/>
 <br/>
-**>>>>>>>>>>>>>>>>>>>     [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)     <<<<<<<<<<<<<<<<<<** <br/>
+**>>>>>>>>>>>>>>>>>>>>>>>     [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)       <<<<<<<<<<<<<<<<<<<<<** <br/>
 <br/>
 
 Teilnehmer müssen in einem lichess account angemeldet sein. Eltern können für Kinder in den Einstellungen des Profils einen Kids-Mode aktivieren. Damit werden chats unmöglich. <br/>
