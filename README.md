@@ -3,6 +3,7 @@
 # Aktuell
 **Seebach Open** <br/>
 **Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [GZ Seebach](https://gz-zh.ch/gz-seebach/) durchführen, um das Virus in SCHACH zu halten.** <br/>
+<br/>
 **Stattdessen spielen wir am Sonntag, 29.3., 12:30 ein online-Turnier auf lichess:** <br/>
 <br/>
 **>>>>>>>>>>>>>>>>>>>>>>>     [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)       <<<<<<<<<<<<<<<<<<<<<** <br/>
@@ -14,7 +15,7 @@ Eltern können für Kinder in den Einstellungen des Profils einen Kids-Mode akti
 Spielbeginn: 12:30, bitte rechtzeitig den Link öffnen<br/>
 Achtung Zeitumstellung, Sommerzeit! <br/>
 
-Modus: lichess Arena, Details [hier](https://lichess.org/tournament/help?system=arena) Bedenkzeit: 10 min, kein Inkrement <br/>
+Modus: lichess Arena, Details [hier](https://lichess.org/tournament/help?system=arena). Bedenkzeit: 10 min, kein Inkrement <br/>
 Während der Turnierzeit von 3 Stunden (also bis 15:30) werden soviele Partien gespielt wie möglich, wer Pause machen will, sollte den Pause-Button drücken, ansonsten würde eine Partie in Abwesenheit gestartet.
 
 
