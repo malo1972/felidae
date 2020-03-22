@@ -2,22 +2,19 @@
  
 # Aktuell
 **Seebach Open** <br/>
-**Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/) durchführen, um das Virus in SCHACH zu halten.** <br/>
+**Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [GZ Seebach](https://gz-zh.ch/gz-seebach/) durchführen, um das Virus in SCHACH zu halten.** <br/>
 
-**Stattdessen werden wir für den gleichen Termin ein online-Turnier natürlich kostenfrei auf [LICHESS](https://lichess.org/) organisieren. Stay tuned!** <br/>
+**Stattdessen haben wir für den gleichen Termin ein online-Turnier auf lichess organisiert: ** <br/>
 
-Anwesenheitskontrolle: bis 12 Uhr <br/>
-Spielbeginn: 12:30 <br/>
-Siegerehrung: ca. 17 Uhr <br/>
+**>>>>>>>>>>>>>[Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)<<<<<<<<** <br/>
+
+Spielbeginn: 12:30, bitte rechtzeitig den link öffnen<br/>
 Achtung Zeitumstellung, Sommerzeit! <br/>
 
 Modus: <br/>
-7 Runden Schweizer System <br/>
-Bedenkzeit: 15 min <br/>
-Kategorien: U8, U12, U16, Open <br/>
-Gewinne: Pokale je Kategorie und Sachpreise<br/>
+lichess Arena Modus, Details [hier](https://lichess.org/tournament/help?system=arena) <br/>
+Bedenkzeit: 10 min, kein Inkrement <br/>
 
-Anmeldung via mail bis 25. 3. an: pascal-fehr@bluewin.ch <br/>
 
 
 
