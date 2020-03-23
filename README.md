@@ -9,7 +9,6 @@
 <br/>
 ## [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6) <br/>
 <br/>
-
 Teilnehmer müssen in einem lichess-account angemeldet sein. <br/>
 Eltern können für Kinder in den Einstellungen des Profils einen Kids-Mode aktivieren. Damit werden chats unmöglich. <br/>
 <br/>
