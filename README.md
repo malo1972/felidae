@@ -5,7 +5,7 @@
 <br/>
 **Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [GZ Seebach](https://gz-zh.ch/gz-seebach/) durchführen, um das Virus in SCHACH zu halten.** <br/>
 <br/>
-**Stattdessen veranstalten wir am Sonntag, 29.3., 12:30 ein online-Turnier auf lichess:** <br/>
+**Stattdessen veranstalten wir am Sonntag, 29.3., 12:30 (Achtung, Sommerzeit!) ein online-Turnier auf lichess:** <br/>
 <br/>
 ##           [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)    <br/>
 <br/>
