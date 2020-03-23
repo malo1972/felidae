@@ -7,7 +7,7 @@
 <br/>
 **Stattdessen veranstalten wir am Sonntag, 29.3., 12:30 ein online-Turnier auf lichess:** <br/>
 <br/>
-## ****        [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)       **** <br/>
+## [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6) <br/>
 <br/>
 
 Teilnehmer müssen in einem lichess-account angemeldet sein. <br/>
