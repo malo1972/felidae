@@ -9,10 +9,10 @@
 <br/>
 ##           [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)    <br/>
 <br/>
-Teilnehmer müssen in einem lichess-account angemeldet sein. Mit dem JOIN-Button tritt man dem Tunrnier bei. <br/>
+Teilnehmer müssen in einem lichess-account angemeldet sein. <br/>Mit dem JOIN-Button tritt man dem Tunrnier bei. <br/>
 Eltern können für Kinder in den Einstellungen des Profils einen Kids-Mode aktivieren. Damit werden chats verunmöglicht. <br/>
 <br/>
-Spielbeginn: 12:30, bitte rechtzeitig den Link öffnen<br/>
+Spielbeginn: 12:30, bitte rechtzeitig den Link öffnen <br/>
 Achtung Zeitumstellung, Sommerzeit! <br/>
 
 Modus: lichess Arena, Details [hier](https://lichess.org/tournament/help?system=arena). Bedenkzeit: 10 min, kein Inkrement. <br/>
