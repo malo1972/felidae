@@ -1,23 +1,5 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
-# Aktuell
-**Seebach Open, offenes Schachturnier:** <br/>
-<br/>
-**Wegen des Corona Lockdown dürfen wir unser geplantes Turnier leider nicht im [GZ Seebach](https://gz-zh.ch/gz-seebach/) durchführen, um das Virus in SCHACH zu halten.** <br/>
-<br/>
-**Stattdessen veranstalten wir am Sonntag, 29.3., 12:30 (Achtung, Sommerzeit!) ein online-Turnier auf lichess:** <br/>
-<br/>
-##           [Seebach Open: Link zum Turnier](https://lichess.org/tournament/1h9V1Zr6)    <br/>
-<br/>
-Teilnehmer müssen in einem lichess-account angemeldet sein. <br/>Mit dem JOIN-Button tritt man dem Turnier bei. <br/>
-Eltern können für Kinder in den Einstellungen des Profils einen Kids-Mode aktivieren. Damit werden chats verunmöglicht. <br/>
-<br/>
-Spielbeginn: 12:30, bitte rechtzeitig den Link öffnen <br/>
-Achtung Zeitumstellung, Sommerzeit! <br/>
-
-Modus: lichess Arena, Details [hier](https://lichess.org/tournament/help?system=arena). Bedenkzeit: 10 min, kein Inkrement. <br/>
-Während der Turnierzeit von 3 Stunden (also bis 15:30) werden soviele Partien gespielt wie möglich. <br/> Wer Pause machen will, sollte den Pause-Button ( || ) drücken, ansonsten würde eine Partie in Abwesenheit gestartet und gewertet.
-
 
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
@@ -32,7 +14,7 @@ Während der Turnierzeit von 3 Stunden (also bis 15:30) werden soviele Partien g
 
 ***
 
-# Spielabend
+# Spielabend (findet zur Zeit wegen Corona nicht statt)
 **Jeden Donnerstag (ausser Feiertage) ab 18:30 im [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.com/maps/place/Schach+am+Bach/@47.422994,8.5453721,17z/data=!3m1!4b1!4m5!3m4!1s0x47900befc7371097:0x3603d9d75790c6d3!8m2!3d47.422994!4d8.5475608)**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2699.4332909430786!2d8.545372115624163!3d47.422993979172944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900befc7371097%3A0x3603d9d75790c6d3!2sSchach%20am%20Bach!5e0!3m2!1sde!2sch!4v1577882013860!5m2!1sde!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
