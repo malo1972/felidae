@@ -124,7 +124,7 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 [kommerzieller Schachserver **chess.com**](https://www.chess.com/)
 
-[lichess Teampage **Schach am Bach**](https://lichess.org/team/schach-am-bach)
+[unsere lichess Teampage **Schach am Bach**](https://lichess.org/team/schach-am-bach)
 
 
 ***
