@@ -1,6 +1,6 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
-# Aktuell
+# Aktuell: Seebach Open 16.8.
 **vorbehaltlich Corona-bedingter Auflagen - in jedem Fall mit präventiven Schutzmassnahmen - veranstalten wir ein offenes Schachturnier am Sonntag, 16.8.2020 im Gemeinschaftszentrum Seebach.**  <br/>
 
 **siehe auch:**  <br/>
