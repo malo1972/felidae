@@ -1,5 +1,10 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
+# Aktuell
+**vorbehaltlich Corona-bedingter Auflagen -in jedem Fall mit präventiven Sicherheitsmassnahmen- planen wir ein offenes Schachturnier am Sonntag, 16.8.2020 im Gemeinschaftszentrum Seebach.**  <br/>
+
+**siehe auch:**  <br/>
+**[Ausschreibung Seebach Open](Ausschreibung2020.pdf)**
 
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
