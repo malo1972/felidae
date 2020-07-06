@@ -67,7 +67,7 @@
 
 ***
 
-* **« Du musst Deinen Gegner in einen tiefen dunklen Wald führen wo 2+2=5 ist und wo der Weg, der wieder hinausführt, nur breit genug für einen ist. »**  <br/>  *MICHAIL TAL*
+* **« Du musst Deinen Gegner in einen tiefen dunklen Wald führen wo 2+2=5 ist und wo der Weg, der wieder hinausführt, nur breit genug für einen ist. »**  <br/>  *MICHAIL TAL (1936-1992)*
 
 ***
 
