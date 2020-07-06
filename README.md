@@ -67,6 +67,10 @@
 
 ***
 
+* **« Du musst Deinen Gegner in einen tiefen dunklen Wald führen wo 2+2=5 ist und wo der Weg, der wieder hinausführt, nur breit genug für einen ist. »**  <br/>  *MICHAIL TAL*
+
+***
+
 * **« Der gute Spieler hat immer Glück. »**  <br/>  *JOSÉ RAOUL CAPABLANCA (1888-1942)*
 
 ***
