@@ -3,6 +3,17 @@
 # Aktuell: Seebach Open 16.8.
 **vorbehaltlich Corona-bedingter Auflagen - in jedem Fall mit präventiven Schutzmassnahmen - veranstalten wir ein offenes Schachturnier am Sonntag, 16.8.2020 im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/).**  <br/>
 
+**Anwesenheitskontrolle: bis 12 Uhr <br/>
+Spielbeginn: 12:30 <br/>
+Siegerehrung: ca. 17 Uhr <br/>**
+
+**Modus: <br/>
+7 Runden Schweizer System <br/>
+Bedenkzeit: 15 min <br/>
+Sonderwertungen: U8, U12, U16 <br/>
+Pokale je Altersklasse und Sachpreise <br/>
+Geldpreise für die besten 3 des Turniers (200 CHF, 100 CHF, 50 CHF)**
+
 **siehe auch:**  <br/>
 **[Ausschreibung Seebach Open](Ausschreibung2020.pdf)**
 
