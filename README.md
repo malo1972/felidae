@@ -3,6 +3,8 @@
 # Aktuell: Seebach Open 16.8.
 **Wir veranstalten ein offenes Schachturnier am Sonntag, 16.8.2020 im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/).**  <br/>
 <br/>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d674.8373233192225!2d8.543658564054033!3d47.4246320614975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x485fa31d76d9e4a3!2sGZ%20Seebach%20-%20Z%C3%BCrcher%20Gemeinschaftszentren!5e0!3m2!1sde!2sch!4v1597395372347!5m2!1sde!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<br/>
 **das [aktuelle Schutzkonzept des SSB](http://www.swisschess.ch/tl_files/ssb/Covid-19/SSB-Empfehlungen%20Covid-19.pdf) findet für dieses Turnier Anwendung, bitte vor Turnierbeginn durchlesen. Covid-19 Contact Tracing: Bitte bei der Anmeldung Adresse und Telefonnummer angeben.** <br/>
 <br/>
 **Anwesenheitskontrolle: bis 12 Uhr <br/>
