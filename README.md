@@ -1,8 +1,10 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
 # Aktuell: Seebach Open 16.8.
-**vorbehaltlich Corona-bedingter Auflagen - in jedem Fall mit präventiven Schutzmassnahmen - veranstalten wir ein offenes Schachturnier am Sonntag, 16.8.2020 im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/).**  <br/>
-
+**Wir veranstalten ein offenes Schachturnier am Sonntag, 16.8.2020 im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/).**  <br/>
+<br/>
+**das [aktuelle Schutzkonzept des SSB](http://www.swisschess.ch/tl_files/ssb/Covid-19/SSB-Empfehlungen%20Covid-19.pdf) findet für dieses Turnier Anwendung, bitte vor Turnierbeginn durchlesen!** <br/>
+<br/>
 **Anwesenheitskontrolle: bis 12 Uhr <br/>
 Spielbeginn: 12:30 <br/>
 Siegerehrung: ca. 17 Uhr <br/>**
@@ -110,7 +112,8 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 # Kontakte
 * **Präsident &amp; Mannschaftsleiter:** Pascal Fehr - <pascal-fehr@bluewin.ch>
 * **Vizepräsident:** Simon Theus - <simon.theus@gmx.ch>
-* **Web Content &amp; Jugendarbeit:** Matthias Lobmayer - <matthias.lobmayer@gmail.com>
+* **Schachtrainer Kinder/Jugend:** Andreas Poncini - <andreas.poncini@ponciniconsulting.ch>
+* **Web Content:** Matthias Lobmayer - <matthias.lobmayer@gmail.com>
 
 ***
 
