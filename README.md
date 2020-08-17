@@ -1,25 +1,8 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
 # Aktuell: Seebach Open 16.8.
-**Wir veranstalten ein offenes Schachturnier am Sonntag, 16.8.2020 im [Gemeinschaftszentrum Seebach](https://gz-zh.ch/gz-seebach/).**  <br/>
-<br/>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d674.8373233192225!2d8.543658564054033!3d47.4246320614975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x485fa31d76d9e4a3!2sGZ%20Seebach%20-%20Z%C3%BCrcher%20Gemeinschaftszentren!5e0!3m2!1sde!2sch!4v1597395372347!5m2!1sde!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-<br/>
-**das [aktuelle Schutzkonzept des SSB](http://www.swisschess.ch/tl_files/ssb/Covid-19/SSB-Empfehlungen%20Covid-19.pdf) findet für dieses Turnier Anwendung, bitte vor Turnierbeginn durchlesen. Covid-19 Contact Tracing: Bitte bei der Anmeldung Adresse und Telefonnummer angeben.** <br/>
-<br/>
-**Anwesenheitskontrolle: bis 12 Uhr <br/>
-Spielbeginn: 12:30 <br/>
-Siegerehrung: ca. 17 Uhr <br/>**
-
-**Modus: <br/>
-7 Runden Schweizer System <br/>
-Bedenkzeit: 15 min <br/>
-Sonderwertungen: U8, U12, U16 <br/>
-Pokale je Altersklasse und Sachpreise <br/>
-Geldpreise für die besten 3 des Turniers (200 CHF, 100 CHF, 50 CHF)**
-
-**siehe auch:**  <br/>
-**[Ausschreibung Seebach Open](Ausschreibung2020.pdf)**
+**Vielen Dank an alle Sponsoren, Helfer und Teilnehmer!**  <br/>
+**[Rangliste des 2. Seebach Open](SeebachOpen2020.pdf)**
 
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
@@ -126,11 +109,11 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 ***
 
-# Events
+# Turniere
 
-**[Plus Ultra: Schach und Informatik am 1.3.2018](plusultra/markup.md)**
+**[Rangliste des 1. Seebach Open am 18.8.2019](Schlussrangliste SeebacherSchachturnier.pdf)**
 
-**[Rangliste des 1 Felidae Open am 18.8.2019](Schlussrangliste SeebacherSchachturnier.pdf)**
+**[Rangliste des 2. Seebach Open am 16.8.2020](SeebachOpen2020.pdf)**
 
 
 
