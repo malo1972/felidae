@@ -2,6 +2,7 @@
  
 # Aktuell: "Einer Gegen Alle" <br/>
 **Wir veranstalten für Kinder und Jugendliche ein Schach-Simultan gegen unseren (Ex-Nati-B) Spieler Andreas Poncini. Im Anschluss Apero mit Informationen für die Eltern.** <br/> <br/> 
+**Anmeldung bis 2.10. via mail an: 	Andreas Poncini - <andreas.poncini@ponciniconsulting.ch> oder via SMS an 079 235 30 87**<br/> 
 **Flyer zum download: [Flyer Schach Simultan 7.10.](FlyerChessSimul.pdf)** <br/> <br/>
 **Wann?   Mittwoch, 7.10.2020 ab 15 Uhr** <br/>
 **Wo?     [Pavillon der BGZ, Katzenbachweg 5, 8052 Zürich](https://goo.gl/maps/rLVgay9XPNBcbkgq8)**  <br/> 
