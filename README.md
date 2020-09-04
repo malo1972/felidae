@@ -1,8 +1,13 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
-# Aktuell: Seebach Open 16.8.
-**Vielen Dank an alle Sponsoren, Helfer und Teilnehmer!**  <br/>
-**[Rangliste des 2. Seebach Open](SeebachOpen2020.pdf)**
+# Aktuell: "Einer Gegen Alle" <br/>
+**Wir veranstalten für Kinder und Jugendliche ein Schach-Simultan gegen unseren (Ex-Nati-B) Spieler Andreas Poncini ** <br/>
+**Apero im Anschluss mit Informationen für die Eltern. ** <br/> 
+Wann? Mittwoch, 7.10.2020 ab 15 Uhr
+Wo? [Pavillon der BGZ, Katzenbachweg 5, 8052 Zürich] (https://goo.gl/maps/rLVgay9XPNBcbkgq8)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2699.4624884803948!2d8.545750216618782!3d47.422424572682246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900a99b7af542f%3A0xc4ae59a28a414eee!2sKatzenbachweg%205%2C%208052%20Z%C3%BCrich!5e0!3m2!1sde!2sch!4v1599210138825!5m2!1sde!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+**Alle Informationen: [Flyer Schach Simultan 7.10.](FlyerChessSimul.pdf)**
 
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
@@ -11,6 +16,7 @@
 
 **siehe auch:**  <br/>
 **[Die Vereinsstatuten des Schachclub Felidae Zürich](Vereinsstatuten.pdf)**
+
 
 **lichess TV:** <br/>
 <iframe src="https://lichess.org/tv/frame?theme=green&bg=dark" style="width: 600px; height: 400px;" allowtransparency="true" frameborder="0"></iframe>
