@@ -128,7 +128,9 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 
 # Weblinks
 
-[Schweizer Schachbund SSB **swisschess.ch**](http://www.swisschess.ch/home-de.html)
+[Schweizer Schachbund **SSB**](http://www.swisschess.ch/home-de.html)
+
+[Zürcher Schachverband **ZSV**](http://www.zuercher-schachverband.ch/)
 
 [Turnier-Reglement der **SSMM**](http://www.swisschess.ch/reglemente.html?file=tl_files/ssb/reglemente/turnier/smm-sgm-D-aug2017.pdf)
 
@@ -137,8 +139,6 @@ hier finden sich Termine wie die des [SMM Spielplan](http://test01.swisschess.ch
 [online Schach Shop Schweiz **chesspoint.ch**](https://www.chesspoint.ch/)
 
 [open source Schachserver **lichess.org**](https://lichess.org/)
-
-[kommerzieller Schachserver **chess.com**](https://www.chess.com/)
 
 [unsere lichess Teampage **Schach am Bach**](https://lichess.org/team/schach-am-bach)
 
