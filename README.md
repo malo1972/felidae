@@ -1,15 +1,5 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
-# Aktuell: "Einer Gegen Alle" <br/>
-**Wir veranstalten für Kinder und Jugendliche ein Schach-Simultan gegen unseren (Ex-Nati-B) Spieler Andreas Poncini. Im Anschluss Apero mit Informationen für die Eltern.** <br/> <br/> 
-**Anmeldung bis 2.10. via mail an: 	Andreas Poncini - <andreas.poncini@ponciniconsulting.ch> oder via SMS an 079 235 30 87**<br/> <br/> 
-**[Flyer zum download](FlyerChessSimul.pdf)** <br/> <br/>
-**Wann?   Mittwoch, 07.10.2020 ab 15 Uhr** <br/>
-**Wo?     [Pavillon der BGZ, Katzenbachweg 5, 8052 Zürich](https://goo.gl/maps/rLVgay9XPNBcbkgq8)**  <br/> 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2699.4624884803948!2d8.545750216618782!3d47.422424572682246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900a99b7af542f%3A0xc4ae59a28a414eee!2sKatzenbachweg%205%2C%208052%20Z%C3%BCrich!5e0!3m2!1sde!2sch!4v1599210138825!5m2!1sde!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
-<br/>
-
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
 
@@ -25,7 +15,7 @@
 ***
 
 # Spielabend
-## findet unter erhöhten Sicherheitsvorkehrungen (Face-shields, Desinfektion) wieder statt!
+## findet unter erhöhten Sicherheitsvorkehrungen wieder statt!
 **Jeden Donnerstag (ausser Feiertage) ab 18:30 im [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.com/maps/place/Schach+am+Bach/@47.422994,8.5453721,17z/data=!3m1!4b1!4m5!3m4!1s0x47900befc7371097:0x3603d9d75790c6d3!8m2!3d47.422994!4d8.5475608)**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2699.4332909430786!2d8.545372115624163!3d47.422993979172944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900befc7371097%3A0x3603d9d75790c6d3!2sSchach%20am%20Bach!5e0!3m2!1sde!2sch!4v1577882013860!5m2!1sde!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
