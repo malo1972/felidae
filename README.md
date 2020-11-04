@@ -6,7 +6,7 @@
 **Jeder ist bei uns willkommen, auch Anfänger!**  <br/>
 
 **siehe auch:**  <br/>
-**[Die Vereinsstatuten des Schachclub Felidae Zürich](Vereinsstatuten.pdf)**
+**[Die Vereinsstatuten des Schachclub Zürich Seebach](Vereinsstatuten.pdf)**
 
 
 **lichess TV:** <br/>
