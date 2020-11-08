@@ -14,10 +14,16 @@
 
 ***
 
-# Spielabend
+# Spielabend (bis auf weiteres ausgesetzt)
 **Jeden Donnerstag (ausser Feiertage) ab 18:30 im [Pétanque-Club Bella Italia, Am Katzenbach 5, 8052 Zürich](https://www.google.com/maps/place/Schach+am+Bach/@47.422994,8.5453721,17z/data=!3m1!4b1!4m5!3m4!1s0x47900befc7371097:0x3603d9d75790c6d3!8m2!3d47.422994!4d8.5475608)**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2699.4332909430786!2d8.545372115624163!3d47.422993979172944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900befc7371097%3A0x3603d9d75790c6d3!2sSchach%20am%20Bach!5e0!3m2!1sde!2sch!4v1577882013860!5m2!1sde!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+***
+
+# Kinder- und Jugendtreffen (bis auf weiteres ausgesetzt)
+**jeden Mittwoch (ausser Feiertage) 16-18 Uhr im [GZ Seebach](https://gz-zh.ch/gz-seebach/)
+Ob neugieriger Anfänger oder ambitionierter Turnierspieler (es dürfen selbstverständlich auch junge Damen mitmachen) unser Betreuungs-Team freut sich, Dich in die Faszination des Schachspiels einzuführen bzw. zu betreuen. Die Teilnahme an unserem Schachtreffen ist selbstverständlich kostenlos. Bist Du interessiert? Komm einfach vorbei zum Schnuppern oder ruf Andreas an (079 235 30 87)**
 
 ***
 
