@@ -1,5 +1,8 @@
- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
+<iframe src="https://lichess.org/tv/frame?theme=wood&bg=dark" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>
+***
+
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
 
@@ -7,10 +10,6 @@
 
 **siehe auch:**  <br/>
 **[Die Vereinsstatuten des Schachclub Zürich Seebach](Vereinsstatuten.pdf)**
-
-
-**lichess TV:** <br/>
-<iframe src="https://lichess.org/tv/frame?theme=green&bg=dark" style="width: 600px; height: 400px;" allowtransparency="true" frameborder="0"></iframe>
 
 ***
 
