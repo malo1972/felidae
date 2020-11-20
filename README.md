@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
-<iframe src="https://lichess.org/tv/frame?theme=wood&bg=dark" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://lichess.org/tv/frame?theme=blue3&bg=light" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>
 ***
 
 # Wer wir sind
