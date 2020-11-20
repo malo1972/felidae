@@ -20,7 +20,7 @@
 
 ***
 
-# Kinder- und Jugendtreffen (bis auf weiteres ausgesetzt)
+# Kinder- und Jugendtreffen
 **jeden Mittwoch (ausser Feiertage) 16-18 Uhr im [GZ Seebach](https://gz-zh.ch/gz-seebach/) <br/>
 Ob neugierige(r) AnfängerIn oder ambitionierte(r) TurnierspielerIn, unser Betreuungs-Team freut sich, mit Dir die Faszination des Schachspiels zu teilen. Die Teilnahme an unseren Schachtreffen ist kostenlos. Bist Du interessiert? Komm einfach vorbei zum Schnuppern oder ruf Andreas an (079 235 30 87)**
 <br/>
