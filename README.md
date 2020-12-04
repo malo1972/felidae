@@ -49,7 +49,9 @@ Ob neugierige(r) AnfängerIn oder ambitionierte(r) TurnierspielerIn, unser Betre
 * **... im Schach kein Problem schwierig genug sein kann.** 
 * **... das erstickte Matt ein ästhetisches Vergnügen ist:**
 
-<iframe src="https://lichess.org/study/embed/H8YjnSdz/xTa8skSm#0" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
+<iframe src="https://lichess.org/study/embed/H8YjnSdz/xTa8skSm#0?theme=blue3&bg=light" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
+
+
 
 
 
@@ -91,7 +93,8 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Studien
-<iframe src="https://lichess.org/training/frame?" style="width: 600px; height: 400px;" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://lichess.org/training/frame?theme=blue3&bg=light" style="width: 600px; height: 400px;" allowtransparency="true" frameborder="0"></iframe>
+
 
 **[weitere Studien](studies.md)**
 
