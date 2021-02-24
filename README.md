@@ -4,8 +4,8 @@
 ***
 
 # Aktuell
-Wir freuen uns über eure Unterstützung durch die 
-**[Migros Vereinsbons](https://supportyoursport.migros.ch/de/vereine/schachclub-zuerich-seebach/)
+Wir freuen uns über eure Unterstützung via  <br/>
+**[Migros Vereinsbons](https://supportyoursport.migros.ch/de/vereine/schachclub-zuerich-seebach/)**
 
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
