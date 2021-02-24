@@ -3,6 +3,10 @@
 <iframe src="https://lichess.org/tv/frame?theme=blue3&bg=light" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>
 ***
 
+# Aktuell
+Wir freuen uns über eure Unterstützung durch die 
+**[Migros Vereinsbons](https://supportyoursport.migros.ch/de/vereine/schachclub-zuerich-seebach/)
+
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
 
