@@ -4,7 +4,7 @@
 ***
 
 # Aktuell
-Wir freuen uns über Eure Unterstützung via  <br/>
+**Wir freuen uns über Eure Unterstützung via**  <br/>
 **[Migros Vereinsbons](https://supportyoursport.migros.ch/de/vereine/schachclub-zuerich-seebach/)**
 
 # Wer wir sind
