@@ -1,11 +1,14 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
  
 <iframe src="https://lichess.org/tv/frame?theme=blue3&bg=light" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>
+
 ***
 
 # Aktuell
 **Wir freuen uns über Eure Unterstützung via**  <br/>
 **[Migros Vereinsbons](https://supportyoursport.migros.ch/de/vereine/schachclub-zuerich-seebach/)**
+
+***
 
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
@@ -56,7 +59,7 @@ Ob neugierige(r) AnfängerIn oder ambitionierte(r) TurnierspielerIn, unser Betre
 <iframe src="https://lichess.org/study/embed/H8YjnSdz/xTa8skSm#0?theme=blue3&bg=light" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
 
 
-
+***
 
 
 # Schachsinn
@@ -163,6 +166,6 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 [DEBUGME](pgnvjs095/examples/aronian.html)
 --->
 
-
+***
 
 
