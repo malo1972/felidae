@@ -138,7 +138,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [Schweizer Schachbund **SSB**](http://www.swisschess.ch/home-de.html)
 
-[Zürcher Schachverband **ZSV**](http://www.zuercher-schachverband.ch/)
+[Zürcher Schachverband **ZSV**](https://www.zuercherschachverband.ch)
 
 [Turnier-Reglement der **SSMM**](http://www.swisschess.ch/reglemente.html?file=tl_files/ssb/reglemente/turnier/smm-sgm-D-aug2017.pdf)
 
@@ -150,22 +150,5 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [unsere lichess Teampage **Schach am Bach**](https://lichess.org/team/schach-am-bach)
 
-
-***
-
-<!---
-# experimentelle PGN-Darstellungen
-[Matthias-Francis 23.11.2017](pgnvjs095/examples/mf.html)
-
-[lichess](lichesstest.html)
-
-[cbreplay](start.html)
-
-[PgnViewerJS config-builder](http://mliebelt.github.io/PgnViewerJS/docu/example/config.html)
-
-[DEBUGME](pgnvjs095/examples/aronian.html)
---->
-
-***
 
 
