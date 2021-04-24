@@ -5,7 +5,7 @@
 ***
 
 # Aktuell
-Unser Spielabend findet an allen Montagen im Mai 2021 ab 18:30 probehalber im CafeAmBach des [GZ Seebach](https://gz-zh.ch/gz-seebach/) statt!
+**Unser Spielabend findet an allen Montagen im Mai 2021 ab 18:30 probehalber im CafeAmBach des [GZ Seebach](https://gz-zh.ch/gz-seebach/) statt!**   <br/>
 
 ***
 
