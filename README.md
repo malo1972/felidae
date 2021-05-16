@@ -145,9 +145,9 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [online Schach Shop Schweiz **chesspoint.ch**](https://www.chesspoint.ch/)
 
-[open source Schachserver **lichess.org**](https://lichess.org/)
+[die Regeln für Anfänger **lichess.org**](https://lichess.org/learn#/)
 
-[unsere lichess Teampage **Schach am Bach**](https://lichess.org/team/schach-am-bach)
+
 
 
 
