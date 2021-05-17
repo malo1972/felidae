@@ -145,7 +145,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [online Schach Shop Schweiz **chesspoint.ch**](https://www.chesspoint.ch/)
 
-[die Regeln für Anfänger **lichess.org**](https://lichess.org/learn#/)
+[Schachregeln für Anfänger **lichess.org/learn**](https://lichess.org/learn#/)
 
 
 
