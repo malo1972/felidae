@@ -99,8 +99,7 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Studien
-<iframe src="https://lichess.org/training/frame?theme=blue3&bg=light" style="width: 600px; height: 400px;" allowtransparency="true" frameborder="0"></iframe>
-
+<iframe src="https://lichess.org/training/frame?theme=blue3&bg=light" style="width: 600px; height: 600px;" allowtransparency="true" frameborder="0"></iframe>
 
 **[weitere Studien](studies.md)**
 
