@@ -14,7 +14,7 @@ Testresultaten als Teilnahmebediengung ab.**   <br/>
 # Wer wir sind
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
 
-**Jeder ist bei uns willkommen, auch Anfänger!**  <br/>
+**Jede\*r ist bei uns willkommen, auch Anfänger!**  <br/>
 
 **siehe auch:**  <br/>
 **[Die Vereinsstatuten des Schachclub Zürich Seebach](VereinsstatutenSCSeebach.pdf)**
@@ -52,7 +52,7 @@ Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser B
 * **... man im Schach seine Menschenkenntnis schult.** 
 * **... im Schach Kinder und Erwachsene ebenbürtig gegeneinander kämpfen können.** 
 * **... Schach nachweislich das Erinnerungsvermögen und die Geduld schult.**
-* **... auch Weltmeister alberne Fehler machen.** 
+* **... auch Weltmeister\*innen alberne Fehler machen.** 
 * **... Schach und Fussball gut zusammenpassen.**  
 * **... im Schach kein Problem schwierig genug sein kann.** 
 * **... das erstickte Matt ein ästhetisches Vergnügen ist:**
