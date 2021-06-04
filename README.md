@@ -6,8 +6,8 @@
 
 # Aktuell
 **Im Rahmen der behörderlichen Massnahmen lehnt unser Schachclub für sämtliche
-eigene Aktivitäten das Vorweisen des «Corona-Zertifikates» und/oder von
-Testresultaten als Teilnahmebediengung ab.**   <br/>
+eigene Aktivitäten das Vorweisen von «Corona-Zertifikaten» und/oder
+Testresultaten als Teilnahmebedingung ab.**   <br/>
 
 ***
 
