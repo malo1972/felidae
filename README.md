@@ -17,7 +17,7 @@ Testresultaten als Teilnahmebedingung ab.**   <br/>
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
 **siehe auch:**  <br/>
-**[Die Vereinsstatuten des Schachclub Zürich Seebach](VereinsstatutenSCSeebach.pdf)**
+**[Die Vereinsstatuten des Schachclub Zürich Seebach](StatutenSCSeebach.pdf)**
 
 ***
 
