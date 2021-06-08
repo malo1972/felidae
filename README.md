@@ -109,15 +109,21 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 
 # Vorstand / Kontakte
 * **Präsident:** <br/>
-Andreas Poncini - <andreas.poncini@ponciniconsulting.ch> - 079 235 30 87 <br/>
+Andreas Poncini<br/>
+<andreas.poncini@ponciniconsulting.ch><br/>
+079 235 30 87 <br/>
 * **Leistungsschach & Vizepräsident:** <br/>
-Pascal Fehr - <pascal-fehr@bluewin.ch> <br/>
+Pascal Fehr <br/>
+<pascal-fehr@bluewin.ch> <br/>
 * **Kinder- & Jugendschach:** <br/>
-Richard Bohnenberger - <bohnenbergerrichard@gmail.com> - 079 443 56 72 <br/>
+Richard Bohnenberger<br/>
+<bohnenbergerrichard@gmail.com>
+<br/>079 443 56 72 <br/>
 * **Finanzen:** <br/>
 Tim Bellman <br/>
 * **IT / Web Content:** <br/>
-Matthias Lobmayer - <matthias.lobmayer@gmail.com> <br/>
+Matthias Lobmayer<br/>
+<matthias.lobmayer@gmail.com> <br/>
 
 * **Postadresse:** <br/>
 Schachclub Zürich Seebach <br/>
