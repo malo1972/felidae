@@ -121,7 +121,7 @@ Richard Bohnenberger<br/>
 <br/>079 443 56 72 <br/>
 * **Finanzen:** <br/>
 Tim Bellman <br/>
-* **IT / Web Content:** <br/>
+* **IT & Web Content:** <br/>
 Matthias Lobmayer<br/>
 <matthias.lobmayer@gmail.com> <br/>
 
