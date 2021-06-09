@@ -24,7 +24,7 @@ Testresultaten als Teilnahmebedingung ab.**   <br/>
 # Spielabend
 **Montags ab 18:30 im CaféAmBach des [Gemeinschaftszentrum Zürich Seebach](https://gz-zh.ch/gz-seebach/)**
 
-**Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich **
+**Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich**
 * **am 1. Montag des Monats: Gemeinsames Menu serviert von unseren Starköchen Simon und Francis**
 * **am 2. Montag des Monats: internes Turnier in verschiedenen Formaten**
 * **am 3. Montag des Monats: Theorielektionen zu verschiedenen Themen (Eröffnung, Endspiel, Strategie...)**
