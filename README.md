@@ -10,8 +10,8 @@
 ***
 
 # Wer wir sind
-**Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
-
+**Wir sind ein junger, bunter Schachclub in Zürich Seebach.** <br/> 
+**Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
 **[Die Vereinsstatuten des Schachclubs Zürich Seebach](StatutenSCSeebach.pdf)**
