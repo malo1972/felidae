@@ -14,7 +14,7 @@
 
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
-**[Die Vereinsstatuten des Schachclubs Zürich Seebach](StatutenSCSeebach.pdf)
+**[Die Vereinsstatuten des Schachclubs Zürich Seebach](StatutenSCSeebach.pdf)**
 
 ***
 
