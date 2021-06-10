@@ -5,17 +5,17 @@
 ***
 
 # Aktuell
-## Im Rahmen der behörderlichen Massnahmen lehnt unser Schachclub für sämtliche eigene Aktivitäten das Vorweisen von «Corona-Zertifikaten» und/oder Testresultaten als Teilnahmebedingung ab.**   <br/>
+## Im Rahmen der behörderlichen Massnahmen lehnt unser Schachclub für sämtliche eigene Aktivitäten das Vorweisen von «Corona-Zertifikaten» und/oder Testresultaten als Teilnahmebedingung ab.   <br/>
 
 ***
 
 # Wer wir sind
-**Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.**  <br/>
+## Wir sind ein junger, bunter Schachclub in Zürich Seebach. Als Mitglied des Schachbundes nehmen wir in der 3. Liga an der schweizerischen Mannschaftsmeisterschaft (SMM) teil und organisieren offene Turniere.  <br/>
 
-**Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
+## Jede\*r ist bei uns willkommen, auch Anfänger\*innen!  <br/>
 
-**siehe auch:**  <br/>
-**[Die Vereinsstatuten des Schachclubs Zürich Seebach](StatutenSCSeebach.pdf)**
+## siehe auch: <br/>
+## [Die Vereinsstatuten des Schachclubs Zürich Seebach](StatutenSCSeebach.pdf)
 
 ***
 
