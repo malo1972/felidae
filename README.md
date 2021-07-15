@@ -1,6 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-![Logo](logotrans.png)
  
 <iframe src="https://lichess.org/tv/frame?theme=blue3&bg=light" style="width: 600px; height: 600px;" allowtransparency="true" frameborder="0"></iframe>
 
@@ -14,6 +13,7 @@
 ***
 
 # Wer wir sind
+![Logo](logotrans.png | width=100)
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach.** <br/> 
 **Wir spielen in der 3. Liga der schweizerischen Mannschaftsmeisterschaft (SMM) und organisieren offene Turniere.**  <br/>
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
