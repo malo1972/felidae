@@ -1,4 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+![Logo](logotrans.png)
  
 <iframe src="https://lichess.org/tv/frame?theme=blue3&bg=light" style="width: 600px; height: 600px;" allowtransparency="true" frameborder="0"></iframe>
 
