@@ -13,7 +13,7 @@
 ***
 
 # Wer wir sind
-<img src="logotrans.png" alt="drawing" width="200" class="center"/>
+<img src="logotrans.png" alt="drawing" width="400" class="center"/>
 
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach.** <br/> 
 **Wir spielen in der 3. Liga der schweizerischen Mannschaftsmeisterschaft (SMM) und organisieren offene Turniere.**  <br/>
