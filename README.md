@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-<img align="center" src="logotrans.png" alt="drawing" width="450"/>
+<img  class="marginauto" src="logotrans.png" alt="centered image" width="450"/>
  
 <iframe src="https://lichess.org/tv/frame?theme=blue3&bg=light" style="width: 600px; height: 600px;" allowtransparency="true" frameborder="0"></iframe>
 
