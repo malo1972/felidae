@@ -2,12 +2,12 @@
 
 <img  class="marginauto" src="logotrans.png" alt="centered image" width="450"/>
  
-<iframe src="https://lichess.org/tv/frame?theme=blue3&bg=light" style="width: 600px; height: 600px;" allowtransparency="true" frameborder="0"></iframe>
-
 ***
 
 # Aktuell
 **[Seebach Open am Sonntag, 29. August 2021](Ausschreibung2021.pdf)**  <br/>
+
+**[Reglement für das Seebach open](Seebach Open Reglement)** <br/>
 
 **Im Rahmen der behörderlichen Massnahmen lehnt unser Schachclub für sämtliche eigene Aktivitäten das Vorweisen von «Corona-Zertifikaten» und/oder Testresultaten als Teilnahmebedingung ab.**   <br/>
 
