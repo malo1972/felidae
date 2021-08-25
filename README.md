@@ -144,7 +144,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 **[Rangliste des 2. Seebach Open am 16.8.2020](SeebachOpen2020.pdf)**
 
-**[Ergebnisse unserer Gruppe Ost 4 in der 3. Liga der **SMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)**
+**[Ergebnisse unserer Gruppe Ost 4 in der 3. Liga der SMM](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)**
 
 **[Turnier-Reglemente](http://www.swisschess.ch/reglemente.html)**
 
