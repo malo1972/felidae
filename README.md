@@ -138,10 +138,15 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 # Turniere
 
+**[Seebach Open am Sonntag, 29. August 2021](Ausschreibung2021.pdf)**
+
 **[Rangliste des 1. Seebach Open am 18.8.2019](Schlussrangliste SeebacherSchachturnier.pdf)**
 
 **[Rangliste des 2. Seebach Open am 16.8.2020](SeebachOpen2020.pdf)**
 
+**[Ergebnisse unserer Gruppe Ost 4 in der 3. Liga der **SMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)**
+
+**[Turnier-Reglemente](http://www.swisschess.ch/reglemente.html)**
 
 
 ***
@@ -151,10 +156,6 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 [Schweizer Schachbund **SSB**](http://www.swisschess.ch/home-de.html)
 
 [Zürcher Schachverband **ZSV**](https://www.zuercherschachverband.ch)
-
-[Turnier-Reglemente](http://www.swisschess.ch/reglemente.html)
-
-[Ergebnisse unserer Gruppe Ost 4 in der 3. Liga der **SMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)
 
 [online Schach Shop Schweiz **chesspoint.ch**](https://www.chesspoint.ch/)
 
