@@ -43,15 +43,11 @@ Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser B
 ***
 
 # Schach fasziniert uns, weil...
-* **... Schach das Spiel der KönigInnen ist.**
-* **... Schach ein transkultureller Exportschlager ist.**
-* **... Schach ein kosmopolitisches Vergnügen ist.**
+* **... es das Spiel der König*innen ist.**
 * **... Schacheröffnungen so klangvolle Namen haben.** 
 * **... der Rausch im Mittelspiel betörend ist.**
 * **... es eine Lust ist, etwas kaputt zu machen.** 
 * **... man im Schach lernt, Geräusche auszuhalten.** 
-* **... Schach wie das Leben ist: ohne Dame macht es keinen Spass**
-* **... Schach wie das Leben ist: Material alleine macht nicht (immer) glücklich**
 * **... Schach ohne Humor undenkbar ist.** 
 * **... Magnus Carlsen zaubern kann.** 
 * **... man im Schach seine Menschenkenntnis schult.** 
