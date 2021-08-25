@@ -133,7 +133,7 @@ Kirchenfeld 75 <br/>
 ***
 
 # Kalender
-hier finden sich u.a. Termine wie die des [SMM Spielplan](http://test01.swisschess.ch/turniere/smm/2018/smmspielplan2018.pdf)  <br/>
+hier finden sich u.a. Termine wie die des [SMM Spielplan](http://test01.swisschess.ch/turniere/smm/2021/smmspielplan2021.pdf)  <br/>
  <br/>
 Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.swisschess.ch/kalender.html)  <br/>
  <br/>
@@ -159,7 +159,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [Turnier-Reglement der **SSMM**](http://www.swisschess.ch/reglemente.html?file=tl_files/ssb/reglemente/turnier/smm-sgm-D-aug2017.pdf)
 
-[Ergebnisse unserer Gruppe Zentral 1 in der 4. Liga der **SSMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAxOSZhbGlnYT02JmFncnVwcGU9NjAzJmFyb3VuZD01)
+[Ergebnisse unserer Gruppe Ost V in der 3. Liga der **SSMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)
 
 [online Schach Shop Schweiz **chesspoint.ch**](https://www.chesspoint.ch/)
 
