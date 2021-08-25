@@ -19,12 +19,12 @@
 **Wir spielen in der 3. Liga der schweizerischen Mannschaftsmeisterschaft (SMM) und organisieren offene Turniere.**  <br/>
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
-**[Die Vereinsstatuten des Schachclubs Zürich Seebach](StatutenSCSeebach.pdf)**
+**[Die Vereinsstatuten des SC Zürich Seebach](StatutenSCSeebach.pdf)**
 
 ***
 
 # Spielabend
-**Montags ab 18:30 im CaféAmBach des [Gemeinschaftszentrum Zürich Seebach](https://gz-zh.ch/gz-seebach/)**<br/>
+**Montags ab 18:30 im CaféAmBach des [GZ Seebach](https://gz-zh.ch/gz-seebach/)**<br/>
 **Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 * **am 1. Montag des Monats:** <br/> gemeinsames Menu serviert von unseren Starköchen Simon und Francis
 * **am 2. Montag des Monats:** <br/> internes Turnier in verschiedenen Formaten
@@ -154,7 +154,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [Turnier-Reglemente](http://www.swisschess.ch/reglemente.html)
 
-[Ergebnisse unserer Gruppe Ost 4 in der 3. Liga der **SSMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)
+[Ergebnisse unserer Gruppe Ost 4 in der 3. Liga der **SMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)
 
 [online Schach Shop Schweiz **chesspoint.ch**](https://www.chesspoint.ch/)
 
