@@ -26,7 +26,7 @@
 # Spielabend
 **Montags ab 18:30 im CaféAmBach des [Gemeinschaftszentrum Zürich Seebach](https://gz-zh.ch/gz-seebach/)**<br/>
 **Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
-* **am 1. Montag des Monats:** <br/> Gemeinsames Menu serviert von unseren Starköchen Simon und Francis
+* **am 1. Montag des Monats:** <br/> gemeinsames Menu serviert von unseren Starköchen Simon und Francis
 * **am 2. Montag des Monats:** <br/> internes Turnier in verschiedenen Formaten
 * **am 3. Montag des Monats:** <br/> Theorielektionen zu verschiedenen Themen (Eröffnung, Endspiel, Strategie...)
 
@@ -45,7 +45,6 @@ Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser B
 # Schach fasziniert uns, weil...
 * **... Schach das Spiel der KönigInnen ist.**
 * **... Schach ein transkultureller Exportschlager ist.**
-* **... Schach Ausdrucksform der Schönheit vektorieller Logik ist.**
 * **... Schach ein kosmopolitisches Vergnügen ist.**
 * **... Schacheröffnungen so klangvolle Namen haben.** 
 * **... der Rausch im Mittelspiel betörend ist.**
@@ -159,7 +158,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [Turnier-Reglement der **SSMM**](http://www.swisschess.ch/reglemente.html?file=tl_files/ssb/reglemente/turnier/smm-sgm-D-aug2017.pdf)
 
-[Ergebnisse unserer Gruppe Ost V in der 3. Liga der **SSMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)
+[Ergebnisse unserer Gruppe Ost 4 in der 3. Liga der **SSMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)
 
 [online Schach Shop Schweiz **chesspoint.ch**](https://www.chesspoint.ch/)
 
