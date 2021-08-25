@@ -152,7 +152,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [Zürcher Schachverband **ZSV**](https://www.zuercherschachverband.ch)
 
-[Turnier-Reglement der **SMM**](http://www.swisschess.ch/reglemente.html?file=tl_files/ssb/reglemente/turnier/smm-sgm-D-jul2019.pdf)
+[Turnier-Reglemente](http://www.swisschess.ch/reglemente.html)
 
 [Ergebnisse unserer Gruppe Ost 4 in der 3. Liga der **SSMM**](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)
 
