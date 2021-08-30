@@ -5,9 +5,6 @@
 ***
 
 # Aktuell
-**[Seebach Open am Sonntag, 29. August 2021](Ausschreibung2021.pdf)**  <br/>
-
-**[Reglement für das Seebach Open](SeebachOpenReglement.pdf)** <br/>
 
 **Im Rahmen der behörderlichen Massnahmen lehnt unser Schachclub für sämtliche eigene Aktivitäten das Vorweisen von «Corona-Zertifikaten» und/oder Testresultaten als Teilnahmebedingung ab.**   <br/>
 
@@ -137,8 +134,6 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 ***
 
 # Turniere
-
-[**Seebach Open** am Sonntag, 29. August 2021](Ausschreibung2021.pdf)
 
 [Reglement für das **Seebach Open**](SeebachOpenReglement.pdf)
 
