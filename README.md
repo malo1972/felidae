@@ -4,12 +4,6 @@
  
 ***
 
-# Aktuell
-
-**Im Rahmen der behörderlichen Massnahmen lehnt unser Schachclub für sämtliche eigene Aktivitäten das Vorweisen von «Corona-Zertifikaten» und/oder Testresultaten als Teilnahmebedingung ab.**   <br/>
-
-***
-
 # Wer wir sind
 
 **Wir sind ein junger, bunter Schachclub in Zürich Seebach.** <br/> 
@@ -105,14 +99,14 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 
 ***
 
-# Vorstand / Kontakte
+# Vorstand
 * **Präsident** <br/> Andreas Poncini <br/> <andreas.poncini@ponciniconsulting.ch> <br/> 079 235 30 87
  
 * **Leistungsschach & Vizepräsident** <br/> Pascal Fehr <br/> <pascal-fehr@bluewin.ch>
 
 * **Kinder- & Jugendschach** <br/> Richard Bohnenberger <br/> <bohnenbergerrichard@gmail.com> <br/> 079 443 56 72
  
-* **Finanzen** <br/> Tim Bellman <br/>
+* **Finanzen** <br/> Tim Bellmann <br/>
 
 * **IT & Web Content** <br/> Matthias Lobmayer <br/> <matthias.lobmayer@gmail.com>
 
