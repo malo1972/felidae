@@ -140,7 +140,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 **SMM 2021:** [Ergebnisse](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01) / [doodle](https://doodle.com/poll/ctawf9k825a9z7dz) 
 
 
-**ZMM 2021:** [Paarungen](https://chess-results.com/tnr583798.aspx?lan=0&art=2) / [Rangliste](https://chess-results.com/tnr583798.aspx?lan=0&art=0) / [Regelement](https://www.zuercherschachverband.ch/images/Documents/2021/ZMM_Reglement_2021.pdf) / [doodle] (https://doodle.com/poll/i2amc2erva37fvar)
+**ZMM 2021:** [Paarungen](https://chess-results.com/tnr583798.aspx?lan=0&art=2) / [Rangliste](https://chess-results.com/tnr583798.aspx?lan=0&art=0) / [Regelement](https://www.zuercherschachverband.ch/images/Documents/2021/ZMM_Reglement_2021.pdf) / [doodle](https://doodle.com/poll/i2amc2erva37fvar)
 
 [Turnier-Reglemente des **SSB**](http://www.swisschess.ch/reglemente.html)
 
