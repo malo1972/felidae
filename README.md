@@ -31,6 +31,8 @@ Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser B
 <br/>
 **[Bericht zum Jugend-Simultan der Quartierzeitung Zürich Nord](EinerGegenAlle.pdf)**
 
+**[Seebach Open U16 am 22.5.2022](AusschreibungJugend2022.pdf)**
+
 ***
 
 # Schach fasziniert uns, weil...
