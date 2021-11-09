@@ -18,7 +18,7 @@
 **Montags ab 18:30 im CaféAmBach des [GZ Seebach](https://gz-zh.ch/gz-seebach/)**<br/>
 **Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 * **am 1. Montag des Monats:** <br/> gemeinsames Menu serviert von unseren Starköchen Simon und Francis
-* **am 2. Montag des Monats:** <br/> internes Turnier in verschiedenen Formaten
+* **am 2. & 4. Montag des Monats:** <br/> Vereinsmeisterschaft in  verschiedenen Turnierformaten, siehe Turniere
 * **am 3. Montag des Monats:** <br/> Theorielektionen zu verschiedenen Themen (Eröffnung, Endspiel, Strategie...)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2699.355604057431!2d8.542197644127354!3d47.42450899316742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900befc7371097%3A0x3603d9d75790c6d3!2sSchach%20am%20Bach!5e0!3m2!1sde!2sch!4v1623650982664!5m2!1sde!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -131,6 +131,8 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 # Turniere
 
+[Turnier-Reglemente des **SSB**](http://www.swisschess.ch/reglemente.html)
+
 [Reglement für das **Seebach Open**](SeebachOpenReglement.pdf)
 
 [Rangliste des 1. Seebach Open am 18.8.2019](Schlussrangliste SeebacherSchachturnier.pdf)
@@ -141,11 +143,9 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 **SMM 2021:** [Ergebnisse](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01) / [doodle](https://doodle.com/poll/ctawf9k825a9z7dz) 
 
-
 **ZMM 2021:** [Paarungen](https://chess-results.com/tnr583798.aspx?lan=0&art=2) / [Rangliste](https://chess-results.com/tnr583798.aspx?lan=0&art=0) / [Regelement](https://www.zuercherschachverband.ch/images/Documents/2021/ZMM_Reglement_2021.pdf) / [doodle](https://doodle.com/poll/i2amc2erva37fvar)
 
-[Turnier-Reglemente des **SSB**](http://www.swisschess.ch/reglemente.html)
-
+**Vereinsmeisterschaft 2022:** [Ausschreibung](AusschreibungVM2022.pdf) [Reglement](ReglementVM2022.pdf)
 
 ***
 
