@@ -10,7 +10,7 @@
 **Wir spielen in der 3. Liga der schweizerischen Mannschaftsmeisterschaft (SMM) und organisieren offene Turniere.**  <br/>
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
-**[Die Vereinsstatuten des SC Zürich Seebach](StatutenSCSeebach.pdf)**
+**[**Die Vereinsstatuten des SC Zürich Seebach**](StatutenSCSeebach.pdf)**
 
 ***
 
@@ -18,7 +18,7 @@
 **Montags ab 18:30 im CaféAmBach des [GZ Seebach](https://gz-zh.ch/gz-seebach/)**<br/>
 **Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 * **am 1. Montag des Monats:** <br/> gemeinsames Menu serviert von unseren Starköchen Simon und Francis
-* **am 2. & 4. Montag des Monats:** <br/> Vereinsmeisterschaft in  verschiedenen Turnierformaten, siehe [Turniere](#turniere)
+* **am 2. & 4. Montag des Monats:** <br/> Vereinsmeisterschaft in  verschiedenen Turnierformaten, siehe [**Turniere**](#turniere)
 * **am 3. Montag des Monats:** <br/> Theorielektionen zu verschiedenen Themen (Eröffnung, Endspiel, Strategie...)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2699.355604057431!2d8.542197644127354!3d47.42450899316742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900befc7371097%3A0x3603d9d75790c6d3!2sSchach%20am%20Bach!5e0!3m2!1sde!2sch!4v1623650982664!5m2!1sde!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -29,7 +29,7 @@
 **jeden Mittwoch (ausser Feiertage) 16-18 Uhr im [GZ Seebach](https://gz-zh.ch/gz-seebach/) <br/>
 Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser Betreuungs-Team freut sich, mit Dir die Faszination des Schachspiels zu teilen. Die Teilnahme an unseren Schachtreffen ist kostenlos. Bist Du interessiert? Komm einfach vorbei zum Schnuppern oder ruf Andreas an (079 235 30 87)**
 <br/>
-**[Bericht zum Jugend-Simultan der Quartierzeitung Zürich Nord](EinerGegenAlle.pdf)**
+**[**Bericht zum Jugend-Simultan der Quartierzeitung Zürich Nord**](EinerGegenAlle.pdf)**
 
 **[Seebach Open U16 am 22.5.2022](AusschreibungJugend2022.pdf)**
 
