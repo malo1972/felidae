@@ -3,12 +3,11 @@
 
 # Aktuell
 
-<img  class="marginauto" src="Koenig2021.jpeg" alt="centered image" width="300"/>
+<img  class="marginauto" src="Koenig2021.jpeg" alt="centered image" width="450"/>
 
-**Grossartiger Erfolg unserer Talente beim Jugendschachkönig der Zürcher Schachverbands:** <br/>
+**Grossartiger Erfolg unserer Talente beim Jugendschachkönig des Zürcher Schachverbands:** <br/>
 [Resultate U12](https://chess-results.com/tnr586249.aspx?lan=0&art=1&rd=7) <br/>
 [Resultate U18](https://chess-results.com/tnr586243.aspx?lan=0&art=1&rd=7) <br/>
-
 
  
 ***
