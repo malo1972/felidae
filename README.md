@@ -1,6 +1,15 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-<img  class="marginauto" src="logotrans.png" alt="centered image" width="450"/>
+
+# Aktuell
+
+<img  class="marginauto" src="Koenig2021.jpg" alt="centered image" width="300"/>
+
+**Grossartiger Erfolg unserer Talente beim Jugendschachkönig der Zürcher Schachverbands: <br/>
+[Resultate U12](https://chess-results.com/tnr586249.aspx?lan=0&art=1&rd=7) <br/>
+[Resultate U18](https://chess-results.com/tnr586243.aspx?lan=0&art=1&rd=7) <br/>
+
+
  
 ***
 
@@ -11,6 +20,9 @@
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
 **[Die Vereinsstatuten des SC Zürich Seebach](StatutenSCSeebach.pdf)**
+
+<img  class="marginauto" src="logotrans.png" alt="centered image" width="300"/>
+
 
 ***
 
