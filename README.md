@@ -40,6 +40,8 @@
 **jeden Mittwoch (ausser Feiertage) 16-18 Uhr im [GZ Seebach](https://gz-zh.ch/gz-seebach/) <br/>
 Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser Betreuungs-Team freut sich, mit Dir die Faszination des Schachspiels zu teilen. Die Teilnahme an unseren Schachtreffen ist kostenlos. Bist Du interessiert? Komm einfach vorbei zum Schnuppern oder ruf Andreas an (079 235 30 87)**
 <br/>
+**Unser Schachclub ist Mitglied der [VERSA](https://www.zss.ch/versa/verein), ein Verein zur Verhinderung sexueller Ausbeutung von Kindern im Sport – Eine Initiative des Zürcher Stadtverbandes für Sport (ZSS)**
+<br/>
 **[Bericht zum Jugend-Simultan der Quartierzeitung Zürich Nord](EinerGegenAlle.pdf)**
 
 **[Seebach Open U16 am 22.5.2022](AusschreibungJugend2022.pdf)**
