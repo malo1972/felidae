@@ -166,7 +166,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 # Weblinks
 
-[Schweizer Schachbund **SSB**](http://www.swisschess.ch/home-de.html)
+[Schweizerischer Schachbund **SSB**](http://www.swisschess.ch/home-de.html)
 
 [Zürcher Schachverband **ZSV**](https://www.zuercherschachverband.ch)
 
