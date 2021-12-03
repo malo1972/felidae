@@ -3,6 +3,8 @@
 
 # Aktuell
 
+<iframe width=600 height=371 src="https://lichess.org/study/embed/h7a3P5YF/6OeqL6Ge" frameborder=0></iframe>
+
 **Grossartiger Erfolg unserer Talente beim Turnier "Jugendschachkönig" des Zürcher Schachverbands:**
 [Resultate U12](https://chess-results.com/tnr586249.aspx?lan=0&art=1&rd=7) / [Resultate U18](https://chess-results.com/tnr586243.aspx?lan=0&art=1&rd=7) <br/>
 
