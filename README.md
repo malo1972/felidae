@@ -143,17 +143,13 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 # Turniere
 
-[Turnier-Reglemente des **SSB**](http://www.swisschess.ch/reglemente.html)
-
 [Reglement für das **Seebach Open**](SeebachOpenReglement.pdf)
-
 [Rangliste des 1. Seebach Open am 18.8.2019](Schlussrangliste SeebacherSchachturnier.pdf)
-
 [Rangliste des 2. Seebach Open am 16.8.2020](SeebachOpen2020.pdf)
-
 [Rangliste des 3. Seebach Open am 29.8.2021](RanglisteSeebachOpen2021.pdf)
-
 [Ausschreibung des 4. Seebach Open am 28.8.2022](https://www.sc-seebach.ch/Ausschreibung2022.pdf)
+
+[Turnier-Reglemente des **SSB**](http://www.swisschess.ch/reglemente.html)
 
 **SMM 2021:** [Ergebnisse](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)
 
