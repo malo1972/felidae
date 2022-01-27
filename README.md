@@ -153,6 +153,8 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [Rangliste des 3. Seebach Open am 29.8.2021](RanglisteSeebachOpen2021.pdf)
 
+[Ausschreibung des 4. Seebach Open am 28.8.2022](https://www.sc-seebach.ch/Ausschreibung2022.pdf)
+
 **SMM 2021:** [Ergebnisse](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)
 
 **ZMM 2021:** [Paarungen](https://chess-results.com/tnr583798.aspx?lan=0&art=2) / [Rangliste](https://chess-results.com/tnr583798.aspx?lan=0&art=0) / [Regleement](https://www.zuercherschachverband.ch/images/Documents/2021/ZMM_Reglement_2021.pdf)
