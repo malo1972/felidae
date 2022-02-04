@@ -1,6 +1,6 @@
 Auch Albert Einstein konnte Schach spielen, hier mit den weissen Steinen gegen Robert Oppenheimer:
 
-<iframe src="https://lichess.org/study/D5uK5AsI" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
+<iframe src="<iframe width=600 height=371 src="https://lichess.org/study/embed/D5uK5AsI/u8mdCaW0" frameborder=0></iframe>" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
 
 die von Mato Jelic kommentierte Partie:
 
