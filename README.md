@@ -65,7 +65,7 @@ Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser B
 * **... im Schach kein Problem schwierig genug sein kann.** 
 * **... das erstickte Matt ein ästhetisches Vergnügen ist:**
 
-<iframe src="<iframe width=600 height=371 src="https://lichess.org/study/embed/RIoyR5uO/F7LSLisD" frameborder=0></iframe>" style="border: 0" width="600" height="400" frameborder="2" scrolling="no"></iframe>
+<iframe src="<iframe width=400 height=371 src="https://lichess.org/study/embed/RIoyR5uO/F7LSLisD" frameborder=0></iframe>" style="border: 0" width="400" height="400" frameborder="2" scrolling="no"></iframe>
 
 
 ***
