@@ -105,14 +105,6 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 
 * **« Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. »**  <br/>   *SAMUEL BECKETT (1906-1998)* 
 
-
-***
-
-# Studien
-<iframe src="https://lichess.org/training/frame?theme=blue3&bg=light" style="width: 600px; height: 600px;" allowtransparency="true" frameborder="0"></iframe>
-
-**[weitere Studien](studies.md)**
-
 ***
 
 # Vorstand
