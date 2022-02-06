@@ -71,7 +71,7 @@ Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser B
 ***
 
 
-# Schachsinn
+# Sch(w)achsinn
 ***
 
 * **« Chess is life in miniature. Chess is struggle, chess is battles. »**  <br/>  *GARRY KASPAROV*
