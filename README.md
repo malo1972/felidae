@@ -111,8 +111,10 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 * **Präsident** <br/> Andreas Poncini <br/> <andreas.poncini@ponciniconsulting.ch> <br/> 079 235 30 87
  
 * **Kinder- & Jugendschach** <br/> Richard Bohnenberger <br/> <bohnenbergerrichard@gmail.com> <br/> 079 443 56 72
- 
-* **Finanzen** <br/> Tim Bellmann <br/>
+
+* **Spielleiter** <br/> Livio Sgier <br/> <livio.sgier@gmail.com>
+
+* **Finanzen** <br/> Tim Bellmann
 
 * **IT & Web Content** <br/> Matthias Lobmayer <br/> <matthias.lobmayer@gmail.com>
 
