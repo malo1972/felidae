@@ -13,7 +13,7 @@
 
 # Wer wir sind
 
-**Wir sind ein junger, bunter Schachclub mit Spielern aus 30 Nationen in Zürich Seebach.**  <br/> 
+**Wir sind ein junger, bunter Schachclub in Zürich Seebach mit Spielern aus 30 Nationen.**  <br/> 
 **Wir spielen mit je 2 Teams in den schweizerischen Mannschaftswettbewerben (SMM, SGM, ZMM) und organisieren offene Turniere.**  <br/>
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
