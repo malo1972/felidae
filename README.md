@@ -13,7 +13,7 @@
 
 # Wer wir sind
 
-**Wir sind ein junger, bunter Schachclub mit Spielern aus 30 Nationen in Zürich Seebach ** <br/> 
+**Wir sind ein junger, bunter Schachclub mit Spielern aus 30 Nationen in Zürich Seebach **  <br/> 
 **Wir spielen mit je 2 Teams in den schweizerischen Mannschaftswettbewerben (SMM, SGM, ZMM) und organisieren offene Turniere.**  <br/>
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
@@ -22,10 +22,9 @@
 <img  class="marginauto" src="logotrans.png" alt="centered image" width="300"/>
 
 # Mitgliedschaft
-Erwachsene: 80 CHF/Jahr. Darin enthalten sind: Spielabende inkl. Vereinsmeisterschaft ,Theorielektionen sowie Teilnahme am jährlichen Weihnachtsessen und am Seebach Open. Aktive Mitglieder mit SSB-Spielerlizenz zahlen zusätzlich CHF 100 [Gebühren des SSB](https://www.swisschess.ch/beitraege-und-gebuehren.html)
+**Erwachsene:** 80 CHF/Jahr. Darin enthalten sind: Spielabende inkl. Vereinsmeisterschaft ,Theorielektionen sowie Teilnahme am jährlichen Weihnachtsessen und am Seebach Open. Aktive Mitglieder mit SSB-Spielerlizenz zahlen zusätzlich CHF 100 [Gebühren des SSB](https://www.swisschess.ch/beitraege-und-gebuehren.html)
 
-
-"Kinder- und Jugendschach: Die Teilnahme an den Mittwochstrainings ist kostenfrei. Dank unserer Sponsoren und Gönner übernehmen wir auch die Kosten für die Spielerlizenzen des schweizerischen Schachbundes.
+**Kinder und Jugendliche:** Die Teilnahme an den Mittwochstrainings ist kostenfrei. Dank unserer Sponsoren und Gönner übernehmen wir auch die Kosten für die Spielerlizenzen des schweizerischen Schachbundes.
 
 
 ***
