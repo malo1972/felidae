@@ -13,7 +13,7 @@
 
 # Wer wir sind
 
-**Wir sind ein junger, bunter Schachclub mit Spielern aus 30 Nationen in Zürich Seebach **  <br/> 
+**Wir sind ein junger, bunter Schachclub mit Spielern aus 30 Nationen in Zürich Seebach.**  <br/> 
 **Wir spielen mit je 2 Teams in den schweizerischen Mannschaftswettbewerben (SMM, SGM, ZMM) und organisieren offene Turniere.**  <br/>
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
@@ -22,7 +22,7 @@
 <img  class="marginauto" src="logotrans.png" alt="centered image" width="300"/>
 
 # Mitgliedschaft
-**Erwachsene:** 80 CHF/Jahr. Darin enthalten sind: Spielabende inkl. Vereinsmeisterschaft ,Theorielektionen sowie Teilnahme am jährlichen Weihnachtsessen und am Seebach Open. Aktive Mitglieder mit SSB-Spielerlizenz zahlen zusätzlich CHF 100 [Gebühren des SSB](https://www.swisschess.ch/beitraege-und-gebuehren.html)
+**Erwachsene:** 80 CHF/Jahr. Darin enthalten sind: Spielabende inkl. Vereinsmeisterschaft, Theorielektionen sowie die Teilnahme am jährlichen Weihnachtsessen und am Seebach Open. Aktive Mitglieder mit SSB-Spielerlizenz bezahlen zusätzlich CHF 100 [Gebühren des SSB](https://www.swisschess.ch/beitraege-und-gebuehren.html)
 
 **Kinder und Jugendliche:** Die Teilnahme an den Mittwochstrainings ist kostenfrei. Dank unserer Sponsoren und Gönner übernehmen wir auch die Kosten für die Spielerlizenzen des schweizerischen Schachbundes.
 
@@ -45,7 +45,8 @@
 Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser Betreuungs-Team freut sich, mit Dir die Faszination des Schachspiels zu teilen. Die Teilnahme an unseren Schachtreffen ist kostenlos. Bist Du interessiert? Komm einfach vorbei zum Schnuppern oder ruf Andreas an (079 235 30 87)**
 <br/>
 
-Kontakt: <br/> Richard Bohnenberger <br/><bohnenbergerrichard@gmail.com> <br/> 079 443 56 72
+**Kontakt:** <br/> Richard Bohnenberger <br/><bohnenbergerrichard@gmail.com> <br/> 079 443 56 72
+<br/>
 <br/>
 **Unser Schachclub ist Mitglied der [VERSA](https://www.zss.ch/versa/verein), ein Verein zur Verhinderung sexueller Ausbeutung von Kindern im Sport – Eine Initiative des Zürcher Stadtverbandes für Sport (ZSS)**
 <br/>
