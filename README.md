@@ -153,11 +153,9 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [Turnier-Reglemente des **SSB**](http://www.swisschess.ch/reglemente.html)
 
-**SMM 2021:** [Ergebnisse](http://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMSZhZ3J1cHBlPTUwNCZhbGlnYT01)
+**SGM 2022:** [Spielplan](https://www.swisschess.ch/tl_files/ssb/news/sgm/sgm2022.pdf) / [Ergebnisse Seebach 1](https://www.swisschess.ch/sgm.html?old=L3R1cm5pZXJlL3NnbS5waHA_YWphaHI9MjAyMiZhZ3J1cHBlPTUxMCZhbGlnYT01JmFyb3VuZD0x) / [Ergebnisse Seebach 2](https://www.swisschess.ch/sgm.html?old=L3R1cm5pZXJlL3NnbS5waHA_YWphaHI9MjAyMiZhbGlnYT01JmFncnVwcGU9NTExJmFyb3VuZD0x)
 
-**ZMM 2021:** [Paarungen](https://chess-results.com/tnr583798.aspx?lan=0&art=2) / [Rangliste](https://chess-results.com/tnr583798.aspx?lan=0&art=0) / [Regleement](https://www.zuercherschachverband.ch/images/Documents/2021/ZMM_Reglement_2021.pdf)
-
-**SGM 2022:** [Spielplan](https://www.swisschess.ch/tl_files/ssb/news/sgm/sgm2022.pdf) / [Ergebnisse Seebach 1](https://www.swisschess.ch/sgm.html?old=L3R1cm5pZXJlL3NnbS5waHA_YWphaHI9MjAyMiZhZ3J1cHBlPTUxMCZhbGlnYT01JmFyb3VuZD0x) / [Ergebnisse Seebach 2](https://www.swisschess.ch/sgm.html?old=L3R1cm5pZXJlL3NnbS5waHA_YWphaHI9MjAyMiZhbGlnYT01JmFncnVwcGU9NTExJmFyb3VuZD0x) / [Spiellokal Katzenbachstr. 20](https://www.bg-glattal.ch/weiteres/mieterservices/gemeinschaftsraeume/katzenbachstrasse-20)
+**SMM 2022:** [Spielplan](https://test01.swisschess.ch/turniere/smm/2022/smmspielplan2022.pdf) [Ergebnisse Seebach 1](https://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMiZhZ3J1cHBlPTUwNCZhbGlnYT01JmFyb3VuZD0w)  [Ergebnisse Seebach 1](https://www.swisschess.ch/smm.html?old=L3R1cm5pZXJlL3NtbS5waHA_YWphaHI9MjAyMiZhZ3J1cHBlPTYwNSZhbGlnYT02JmFyb3VuZD0w)
 
 **Vereinsmeisterschaft 2022:** [Ausschreibung](AusschreibungVM2022.pdf) / [Reglement](ReglementVM2022.pdf)
 
