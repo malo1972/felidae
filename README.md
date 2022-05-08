@@ -3,8 +3,10 @@
 
 # Aktuell
 
-**Wir freuen uns auf die erste Auflage des Seebach Open UI16 am Sonntag 22. Mai im GZ Seebach**
+**Wir freuen uns auf die erste Auflage des Seebach Open UI16 am Sonntag 22. Mai im [GZ Seebach](https://gz-zh.ch/gz-seebach/)**
 
+Anwesenheitskontrolle: bis 12 Uhr <br/>
+Spielbeginn: 12:15 <br/> <br/>
 9 Runden Schweizer System <br/>
 Bedenkzeit: 10 min <br/>
 Sonderwertungen: U8, U12, U16 <br/>
