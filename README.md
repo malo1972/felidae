@@ -3,7 +3,7 @@
 
 # Aktuell
 
-**Wir freuen uns auf die erste Auflage unseres Seebach Open UI16 am Sonntag, 22. Mai im [GZ Seebach](https://gz-zh.ch/gz-seebach/)**
+**Wir freuen uns auf die erste Auflage unseres Jugendschachturniers "Seebach Open U16" am Sonntag, 22. Mai im [GZ Seebach](https://gz-zh.ch/gz-seebach/)**
 
 Anwesenheitskontrolle: bis 12 Uhr <br/>
 Spielbeginn: 12:15 <br/> <br/>
