@@ -3,6 +3,19 @@
 
 # Aktuell
 
+**Wir freuen uns auf die erste Auflage des Seebach Open UI16 am Sonntag 22. Mai im GZ Seebach**
+
+9 Runden Schweizer System <br/>
+Bedenkzeit: 10 min <br/>
+Sonderwertungen: U8, U12, U16 <br/>
+3 Pokale je Altersklasse und Sachpreise <br/>
+Überraschungsgeschenk für alle Teilnehmer*innen <br/>
+In den Pausen grosser Torwand-Wettbewerb! <br/> <br/>
+
+**[Ausschreibung Seebach Open U16](AusschreibungJugend2022.pdf)** <br/> <br/>
+
+
+
 **Grossartiger Erfolg unserer Talente beim Turnier "Jugendschachkönig" des Zürcher Schachverbands:**
 [Resultate U12](https://chess-results.com/tnr586249.aspx?lan=0&art=1&rd=7) / [Resultate U18](https://chess-results.com/tnr586243.aspx?lan=0&art=1&rd=7) <br/>
 
