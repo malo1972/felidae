@@ -3,10 +3,9 @@
 
 # Aktuell
 
-**Wir danken allen Sponsoren, Helfern, Spielern des 1. Seebach Open U16 2022**
+**Wir danken allen Sponsoren, Helfern, Spielern des 1. Seebach Open U16 2022** <br/> 
 **[Ausschreibung Seebach Open U16](AusschreibungJugend2022.pdf)** <br/> 
-
-[Rangliste nach 9 Runden](https://chess-results.com/tnr640694.aspx?lan=1&art=1&rd=9)
+[Rangliste nach 9 Runden](https://chess-results.com/tnr640694.aspx?lan=1&art=1&rd=9)  <br/> 
 
 **Grossartiger Erfolg unserer Talente beim Turnier "Jugendschachkönig" des Zürcher Schachverbands:**
 [Resultate U12](https://chess-results.com/tnr586249.aspx?lan=0&art=1&rd=7) / [Resultate U18](https://chess-results.com/tnr586243.aspx?lan=0&art=1&rd=7) <br/>
