@@ -3,6 +3,16 @@
 
 # Aktuell
 
+**Mannschafts-Blitz turnier am 19 Juni 2022**<br/>
+Direkt am Katzenbach haben sich 15 Mannschaften aus sechs verschiedenen Kantonen am 19. Juni 2022 im ersten Open Air
+Mannschaftsblitzturnier gemessen. <br/>
+Der gewählte Turniermodus mit sechs Vorrunden und dann Direktbegegnungen bis zum Final versprach, die Spannung bis zum Schluss zu steigern.
+Als Favorit gestartet, setzte sich die Schachgesellschaft Zürich, von IM Anthony Petkidis knapp dank den besseren Brettpunkten gegen SC Brugg durch. 
+Die Bronzemedaille gewann ASK Réti. <br/>
+Mit dem 6. Schlussrang feierte die 1. Mannschaft DieSchachSchulProfi einen Achtungserfolg. <br/>
+Beachtlich schlug sich ebenfalls der Zentralvorstand des Schweizerischen Schachbunds (8. Schlussrang). <br/>
+**[Fotostrecke Mannschaftsblitz 2022](mannschaftshblitz/mannschaftsblitz.md)** <br/> 
+
 **Wir danken allen Sponsoren, Helfern, Spielern des 1. Seebach Open U16 2022** <br/> 
 **[Ausschreibung Seebach Open U16](AusschreibungJugend2022.pdf)** <br/> 
 [Rangliste nach 9 Runden](https://chess-results.com/tnr640694.aspx?lan=1&art=1&rd=9)  <br/> 
