@@ -3,7 +3,7 @@
 
 # Aktuell
 
-**Mannschafts-Blitz turnier am 19 Juni 2022**<br/>
+**Mannschafts-Blitzturnier am 19. Juni 2022**<br/>
 Direkt am Katzenbach haben sich 15 Mannschaften aus sechs verschiedenen Kantonen am 19. Juni 2022 im ersten Open Air
 Mannschaftsblitzturnier gemessen. <br/>
 Der gewählte Turniermodus mit sechs Vorrunden und dann Direktbegegnungen bis zum Final versprach, die Spannung bis zum Schluss zu steigern.
