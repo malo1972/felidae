@@ -12,9 +12,11 @@ Die Bronzemedaille gewann ASK Réti. <br/>
 Mit dem 6. Schlussrang feierte die 1. Mannschaft DieSchachSchulProfi einen Achtungserfolg. <br/>
 Beachtlich schlug sich ebenfalls der Zentralvorstand des Schweizerischen Schachbunds (8. Schlussrang). <br/>
 **[Fotostrecke Mannschaftsblitz 2022](mannschaftshblitz/mannschaftsblitz.md)** <br/> 
-<br/> 
 <img  class="marginauto" src="viewGZ.png" alt="centered image" width="650"/><br/> 
 <br/> 
+***
+<br/> 
+
 **22. Mai 2022: 1. Seebach Open U16** <br/> 
 Zum ersten mal konnten wir unser Open U16 durchführen. Eingeschrieben hatten sich 99 Schachtalente, schliesslich beendeten 74 Teilnehmende das Turnier. Rund 51 % der Teilnehmenden stammten aus der Kategorie U12, 27 % waren U8, nur 22 % U16. Gesamtsiege mit 7.5 Punkte wurde Malli Suvirr, vor den Punktengleichen Simon Schellenberg (Start-Nr. 1 mit 1917 ELO) und Anuar Turashbayev (1. U12). Kategorie-Sieger U8 wurde Marius Neuschild. Mit je 6 Punkten belegten Karthik und Emanuel die ausgezeichnete Ränge 15 und 16.
 Wir danken allen Sponsoren, Helfern und Spielern.<br/> 
@@ -22,13 +24,15 @@ Wir danken allen Sponsoren, Helfern und Spielern.<br/>
 **[Fotostrecke Seebach Open U16 2022](open_u16_2022/openu162022.md)** <br/> 
 <br/> 
 <img  class="marginauto" src="u1622snap.png" alt="centered image" width="650"/>  <br/> 
- <br/> 
+<br/>
+***
+<br/>
+
 **7. November 2021: Jugendschachkönig des Zürcher Schachverbands**<br/>
 Grossartiger Erfolg unserer Jungtalente:<br/> 
 **[Resultate U12](https://chess-results.com/tnr586249.aspx?lan=0&art=1&rd=7)** <br/> 
 **[Resultate U18](https://chess-results.com/tnr586243.aspx?lan=0&art=1&rd=7)** <br/>
-<img  class="marginauto" src="Koenig2021.jpeg" alt="centered image" width="650"/>
-<br/> 
+<img  class="marginauto" src="Koenig2021.jpeg" alt="centered image" width="650"/> <br/> 
 <br/> 
 
 ***
