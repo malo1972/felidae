@@ -27,8 +27,9 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 **[Resultate U12](https://chess-results.com/tnr586249.aspx?lan=0&art=1&rd=7)** <br/> 
 **[Resultate U18](https://chess-results.com/tnr586243.aspx?lan=0&art=1&rd=7)** <br/>
 <img  class="marginauto" src="Koenig2021.jpeg" alt="centered image" width="650"/>
+<br/> 
+<br/> 
 
- 
 ***
 
 # Wer wir sind
