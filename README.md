@@ -13,9 +13,8 @@ Mit dem 6. Schlussrang feierte die 1. Mannschaft DieSchachSchulProfi einen Achtu
 Beachtlich schlug sich ebenfalls der Zentralvorstand des Schweizerischen Schachbunds (8. Schlussrang). <br/>
 **[Fotostrecke Mannschaftsblitz 2022](mannschaftshblitz/mannschaftsblitz.md)** <br/> 
 <img  class="marginauto" src="viewGZ.png" alt="centered image" width="650"/><br/> 
-<br/> 
+ 
 ***
-<br/> 
 
 **22. Mai 2022: 1. Seebach Open U16** <br/> 
 Zum ersten mal konnten wir unser Open U16 durchführen. Eingeschrieben hatten sich 99 Schachtalente, schliesslich beendeten 74 Teilnehmende das Turnier. Rund 51 % der Teilnehmenden stammten aus der Kategorie U12, 27 % waren U8, nur 22 % U16. Gesamtsiege mit 7.5 Punkte wurde Malli Suvirr, vor den Punktengleichen Simon Schellenberg (Start-Nr. 1 mit 1917 ELO) und Anuar Turashbayev (1. U12). Kategorie-Sieger U8 wurde Marius Neuschild. Mit je 6 Punkten belegten Karthik und Emanuel die ausgezeichnete Ränge 15 und 16.
@@ -24,9 +23,8 @@ Wir danken allen Sponsoren, Helfern und Spielern.<br/>
 **[Fotostrecke Seebach Open U16 2022](open_u16_2022/openu162022.md)** <br/> 
 <br/> 
 <img  class="marginauto" src="u1622snap.png" alt="centered image" width="650"/>  <br/> 
-<br/>
+
 ***
-<br/>
 
 **7. November 2021: Jugendschachkönig des Zürcher Schachverbands**<br/>
 Grossartiger Erfolg unserer Jungtalente:<br/> 
@@ -51,7 +49,6 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 **Erwachsene:** 80 CHF/Jahr. Darin enthalten sind: Spielabende inkl. Vereinsmeisterschaft, Theorielektionen sowie die Teilnahme am jährlichen Weihnachtsessen und am Seebach Open. Aktive Mitglieder mit SSB-Spielerlizenz bezahlen zusätzlich CHF 100 [Gebühren des SSB](https://www.swisschess.ch/beitraege-und-gebuehren.html)
 
 **Kinder und Jugendliche:** Die Teilnahme an den Mittwochstrainings ist kostenfrei. Dank unserer Sponsoren und Gönner übernehmen wir auch die Kosten für die Spielerlizenzen des schweizerischen Schachbundes.
-
 
 ***
 
@@ -101,9 +98,7 @@ Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser B
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/RIoyR5uO/F7LSLisD#0" frameborder=0></iframe>
 
-
 ***
-
 
 # Zitate
 ***
