@@ -13,7 +13,8 @@ Mit dem 6. Schlussrang feierte die 1. Mannschaft DieSchachSchulProfi einen Achtu
 Beachtlich schlug sich ebenfalls der Zentralvorstand des Schweizerischen Schachbunds (8. Schlussrang). <br/>
 **[Fotostrecke Mannschaftsblitz 2022](mannschaftshblitz/mannschaftsblitz.md)** <br/> 
 <br/> 
-<img  class="marginauto" src="viewGZ.png" alt="centered image" width="650"/>
+<img  class="marginauto" src="viewGZ.png" alt="centered image" width="650"/><br/> 
+<br/> 
 **22. Mai 2022: 1. Seebach Open U16 2022** <br/> 
 Zum ersten mal konnten wir unser Open U16 durchführen. Eingeschrieben hatten sich 99 Schachtalente, schliesslich beendeten 74 Teilnehmende das Turnier. Rund 51 % der Teilnehmenden stammten aus der Kategorie U12, 27 % waren U8, nur 22 % U16. Gesamtsiege mit 7.5 Punkte wurde Malli Suvirr, vor den Punktengleichen Simon Schellenberg (Start-Nr. 1 mit 1917 ELO) und Anuar Turashbayev (1. U12). Kategorie-Sieger U8 wurde Marius Neuschild. Mit je 6 Punkten belegten Karthik und Emanuel die ausgezeichnete Ränge 15 und 16.
 Wir danken allen Sponsoren, Helfern und Spielern.<br/> 
