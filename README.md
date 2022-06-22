@@ -21,7 +21,8 @@ Wir danken allen Sponsoren, Helfern und Spielern.<br/>
 **[Rangliste nach 9 Runden](https://chess-results.com/tnr640694.aspx?lan=1&art=1&rd=9)**  <br/> 
 **[Fotostrecke Seebach Open U16 2022](open_u16_2022/openu162022.md)** <br/> 
 <br/> 
-<img  class="marginauto" src="u1622snap.png" alt="centered image" width="650"/>
+<img  class="marginauto" src="u1622snap.png" alt="centered image" width="650"/>  <br/> 
+ <br/> 
 **7. November 2021: Jugendschachkönig des Zürcher Schachverbands**<br/>
 Grossartiger Erfolg unserer Jungtalente:<br/> 
 **[Resultate U12](https://chess-results.com/tnr586249.aspx?lan=0&art=1&rd=7)** <br/> 
