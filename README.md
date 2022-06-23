@@ -4,7 +4,7 @@
 # Aktuell
 
 **19. Juni 2022: Mannschafts-Blitzturnier**<br/>
-Direkt am Katzenbach trafen sich 15 Mannschaften aus sechs Kantonen am 19. Juni 2022 zum ersten Open Air
+Direkt am Katzenbach trafen sich 15 Mannschaften aus sechs Kantonen zum ersten Open Air
 Mannschaftsblitzturnier des SC Seebach. <br/>
 Der gewählte Turniermodus mit sechs Vorrunden und dann Direktbegegnungen bis zum Final versprach, die Spannung bis zum Schluss zu steigern.
 Als Favorit gestartet, setzte sich die Schachgesellschaft Zürich, von IM Anthony Petkidis knapp dank den besseren Brettpunkten gegen SC Brugg durch. 
