@@ -3,7 +3,7 @@
 
 # Aktuell
 
-**letzter Spielabend vor den Ferien findet am 18. Juli statt. Wir sehen uns wieder am 15, August. Schöne Ferien!**<br/>
+**letzter Spielabend vor den Ferien findet am 18. Juli statt. Wir sehen uns wieder am 15. August. Schöne Ferien!**<br/>
 
 **28. August 2022: [**4. Seebach Open**](https://www.sc-seebach.ch/Ausschreibung2022.pdf)**<br/>
 
