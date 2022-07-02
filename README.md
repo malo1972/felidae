@@ -11,7 +11,7 @@ Als Favorit gestartet, setzte sich die Schachgesellschaft Zürich, von IM Anthon
 Die Bronzemedaille gewann ASK Réti. <br/>
 Mit dem 6. Schlussrang feierte die 1. Mannschaft DieSchachSchulProfi einen Achtungserfolg. <br/>
 Beachtlich schlug sich ebenfalls der Zentralvorstand des Schweizerischen Schachbunds (8. Schlussrang). <br/>
-**[Fotostrecke Mannschaftsblitz 2022](mannschaftshblitz/mannschaftsblitz.md)** <br/> 
+**[Rangliste & Fotostrecke](mannschaftshblitz/mannschaftsblitz.md)** <br/> 
 <img  class="marginauto" src="viewGZ.png" alt="centered image" width="650"/><br/> 
  
 ***
