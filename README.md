@@ -3,9 +3,9 @@
 
 # Aktuell
 
-**letzter Spielabend vor den Ferien findet am 18. Juli statt. Wir sehen uns wieder am 15, August. Schöne Ferien! **<br/>
+**letzter Spielabend vor den Ferien findet am 18. Juli statt. Wir sehen uns wieder am 15, August. Schöne Ferien!**<br/>
 
-**28. August 2022: [**4. Seebach Open**](https://www.sc-seebach.ch/Ausschreibung2022.pdf)<br/>
+**28. August 2022: [**4. Seebach Open**](https://www.sc-seebach.ch/Ausschreibung2022.pdf)**<br/>
 
 **19. Juni 2022: Mannschafts-Blitzturnier**<br/>
 Direkt am Katzenbach trafen sich 15 Mannschaften aus sechs Kantonen zum ersten Open Air
