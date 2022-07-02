@@ -17,7 +17,6 @@
 |14 | Seebacher Talente |
 |15 | Seebacher Evergreen |
 |16 | Lenzburg |
- 
 
 ![Tux, the Linux mascot](/mannschaftshblitz/1.jpg)
 ![Tux, the Linux mascot](/mannschaftshblitz/2.jpg)
