@@ -1,6 +1,6 @@
-**Rangliste des 1. Mannschaftsblitzturniers am 19.6.2022** 
+**Rangliste des 1. Mannschaftsblitzturniers am 19.6.2022** <br/>
 | Rang | Team | 
-|:------------------ |:-------------------|
+|:--|:---------------------------|
 |1  | SG Zürich |
 |2  | SC Brugg |
 |3  | ASK Reti |
