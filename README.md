@@ -11,7 +11,7 @@
 
 ***
 
-**19. Juni 2022: Mannschafts-Blitzturnier**<br/>
+**19. Juni 2022: 1. Open Air Mannschafts-Blitzturnier**<br/>
 Direkt am Katzenbach trafen sich 15 Mannschaften aus sechs Kantonen zum ersten Open Air
 Mannschaftsblitzturnier des SC Seebach. <br/>
 Der gewählte Turniermodus mit sechs Vorrunden und dann Direktbegegnungen bis zum Final versprach, die Spannung bis zum Schluss zu steigern.
