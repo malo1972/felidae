@@ -3,7 +3,7 @@
 
 # Aktuell
 
-Das legendäre Seebach Open geht in die 4. Auflage am Sonntag, 28. August .2022: <br/>
+Das legendäre Seebach Open geht in die 4. Auflage am Sonntag, 28. August 2022: <br/>
 **[Ausschreibung 4. Seebach Open](https://www.sc-seebach.ch/Ausschreibung2022.pdf)**<br/>
 Achtung: auf 100 begrenztes Teilnehmerfeld! Anmeldungen via mail an <andreas.poncini@ponciniconsulting.ch>
 
