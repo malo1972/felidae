@@ -3,11 +3,9 @@
 
 # Aktuell
 
-**Unser letzter Spielabend vor den Ferien findet am 18. Juli statt. Wir sehen uns wieder am 15. August. Schöne Ferien!**<br/>
-
-***
-
-**Sonntag, 28. August 2022: [4. Seebach Open](https://www.sc-seebach.ch/Ausschreibung2022.pdf)**<br/>
+Das legendäre Seebach Open geht in die 4. Auflage am Sonntag, 28. August .2022: <br/>
+**[Ausschreibung 4. Seebach Open](https://www.sc-seebach.ch/Ausschreibung2022.pdf)**<br/>
+Achtung: auf 100 begrenztes Teilnehmerfeld! Anmeldungen via mail an <andreas.poncini@ponciniconsulting.ch>
 
 ***
 
