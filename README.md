@@ -8,6 +8,8 @@ Wir danken allen Spielern, Sponsoren und Helfern für eine weitere Auflage unser
 
 [Rangliste des 4. Seebach Open am 28.8.2022](http://chess-results.com/tnr668687.aspx?lan=1&art=1&rd=9)  <br/> 
 
+Fotostrecke demnächst hier...
+
 ***
 
 **19. Juni 2022: 1. Open Air Mannschafts-Blitzturnier**<br/>
