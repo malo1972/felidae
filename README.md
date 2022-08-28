@@ -4,9 +4,9 @@
 # Aktuell
 
 **28. August 2022: 4. Seebach Open 10+0 (Blitz)**<br/>
-Das legendäre Seebach Open geht in die 4. Auflage am Sonntag, 28. August 2022: <br/>
---->  **[Ausschreibung 4. Seebach Open](https://www.sc-seebach.ch/Ausschreibung2022.pdf)** <--- <br/>
-Achtung: auf 100 begrenztes Teilnehmerfeld! Anmeldungen via mail an <andreas.poncini@ponciniconsulting.ch>
+Wir danken allen Spielern, Sponsoren und Helfern für eine weitere Auflage unseres Seebach Open. <br/>
+
+[Rangliste des 4. Seebach Open am 28.8.2022](http://chess-results.com/tnr668687.aspx?lan=1&art=1&rd=9)  <br/> 
 
 ***
 
