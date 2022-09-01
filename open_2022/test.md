@@ -1,1 +1,6 @@
-test
+![Tux, the Linux mascot](/open_2022/P1180120.JPG)
+![Tux, the Linux mascot](/open_2022/P1180123.JPG)
+![Tux, the Linux mascot](/open_2022/P1180169.JPG)
+![Tux, the Linux mascot](/open_2022/P1180172.JPG)
+![Tux, the Linux mascot](/open_2022/P1180181.JPG)
+![Tux, the Linux mascot](/open_2022/P1180189.JPG)
