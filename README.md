@@ -192,6 +192,8 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 [Schweizerischer Schachbund **SSB**](http://www.swisschess.ch/home-de.html)
 
+[ELO Rechner](https://www.swisschess.ch/elo-kalkulator.html)
+
 [Zürcher Schachverband **ZSV**](https://www.zuercherschachverband.ch)
 
 [online Schach Shop Schweiz **chesspoint.ch**](https://www.chesspoint.ch/)
