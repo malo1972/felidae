@@ -8,6 +8,7 @@ Mit 67 Schachbegeisterten blieb die Teilnehmerzahl etwas unter den Erwartungen, 
 Nicht unerwähnt bleiben dürfen die sehr guten Resultate von Timon und Emanuel mit je 5.5 Punkten (2. und 3. der U12 Kategorie), der Turniereinstand von Felix (ebenfalls mit 5.5 Punkten) sowie die 5 Punkte von Marino und Tim. <br/>
 [Rangliste des 4. Seebach Open am 28.8.2022](http://chess-results.com/tnr668687.aspx?lan=1&art=1&rd=9)  <br/> 
 **[Fotostrecke](open_2022/test.md)** <br/>
+<img  class="marginauto" src="startround.png" alt="centered image" width="650"/><br/> 
 
 ***
 
