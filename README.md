@@ -163,8 +163,6 @@ Kirchenfeld 75 <br/>
 ***
 
 # Kalender
-hier finden sich u.a. Termine wie die des [SMM Spielplan](http://test01.swisschess.ch/turniere/smm/2021/smmspielplan2021.pdf)  <br/>
- <br/>
 Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.swisschess.ch/kalender.html)  <br/>
  <br/>
 <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FZurich&amp;src=ZDJjN3BsY2xhdXA3cXByOGU4ZzN2NGtjYjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23C0CA33&amp;showTitle=0&amp;showNav=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=1&amp;showDate=1&amp;hl=de" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>
