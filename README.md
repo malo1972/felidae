@@ -3,6 +3,11 @@
 
 # Aktuell
 
+**21.-23. September 2022: Zürcher Schachwoche**<br/>
+
+**[Resultate](ZSW2022.html)** <br/>
+
+
 **28. August 2022: 4. Seebach Open 10+0 (Blitz)**<br/>
 Mit 67 Schachbegeisterten blieb die Teilnehmerzahl etwas unter den Erwartungen, dafür war die Startliste mit einem ELO-Durchschnitt der ersten fünf Angemeldeten mit 2'142 Punkten hochkarätig. 3 Generationen und Teilnehmer*innen aus über 20 Kulturkreisen kämpften tlw. verbissen um die Punkte. Lachen und gemütliches Zusammensein blieben trotzdem nicht auf der Strecke. Mit 17 Spielern, davon 9 Jungtalenten stellte unser Schachclub die grösste «Delegation». Mit 8 Punkten aus 9 Partien gewann Neumitglied Stefan Kunz aus Flawil vor den Zürcher Urgesteinen Robert Beer und Christoph Drechsler. Neumitglied Oliver Angst belegte mit 7. Punkten den undankbaren 4. Rang.
 Nicht unerwähnt bleiben dürfen die sehr guten Resultate von Timon und Emanuel mit je 5.5 Punkten (2. und 3. der U12 Kategorie), der Turniereinstand von Felix (ebenfalls mit 5.5 Punkten) sowie die 5 Punkte von Marino und Tim. <br/>
