@@ -4,7 +4,6 @@
 # Aktuell
 
 **21.-23. September 2022: Zürcher Schachwoche**<br/>
-
 An einer weiteren Ausabe der Zürcher Schachwoche, an der sich 6 Zürcher Clubs in den Disziplinen Blitz, Simultan und klassischen Partien messen konnten, erzielten wir einen hervorragenden 4. Rang:
 **[Resultate der ZSW 2022 (Rang: Spalte ganz rechts)](ZSW2022.html)** <br/>
 
