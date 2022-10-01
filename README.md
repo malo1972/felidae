@@ -5,7 +5,8 @@
 
 **21.-23. September 2022: Zürcher Schachwoche**<br/>
 
-**[Resultate](ZSW2022.html)** <br/>
+An einer weiteren Ausabe der Zürcher Schachwoche, an der sich 6 Zürcher Clubs in den Disziplinen Blitz, Simultan und klassischen Partien messen konnten, erzielten wir einen hervorragenden 4. Rang:
+**[Resultate der ZSW 2022 (Rang: Spalte ganz rechts)](ZSW2022.html)** <br/>
 
 
 **28. August 2022: 4. Seebach Open 10+0 (Blitz)**<br/>
