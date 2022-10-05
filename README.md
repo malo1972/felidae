@@ -4,7 +4,7 @@
 # Aktuell
 
 **2. Oktober 2022: Jugendschachkönig des Zürcher Schachverbands**<br/>
-**[Rangliste]([ZSW2022.html](https://chess-results.com/tnr675345.aspx?lan=0&art=1&rd=7))** <br/>
+**[Rangliste](https://chess-results.com/tnr675345.aspx?lan=0&art=1&rd=7)** <br/>
 <img  class="marginauto" src="jsk22.png" alt="centered image" width="650"/><br/> 
 
 ***
