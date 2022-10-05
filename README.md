@@ -3,10 +3,17 @@
 
 # Aktuell
 
+**2. Oktober 2022: Jugendschachkönig des Zürcher Schachverbands**<br/>
+**[Rangliste]([ZSW2022.html](https://chess-results.com/tnr675345.aspx?lan=0&art=1&rd=7))** <br/>
+<img  class="marginauto" src="jsk22.png" alt="centered image" width="650"/><br/> 
+
+***
+
 **21.-23. September 2022: Zürcher Schachwoche**<br/>
 An einer weiteren Ausabe der Zürcher Schachwoche, an der sich 6 Zürcher Clubs in den Disziplinen Blitz, Simultan und klassischen Partien messen konnten, erzielten wir einen hervorragenden 4. Rang:
 **[Resultate der ZSW 2022 (Rang: Spalte ganz rechts)](ZSW2022.html)** <br/>
 
+***
 
 **28. August 2022: 4. Seebach Open 10+0 (Blitz)**<br/>
 Mit 67 Schachbegeisterten blieb die Teilnehmerzahl etwas unter den Erwartungen, dafür war die Startliste mit einem ELO-Durchschnitt der ersten fünf Angemeldeten mit 2'142 Punkten hochkarätig. 3 Generationen und Teilnehmer*innen aus über 20 Kulturkreisen kämpften tlw. verbissen um die Punkte. Lachen und gemütliches Zusammensein blieben trotzdem nicht auf der Strecke. Mit 17 Spielern, davon 9 Jungtalenten stellte unser Schachclub die grösste «Delegation». Mit 8 Punkten aus 9 Partien gewann Neumitglied Stefan Kunz aus Flawil vor den Zürcher Urgesteinen Robert Beer und Christoph Drechsler. Neumitglied Oliver Angst belegte mit 7. Punkten den undankbaren 4. Rang.
