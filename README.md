@@ -164,7 +164,7 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
  
 * **Kinder- & Jugendschach** <br/> Richard Bohnenberger <br/> <bohnenbergerrichard@gmail.com> <br/> 079 443 56 72
 
-* **Kinder- & Jugendschach, Turnierschach ** <br/> Marino Gambarara <br/> <marino.gambarara@bluewin.ch>
+* **Kinder- & Jugendschach, Turnierschach** <br/> Marino Gambarara <br/> <marino.gambarara@bluewin.ch>
 
 * **Leiter Gastronomie** <br/> Adrian Götz <br/>
 
