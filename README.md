@@ -3,6 +3,10 @@
 
 # Aktuell
 
+**13. November 2022: Timon Trubini gewinnt die 2. Runde des Zürichsee Jugend Grnad Prix**<br/>
+**[Rangliste](Finalrangliste_JGP_2022 (1).pdf)** <br/>
+<img  class="marginauto" src="timon.png" alt="centered image" width="650"/><br/> 
+
 **2. Oktober 2022: Jugendschachkönig des Zürcher Schachverbands**<br/>
 **[Rangliste](https://chess-results.com/tnr675345.aspx?lan=0&art=1&rd=7)** <br/>
 <img  class="marginauto" src="jsk22.png" alt="centered image" width="650"/><br/> 
