@@ -79,6 +79,10 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 
 <img  class="marginauto" src="logotrans.png" alt="centered image" width="300"/>
 
+<p align="center">
+  <img width="300"  src="logotrans.png">
+</p>
+
 # Mitgliedschaft
 **Erwachsene:** 80 CHF/Jahr. Darin enthalten sind: Spielabende inkl. Vereinsmeisterschaft, Theorielektionen sowie die Teilnahme am jährlichen Weihnachtsessen und am Seebach Open. Aktive Mitglieder mit SSB-Spielerlizenz bezahlen zusätzlich CHF 100 [Gebühren des SSB](https://www.swisschess.ch/beitraege-und-gebuehren.html)
 
