@@ -5,7 +5,9 @@
 
 **5. Dezember 2022: Weihnachtsfeier**<br/>
 zur Fotostrecke auf das Bild klicken:
-[![xyz](/xmas22/7Q0A0783.jpg)](https://www.sc-seebach.ch/xmas22/pic.html)
+[![xyz](/xmas22/7Q0A0783.jpg)](https://www.sc-seebach.ch/xmas22/pic.html)<br/> 
+
+***
 
 **13. November 2022: Timon Trubini gewinnt die 2. Runde des Zürichsee Jugend Grand Prix**<br/>
 **[Rangliste](Finalrangliste_JGP_2022 (1).pdf)** <br/>
@@ -29,8 +31,9 @@ An einer weiteren Ausabe der Zürcher Schachwoche, an der sich 6 Zürcher Clubs 
 Mit 67 Schachbegeisterten blieb die Teilnehmerzahl etwas unter den Erwartungen, dafür war die Startliste mit einem ELO-Durchschnitt der ersten fünf Angemeldeten mit 2'142 Punkten hochkarätig. 3 Generationen und Teilnehmer*innen aus über 20 Kulturkreisen kämpften tlw. verbissen um die Punkte. Lachen und gemütliches Zusammensein blieben trotzdem nicht auf der Strecke. Mit 17 Spielern, davon 9 Jungtalenten stellte unser Schachclub die grösste «Delegation». Mit 8 Punkten aus 9 Partien gewann Neumitglied Stefan Kunz aus Flawil vor den Zürcher Urgesteinen Robert Beer und Christoph Drechsler. Neumitglied Oliver Angst belegte mit 7. Punkten den undankbaren 4. Rang.
 Nicht unerwähnt bleiben dürfen die sehr guten Resultate von Timon und Emanuel mit je 5.5 Punkten (2. und 3. der U12 Kategorie), der Turniereinstand von Felix (ebenfalls mit 5.5 Punkten) sowie die 5 Punkte von Marino und Tim. <br/>
 [Rangliste des 4. Seebach Open am 28.8.2022](http://chess-results.com/tnr668687.aspx?lan=1&art=1&rd=9)  <br/> 
-**[Fotostrecke](open_2022/test.md)** <br/>
-<img  class="marginauto" src="startround.png" alt="centered image" width="650"/><br/> 
+
+zur Fotostrecke auf das Bild klicken:
+[![xyz](startround.png)](https://www.sc-seebach.ch/open_2022/test.html)<br/> 
 
 ***
 
@@ -51,9 +54,9 @@ Beachtlich schlug sich ebenfalls der Zentralvorstand des Schweizerischen Schachb
 Zum ersten mal konnten wir unser Open U16 durchführen. Eingeschrieben hatten sich 99 Schachtalente, schliesslich beendeten 74 Teilnehmende das Turnier. Rund 51 % der Teilnehmenden stammten aus der Kategorie U12, 27 % waren U8, nur 22 % U16. Gesamtsiege mit 7.5 Punkte wurde Malli Suvirr, vor den Punktengleichen Simon Schellenberg (Start-Nr. 1 mit 1917 ELO) und Anuar Turashbayev (1. U12). Kategorie-Sieger U8 wurde Marius Neuschild. Mit je 6 Punkten belegten Karthik und Emanuel die ausgezeichnete Ränge 15 und 16.
 Wir danken allen Sponsoren, Helfern und Spielern.<br/> 
 **[Rangliste](https://chess-results.com/tnr640694.aspx?lan=1&art=1&rd=9)**  <br/> 
-**[Fotostrecke](u16_2022/test.md)** <br/> 
-<br/> 
-<img  class="marginauto" src="u1622snap.png" alt="centered image" width="650"/>  <br/> 
+
+zur Fotostrecke auf das Bild klicken:
+[![xyz](u1622snap.png)](https://www.sc-seebach.ch/u16_2022/test.html)<br/> 
 
 ***
 
