@@ -214,7 +214,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 [Ausschreibung 2. Seebach Open U16 am 7.5.2023](AusschreibungU162023.pdf)<br/>
 [Ausschreibung 5. Seebach Open am 27.8.2023](Ausschreibung2023.pdf)<br/>
 
-[Turniere des **SSB**](https://www.swisschess.ch/turniere.html) [Reglemente des **SSB**](http://www.swisschess.ch/reglemente.html)<br/>
+[Turniere des **SSB**](https://www.swisschess.ch/turniere.html) / [Reglemente des **SSB**](http://www.swisschess.ch/reglemente.html)<br/>
 **SGM 2022:** [Spielplan](https://www.swisschess.ch/tl_files/ssb/news/sgm/sgm2022.pdf) / [Resultate Seebach 1](https://www.swisschess.ch/sgm.html?old=L3R1cm5pZXJlL3NnbS5waHA_YWphaHI9MjAyMiZhZ3J1cHBlPTUxMCZhbGlnYT01JmFyb3VuZD0x) / [Resultate Seebach 2](https://www.swisschess.ch/sgm.html?old=L3R1cm5pZXJlL3NnbS5waHA_YWphaHI9MjAyMiZhbGlnYT01JmFncnVwcGU9NTExJmFyb3VuZD0x) <br/>
 **SMM 2022:** [Spielplan](https://test01.swisschess.ch/turniere/smm/2022/smmspielplan2022.pdf) / [Resultate Seebach 1](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2022&agruppe=504&aliga=5) / [Resultate Seebach 2](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2022&agruppe=605&aliga=6) <br/>
 **SGM 2022/23:** [Spielplan](https://test01.swisschess.ch/turniere/sgm/2023/sgm2023.pdf)  <br/>
