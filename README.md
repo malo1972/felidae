@@ -4,7 +4,7 @@
 # Aktuell
 
 **5. Dezember 2022: Weihnachtsfeier**<br/>
-zur Fotostrecke auf das Bild klicken:
+**Fotostrecke:**
 [![xyz](/xmas22/7Q0A0783.jpg)](https://www.sc-seebach.ch/xmas22/pic.html)<br/> 
 
 ***
@@ -32,7 +32,7 @@ Mit 67 Schachbegeisterten blieb die Teilnehmerzahl etwas unter den Erwartungen, 
 Nicht unerwähnt bleiben dürfen die sehr guten Resultate von Timon und Emanuel mit je 5.5 Punkten (2. und 3. der U12 Kategorie), der Turniereinstand von Felix (ebenfalls mit 5.5 Punkten) sowie die 5 Punkte von Marino und Tim. <br/>
 [Rangliste des 4. Seebach Open am 28.8.2022](http://chess-results.com/tnr668687.aspx?lan=1&art=1&rd=9)  <br/> 
 
-zur Fotostrecke auf das Bild klicken:
+**Fotostrecke:**
 [![xyz](startround.png)](https://www.sc-seebach.ch/open_2022/test.html)<br/> 
 
 ***
@@ -55,7 +55,7 @@ Zum ersten mal konnten wir unser Open U16 durchführen. Eingeschrieben hatten si
 Wir danken allen Sponsoren, Helfern und Spielern.<br/> 
 **[Rangliste](https://chess-results.com/tnr640694.aspx?lan=1&art=1&rd=9)**  <br/> 
 
-zur Fotostrecke auf das Bild klicken:
+**Fotostrecke:**
 [![xyz](u1622snap.png)](https://www.sc-seebach.ch/u16_2022/test.html)<br/> 
 
 ***
