@@ -6,7 +6,7 @@
 **5. Dezember 2022: Weihnachtsfeier**<br/>
 **[Fotostrecke](xmas22/pic.md)** <br/>
 
-[![xyz](/xmas22/7Q0A0783.jpg)](xmas22/pic.md)
+[![xyz](/xmas22/7Q0A0783.jpg)](https://www.sc-seebach.ch/xmas22/pic.html)
 
 <img  class="marginauto" src="/xmas22/7Q0A0783.jpg" alt="centered image" width="650"/><br/> 
 
