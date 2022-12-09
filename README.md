@@ -3,6 +3,10 @@
 
 # Aktuell
 
+**5. Dezember 2022: Weihnachtsfeier**<br/>
+**[Fotostrecke](xmas22/pic.md)** <br/>
+<img  class="marginauto" src="/xmas22/7Q0A0783.jpg" alt="centered image" width="650"/><br/> 
+
 **13. November 2022: Timon Trubini gewinnt die 2. Runde des Zürichsee Jugend Grand Prix**<br/>
 **[Rangliste](Finalrangliste_JGP_2022 (1).pdf)** <br/>
 <img  class="marginauto" src="timon.png" alt="centered image" width="650"/><br/> 
