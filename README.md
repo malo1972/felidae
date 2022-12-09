@@ -77,10 +77,8 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 
 **[Die Vereinsstatuten des SC Zürich Seebach](StatutenSCSeebach.pdf)**
 
-<img  class="marginauto" src="logotrans.png" alt="centered image" width="300"/>
-
 <p align="center">
-  <img width="300"  src="logotrans.png">
+  <img width="500"  src="logotrans.png">
 </p>
 
 # Mitgliedschaft
