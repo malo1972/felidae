@@ -5,7 +5,7 @@
 
 **ACHTUNG: neues Spiellokal sowie neuer Wochentag (Mittwoch) für unseren Spielabend**<br/>
 Wegen Renovierung des GZ spielen wir ab sofort (erster Spielabend 4.1.23) Mittwochs ab 18:00 in unserem neuen Spiellokal:
-Gemeinscharftsraum der Badi Seebach, Am Katzenbach 10, 8052 Zürich, Wegbeschreibung siehe [Spielabend](#Spielabend)
+Gemeinscharftsraum der Badi Seebach, Am Katzenbach 10, 8052 Zürich, Wegbeschreibung siehe [Spiellokal](#Spiellokal)
 
 ***
 
@@ -87,15 +87,10 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
   <img width="500"  src="logotrans.png">
 </p>
 
-# Mitgliedschaft
-**Erwachsene:** 80 CHF/Jahr. Darin enthalten sind: Spielabende inkl. Vereinsmeisterschaft, Theorielektionen sowie die Teilnahme am jährlichen Weihnachtsessen und am Seebach Open. Aktive Mitglieder mit SSB-Spielerlizenz bezahlen zusätzlich CHF 100 [Gebühren des SSB](https://www.swisschess.ch/beitraege-und-gebuehren.html)
-
-**Kinder und Jugendliche:** Die Teilnahme an den Mittwochstrainings ist kostenfrei. Dank unserer Sponsoren und Gönner übernehmen wir auch die Kosten für die Spielerlizenzen des schweizerischen Schachbundes.
-
 ***
 
-# Spielabend
-**Mittwochs ab 18:00 im Gemeinsschaftsraum des des Badis Seebach, Am Katzenbach 10, 8052 Zürich**<br/>
+# Spiellokal
+**Mittwochs ab 18:00 im Mehrzweckraum der Badis Seebach, Am Katzenbach 10, 8052 Zürich**<br/>
 **Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 * **am 1. Mittwoch des Monats:** <br/> gemeinsames Menu serviert von unseren Starköchen Simon und Francis
 * **am 2. & 4. Mittwoch des Monats:** <br/> Vereinsmeisterschaft in  verschiedenen Turnierformaten, siehe [Turniere](#turniere)
@@ -107,14 +102,22 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 <img  class="marginauto" src="way.png" alt="centered image" width="650"/><br/> 
 <img  class="marginauto" src="topway.png" alt="centered image" width="650"/><br/> 
 
-
-
 ***
 
 # Kinder- und Jugendschach
-**jeden Mittwoch (ausser Feiertage) 16-18 Uhr im [GZ Seebach](https://gz-zh.ch/gz-seebach/) <br/>
+**jeden Mittwoch (ausser Feiertage) 16-18 Uhr im Mehrzweckraum der Badi Seebach, siehe [Spiellokal](#Spiellokal) <br/>
 Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser Betreuungs-Team freut sich, mit Dir die Faszination des Schachspiels zu teilen. Die Teilnahme an unseren Schachtreffen ist kostenlos. Bist Du interessiert? Komm einfach vorbei zum Schnuppern oder ruf Andreas an (079 235 30 87)**
 <br/>
+
+# Mitgliedschaft
+**Erwachsene:** 80 CHF/Jahr. Darin enthalten sind: Spielabende inkl. Vereinsmeisterschaft, Theorielektionen sowie die Teilnahme am jährlichen Weihnachtsessen und am Seebach Open. Aktive Mitglieder mit SSB-Spielerlizenz bezahlen zusätzlich CHF 100 [Gebühren des SSB](https://www.swisschess.ch/beitraege-und-gebuehren.html)
+
+**Kinder und Jugendliche:** Die Teilnahme an den Mittwochstrainings ist kostenfrei. Dank unserer Sponsoren und Gönner übernehmen wir auch die Kosten für die Spielerlizenzen des schweizerischen Schachbundes.
+
+***
+
+
+
 
 **Kontakt:** <br/> Richard Bohnenberger <br/><bohnenbergerrichard@gmail.com> <br/> 079 443 56 72
 <br/>
