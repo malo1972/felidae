@@ -99,9 +99,12 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2699.355604057431!2d8.542197644127354!3d47.42450899316742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900befc7371097%3A0x3603d9d75790c6d3!2sSchach%20am%20Bach!5e0!3m2!1sde!2sch!4v1623650982664!5m2!1sde!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
+![name of the image](http://link.com/image.jpg)
+
 <img  class="marginauto" src="way.png" alt="centered image" width="650"/><br/> 
 <img  class="marginauto" src="topway.png" alt="centered image" width="650"/><br/> 
 <img  class="marginauto" src="fromtram.png" alt="centered image" width="650"/><br/> 
+![3 Minuten zu Fuss von der Tramendhaltestelle der Linie 14](fromtram.png)
 
 ***
 
