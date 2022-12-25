@@ -92,6 +92,7 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 
 # Spiellokal
 **Mittwochs ab 18:00 im Mehrzweckraum des Freibad Seebach, Am Katzenbach 10, 8052 Zürich**<br/>
+Nur 3 Minuten zu Fuss von der Tramendhaltestelle Seebach der Linie 14, dort auch Parkplätze!<br/>
 **Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 * **am 1. Mittwoch des Monats:** <br/> gemeinsames Menu serviert von unseren Starköchen Simon und Francis
 * **am 2. & 4. Mittwoch des Monats:** <br/> Vereinsmeisterschaft in  verschiedenen Turnierformaten, siehe [Turniere](#turniere)
@@ -104,7 +105,6 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 <img  class="marginauto" src="way.png" alt="centered image" width="650"/><br/> 
 <img  class="marginauto" src="topway.png" alt="centered image" width="650"/><br/> 
 <img  class="marginauto" src="fromtram.png" alt="centered image" width="650"/><br/> 
-![3 Minuten zu Fuss von der Tramendhaltestelle der Linie 14](fromtram.png)
 
 ***
 
