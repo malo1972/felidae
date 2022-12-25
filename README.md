@@ -3,6 +3,10 @@
 
 # Aktuell
 
+**ACHTUNG: neues Spiellokal sowie neuer Wochentag (Mittwoch) für unseren Spielabend**<br/>
+ab sofort (erster Spielabend 4.1.23) spielen wir Mittwochs ab 18:00 (statt Montags) in unserem neuen Spiellokal:
+Gemeinscharftsraum der Badi Seebach, Am Katzenbach 10, 8052 Zürich, Wegbeschreibung siehe [Spielabend](#Spielabend)
+
 **5. Dezember 2022: Weihnachtsfeier**<br/>
 **Fotostrecke:**
 [![xyz](/xmas22/7Q0A0783.jpg)](https://www.sc-seebach.ch/xmas22/pic.html)<br/> 
