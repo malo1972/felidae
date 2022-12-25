@@ -5,7 +5,7 @@
 
 **ACHTUNG: neues Spiellokal sowie neuer Wochentag (Mittwoch) für unseren Spielabend**<br/>
 Wegen Renovierung des GZ spielen wir ab sofort (erster Spielabend 4.1.23) Mittwochs ab 18:00 in unserem neuen Spiellokal:<br/>
-Mehrzweckraum der Badi Seebach, Am Katzenbach 10, 8052 Zürich <br/>
+Mehrzweckraum des Freibad Seebach, Am Katzenbach 10, 8052 Zürich <br/>
 Wegbeschreibung siehe [Spiellokal](#Spiellokal)
 
 ***
@@ -91,7 +91,7 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 ***
 
 # Spiellokal
-**Mittwochs ab 18:00 im Mehrzweckraum der Badis Seebach, Am Katzenbach 10, 8052 Zürich**<br/>
+**Mittwochs ab 18:00 im Mehrzweckraum des Freibad Seebach, Am Katzenbach 10, 8052 Zürich**<br/>
 **Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 * **am 1. Mittwoch des Monats:** <br/> gemeinsames Menu serviert von unseren Starköchen Simon und Francis
 * **am 2. & 4. Mittwoch des Monats:** <br/> Vereinsmeisterschaft in  verschiedenen Turnierformaten, siehe [Turniere](#turniere)
