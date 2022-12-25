@@ -4,8 +4,10 @@
 # Aktuell
 
 **ACHTUNG: neues Spiellokal sowie neuer Wochentag (Mittwoch) für unseren Spielabend**<br/>
-ab sofort (erster Spielabend 4.1.23) spielen wir Mittwochs ab 18:00 (statt Montags) in unserem neuen Spiellokal:
+Wegen Renovierung des GZ spielen wir ab sofort (erster Spielabend 4.1.23) Mittwochs ab 18:00 in unserem neuen Spiellokal:
 Gemeinscharftsraum der Badi Seebach, Am Katzenbach 10, 8052 Zürich, Wegbeschreibung siehe [Spielabend](#Spielabend)
+
+***
 
 **5. Dezember 2022: Weihnachtsfeier**<br/>
 **Fotostrecke:**
@@ -93,13 +95,19 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 ***
 
 # Spielabend
-**Montags ab 18:30 im CaféAmBach des [GZ Seebach](https://gz-zh.ch/gz-seebach/)**<br/>
+**Mittwochs ab 18:00 im Gemeinsschaftsraum des des Badis Seebach, Am Katzenbach 10, 8052 Zürich**<br/>
 **Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
-* **am 1. Montag des Monats:** <br/> gemeinsames Menu serviert von unseren Starköchen Simon und Francis
-* **am 2. & 4. Montag des Monats:** <br/> Vereinsmeisterschaft in  verschiedenen Turnierformaten, siehe [Turniere](#turniere)
-* **am 3. Montag des Monats:** <br/> Theorielektionen zu verschiedenen Themen (Eröffnung, Endspiel, Strategie...)
+* **am 1. Mittwoch des Monats:** <br/> gemeinsames Menu serviert von unseren Starköchen Simon und Francis
+* **am 2. & 4. Mittwoch des Monats:** <br/> Vereinsmeisterschaft in  verschiedenen Turnierformaten, siehe [Turniere](#turniere)
+* **am 3. Mittwoch des Monats:** <br/> Theorielektionen zu verschiedenen Themen (Eröffnung, Endspiel, Strategie...)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2699.355604057431!2d8.542197644127354!3d47.42450899316742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900befc7371097%3A0x3603d9d75790c6d3!2sSchach%20am%20Bach!5e0!3m2!1sde!2sch!4v1623650982664!5m2!1sde!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<img  class="marginauto" src="fromtram.png" alt="centered image" width="650"/><br/> 
+<img  class="marginauto" src="fromtram.png" alt="centered image" width="650"/><br/> 
+<img  class="marginauto" src="topway.png" alt="centered image" width="650"/><br/> 
+
+
 
 ***
 
