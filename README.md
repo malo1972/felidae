@@ -4,8 +4,9 @@
 # Aktuell
 
 **ACHTUNG: neues Spiellokal sowie neuer Wochentag (Mittwoch) für unseren Spielabend**<br/>
-Wegen Renovierung des GZ spielen wir ab sofort (erster Spielabend 4.1.23) Mittwochs ab 18:00 in unserem neuen Spiellokal:
-Gemeinscharftsraum der Badi Seebach, Am Katzenbach 10, 8052 Zürich, Wegbeschreibung siehe [Spiellokal](#Spiellokal)
+Wegen Renovierung des GZ spielen wir ab sofort (erster Spielabend 4.1.23) Mittwochs ab 18:00 in unserem neuen Spiellokal:<br/>
+Mehrzweckraum der Badi Seebach, Am Katzenbach 10, 8052 Zürich <br/>
+Wegbeschreibung siehe [Spiellokal](#Spiellokal)
 
 ***
 
