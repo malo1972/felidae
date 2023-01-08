@@ -98,14 +98,14 @@ Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 
 # Spiellokal
 **Mittwochs ab 18:00 im Mehrzweckraum des Freibad Seebach**<br/>
-Nur 3 Minuten zu Fuss von der Tramendhaltestelle Seebach der Linie 14<br/>
+Nur 3 Minuten zu Fuss von der Haltestelle Zürich Seebach <br/>
 
 **Öffentliche Verkehrsmittel:**
-Mit der Tram 14 oder mit der Buslinie 756 bis Zürich Seebach (Endhaltestelle der 14)
+Mit Tram 14 oder Bus 768 (vom Flughafen oder Oerlikon) bis Zürich Seebach (Endstation der Tram 14)
 
 **Mit dem Auto:**
-Hinter der Tramendhaltestelle ist ein grosser Parkplatz. (Navigationsgeräte: Katzenbachstr. 20, 8052 Zürich)
-Der Eingang befindet sich von der Katzenbachstrasse kommend, unmittelbar nach dem Hotel Landhus rechts.  
+Hinter der Tramendstation ist ein grosser Parkplatz. (Navigationsgeräte: Katzenbachstr. 20, 8052 Zürich)
+Die Parkplatzeinfahrt befindet sich von der Katzenbachstrasse kommend, unmittelbar nach dem Hotel Landhus rechts.  
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2699.355604057431!2d8.542197644127354!3d47.42450899316742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900befc7371097%3A0x3603d9d75790c6d3!2sSchach%20am%20Bach!5e0!3m2!1sde!2sch!4v1623650982664!5m2!1sde!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
