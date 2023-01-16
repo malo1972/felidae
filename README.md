@@ -4,8 +4,7 @@
 # Aktuell
 
 **ACHTUNG: neues Spiellokal sowie neuer Wochentag (Mittwoch) für unseren Spielabend**<br/>
-Wegen Renovierung des GZ spielen wir ab sofort (erster Spielabend 4.1.23) Mittwochs ab 18:00 in unserem neuen Spiellokal:<br/>
-**Mehrzweckraum des Freibad Seebach** <br/>
+Neu spielen wir Mittwochs ab 18:00 im **Mehrzweckraum des Freibad Seebach** <br/>
 Wegbeschreibung siehe [Spiellokal](#spiellokal)
 
 
