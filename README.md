@@ -3,7 +3,7 @@
 
 # Aktuell
 
-**ACHTUNG: neues Spiellokal sowie neuer Wochentag (Mittwoch) für unseren Spielabend**<br/>
+**ACHTUNG: neues Spiellokal sowie neuer Wochentag für unseren Spielabend**<br/>
 Neu spielen wir Mittwochs ab 18:00 im **Mehrzweckraum des Freibad Seebach** <br/>
 Wegbeschreibung siehe [Spiellokal](#spiellokal)
 
