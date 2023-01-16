@@ -8,6 +8,13 @@ Wegen Renovierung des GZ spielen wir ab sofort (erster Spielabend 4.1.23) Mittwo
 **Mehrzweckraum des Freibad Seebach** <br/>
 Wegbeschreibung siehe [Spiellokal](#spiellokal)
 
+
+***
+
+**Sonntag, 15. Januar: SC Seebach erfolgreich in der 3. Runde des Zürichsee Jugend Grand Prix**<br/>
+**[Rangliste](https://www.svzs.ch/jugendschach/jugendgrand-prix-2022-23/182-3-runde-in-einsiedeln-rangliste-etc.html)** <br/>
+<img  class="marginauto" src="einsiedeln3jgp.png" alt="centered image" width="650"/><br/> 
+
 ***
 
 **5. Dezember 2022: Weihnachtsfeier**<br/>
