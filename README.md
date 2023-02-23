@@ -210,8 +210,6 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 
 * **Leiter Gastronomie** <br/> Adrian Götz <br/>
 
-* **Finanzen** <br/> Tim Bellmann
-
 * **IT & Web Content** <br/> Matthias Lobmayer <br/> <matthias.lobmayer@gmail.com>
 
 * **Postadresse** <br/>
