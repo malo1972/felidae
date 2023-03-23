@@ -14,10 +14,8 @@ Wir freuen uns über zahlreiche Anmeldungen bis 1. Mai 2023 via mail an
 
 ***
 
-**23. März 2023: DreamTeam 1 macht den ZMM-Aufstieg in die Spielklasse Ia wahr**<br/>
-<img  class="marginauto" src="zmm2023.jpeg" alt="centered image" width="650"/><br/> 
-
-***
+**23. März 2023: DreamTeam 1 macht den ZMM-Aufstieg in die Spielklasse Ia wahr.**<br/>
+[![ustop](zmm2023.jpeg)](https://www.youtube.com/watch?v=1Pg1RguhqxY)
 
 ***
 
