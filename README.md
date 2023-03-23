@@ -14,6 +14,13 @@ Wir freuen uns über zahlreiche Anmeldungen bis 1. Mai 2023 via mail an
 
 ***
 
+**23. März 2023: DreamTeam 1 macht den ZMM-Aufstieg in die Spielklasse Ia wahr**<br/>
+<img  class="marginauto" src="tmm2023.png" alt="centered image" width="650"/><br/> 
+
+***
+
+***
+
 **15. Januar 2023: SC Seebach erfolgreich in der 3. Runde des Zürichsee Jugend Grand Prix**<br/>
 **[Bericht & Rangliste](https://www.svzs.ch/jugendschach/jugendgrand-prix-2022-23/182-3-runde-in-einsiedeln-rangliste-etc.html)** <br/>
 <img  class="marginauto" src="einsiedeln3jgp.png" alt="centered image" width="650"/><br/> 
