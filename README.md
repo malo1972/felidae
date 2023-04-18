@@ -253,7 +253,11 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 **SMM 2022:** [Spielplan](https://test01.swisschess.ch/turniere/smm/2022/smmspielplan2022.pdf) / [Resultate Seebach 1](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2022&agruppe=504&aliga=5) / [Resultate Seebach 2](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2022&agruppe=605&aliga=6) <br/>
 **SGM 2022/23:** [Spielplan](https://test01.swisschess.ch/turniere/sgm/2023/sgm2023.pdf)  / [Resultate Seebach 1](http://adapter-neu.swisschess.ch/turniere/sgm.php?ajahr=2023&agruppe=512&aliga=5) / [Resultate Seebach 2](http://adapter-neu.swisschess.ch/turniere/sgm.php?ajahr=2023&agruppe=511&aliga=5) / [Resultate Seebach 3](http://adapter-neu.swisschess.ch/turniere/sgm.php?ajahr=2023&agruppe=510&aliga=5) <br/>
 **ZMM 2022/23:** [Seebach 1](https://chess-results.com/tnr681776.aspx?lan=0&art=2) / [Seebach 2](https://chess-results.com/tnr681777.aspx?lan=0&art=2) <br/>
-**SMM 2023:** [Spielplan](https://test01.swisschess.ch/turniere/smm/2023/smmspielplan2023.pdf)
+**SMM 2023:** [Spielplan](https://test01.swisschess.ch/turniere/smm/2023/smmspielplan2023.pdf) <br/>
+>[Seebach 1: 3. Liga, Gruppe Ost 4](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=504&aliga=5) <br/>
+>[Seebach 2: 4. Liga, Gruppe Zentral 3](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=607&aliga=6) <br/>
+>[Seebach 3: 4. Liga, Gruppe Ost 4](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=604&aliga=6) <br/>
+>[Seebach 4: 4. Liga, Gruppe Zentral 1](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=605&aliga=6) <br/>
 
 ***
 
