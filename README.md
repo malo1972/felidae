@@ -4,6 +4,9 @@
 # Aktuell
 
 **Sonntag, 7. Mai 2023: Seebach Open U16**<br/>
+<br/>
+**[Teilnehmer / Resultate](https://chess-results.com/tnr756929.aspx?lan=1&turdet=YES)** <br/>
+<br/>
 Unser Junioren-Turnier wird erstmals im [GZ Hirzenbach](https://gz-zh.ch/gz-hirzenbach/) stattfinden:<br/>
 **[Ausschreibung 2. Seebach Open U16 am 7.5.2023](AusschreibungU162023.pdf)** <br/>
 Modus: 7 Runden Schweizer System, Bedenkzeit: 15 min. <br/> 
