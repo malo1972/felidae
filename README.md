@@ -4,10 +4,7 @@
 # Aktuell
 
 **Sonntag, 7. Mai 2023: Emanuel Angelovski gewinnt das 2. Seebach Open U16**<br/>
-<br/>
 **[Resultate](https://chess-results.com/tnr756929.aspx?lan=1&turdet=YES)** <br/>
-<br/>
-
 <img  class="marginauto" src="allwinners.jpg" alt="centered image" width="650"/><br/> 
 
 ***
