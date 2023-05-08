@@ -3,16 +3,12 @@
 
 # Aktuell
 
-**Sonntag, 7. Mai 2023: Seebach Open U16**<br/>
+**Sonntag, 7. Mai 2023: Emanuel Angelovski gewinnt das 2. Seebach Open U16**<br/>
 <br/>
-**[Teilnehmer / Resultate](https://chess-results.com/tnr756929.aspx?lan=1&turdet=YES)** <br/>
+**[Resultate](https://chess-results.com/tnr756929.aspx?lan=1&turdet=YES)** <br/>
 <br/>
-Unser Junioren-Turnier wird erstmals im [GZ Hirzenbach](https://gz-zh.ch/gz-hirzenbach/) stattfinden:<br/>
-**[Ausschreibung 2. Seebach Open U16 am 7.5.2023](AusschreibungU162023.pdf)** <br/>
-Modus: 7 Runden Schweizer System, Bedenkzeit: 15 min. <br/> 
-Wertungen: U8, U12, U16, Pokale und zahlreiche Preise!<br/> 
-Wir freuen uns über zahlreiche Anmeldungen bis 1. Mai 2023 via mail an
-<andreas.poncini@ponciniconsulting.ch> <br/> 
+
+<img  class="marginauto" src="allwinners.jpg" alt="centered image" width="650"/><br/> 
 
 ***
 
