@@ -233,15 +233,17 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 # Turniere
 
-[Reglement für das **Seebach Open**](SeebachOpenReglement.pdf)<br/>
-[Rangliste des 1. Seebach Open am 18.8.2019](Schlussrangliste SeebacherSchachturnier.pdf)<br/>
+[Reglement für das **Seebach Open**](SeebachOpenReglement.pdf) <br/>
+[Rangliste des 1. Seebach Open am 18.8.2019](Schlussrangliste SeebacherSchachturnier.pdf) <br/>
 [Rangliste des 2. Seebach Open am 16.8.2020](SeebachOpen2020.pdf)<br/>
 [Rangliste des 3. Seebach Open am 29.8.2021](RanglisteSeebachOpen2021.pdf)<br/>
+[Rangliste des 1. Seebach Open U16 am 22.5.2022](https://chess-results.com/tnr640694.aspx?lan=1&art=1&rd=9)  <br/> 
 [Rangliste des 4. Seebach Open am 28.8.2022](http://chess-results.com/tnr668687.aspx?lan=1&art=1&rd=9) <br/> 
-[Rangliste des 1. Seebach Open UI16 am 22.5.2022](https://chess-results.com/tnr640694.aspx?lan=1&art=1&rd=9)  <br/> 
+[Rangliste des 2. Seebach Open U16 am 7.5.2023](https://chess-results.com/tnr756929.aspx?lan=1&art=1&rd=7&turdet=YES) <br/>
 
-[Ausschreibung 2. Seebach Open U16 am 7.5.2023](AusschreibungU162023.pdf)<br/>
+***
 [Ausschreibung 5. Seebach Open am 27.8.2023](Ausschreibung2023.pdf)<br/>
+***
 
 [Turniere des **SSB**](https://www.swisschess.ch/turniere.html) / [Reglemente des **SSB**](http://www.swisschess.ch/reglemente.html)<br/>
 **SGM 2022:** [Spielplan](https://www.swisschess.ch/tl_files/ssb/news/sgm/sgm2022.pdf) / [Resultate Seebach 1](https://www.swisschess.ch/sgm.html?old=L3R1cm5pZXJlL3NnbS5waHA_YWphaHI9MjAyMiZhZ3J1cHBlPTUxMCZhbGlnYT01JmFyb3VuZD0x) / [Resultate Seebach 2](https://www.swisschess.ch/sgm.html?old=L3R1cm5pZXJlL3NnbS5waHA_YWphaHI9MjAyMiZhbGlnYT01JmFncnVwcGU9NTExJmFyb3VuZD0x) <br/>
