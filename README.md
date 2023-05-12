@@ -233,7 +233,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 # Turniere
 
-## Aktuell
+## Zur Zeit laufend
 **SMM 2023:** [Spielplan](https://test01.swisschess.ch/turniere/smm/2023/smmspielplan2023.pdf) **Resultate und Tabellenstände:** <br/>
 **[Seebach 1: 3. Liga, Gruppe Ost 4](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=504&aliga=5)** <br/>
 **[Seebach 2: 4. Liga, Gruppe Zentral 3](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=607&aliga=6)** <br/>
