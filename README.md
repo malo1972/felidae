@@ -233,6 +233,8 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 # Turniere
 
+***
+
 ## Zur Zeit laufend
 **SMM 2023:** <br/>
 **[Spielplan](https://test01.swisschess.ch/turniere/smm/2023/smmspielplan2023.pdf)** <br/>
