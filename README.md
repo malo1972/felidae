@@ -245,7 +245,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 
 ***
 
-## Turniere Demnächst
+## Turniere demnächst
 [SEM 2023 Leukerbad](https://www.swisschess.ch/sem_2023.html)
 [Ausschreibung 5. Seebach Open am 27.8.2023](Ausschreibung2023.pdf)<br/>
 [Turniere des **SSB**](https://www.swisschess.ch/turniere.html) <br/>
