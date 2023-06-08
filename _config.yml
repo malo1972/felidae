@@ -1,6 +1,6 @@
 theme: jekyll-theme-leap-day
 big_heading: true
 title: Schach am Bach
-subtitle: Herzlich Willkommen beim Schachclub Zürich Seebach
+description: Schachclub Zürich Seebach
 github:
   is_project_page: false
