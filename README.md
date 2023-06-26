@@ -5,8 +5,8 @@
 
 
 **18. Juni 2023: Open Air Mannschaftsblitzturnier**<br/>
-**Fotostrecke:**
-[![xyz](/mannblitz23/20230618_125447.jpg-1024x.jpg)](https://www.sc-seebach.ch/mannblitz23/page.html)<br/> 
+**Rangliste & Fotostrecke:**
+[![xyz](/mannblitz23/20230618_125445.jpg-1024x.jpg)](https://www.sc-seebach.ch/mannblitz23/page.html)<br/> 
 
 **7. Mai 2023: Emanuel Angelovski gewinnt das 2. Seebach Open U16**<br/>
 **[Rangliste](https://chess-results.com/tnr756929.aspx?lan=1&art=1&rd=7&turdet=YES)** <br/>
