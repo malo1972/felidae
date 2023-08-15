@@ -3,6 +3,10 @@
 
 # Aktuell
 
+**27. August 2022: 4. Seebach Open 10+0 (Blitz)**<br/>
+[Ausschreibung 5. Seebach Open am 27.8.2023](Ausschreibung2023.pdf)<br/>
+
+***
 
 **18. Juni 2023: Open Air Mannschaftsblitzturnier**<br/>
 **Rangliste & Fotostrecke:**
