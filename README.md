@@ -3,7 +3,7 @@
 
 # Aktuell
 
-**27. August 2022: 4. Seebach Open 10+0 (Blitz)**<br/>
+**Sonntag, 27. August 2023: 5. Seebach Open 15+0 (Rapid)**<br/>
 [Ausschreibung 5. Seebach Open am 27.8.2023](Ausschreibung2023.pdf)<br/>
 
 ***
