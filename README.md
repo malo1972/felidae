@@ -4,7 +4,7 @@
 # Aktuell
 
 **Sonntag, 27. August 2023: 5. Seebach Open 15+0 (Rapid)**<br/>
-<img  class="marginauto" src="podium23.png" alt="centered image" width="650"/><br/> 
+<img  class="marginauto" src="podium23.jpg" alt="centered image" width="650"/><br/> 
 [Teilnehmer / Resultate](https://chess-results.com/Tnr809253.aspx?lan=0)<br/>
 
 ***
