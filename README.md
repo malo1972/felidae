@@ -4,8 +4,8 @@
 # Aktuell
 
 **27. August 2023: Michael Seiler gewinnt das 5. Seebach Open 15+0 (Rapid)**<br/>
-<img  class="marginauto" src="podium23.jpg" alt="centered image" width="650"/><br/> 
-**[Teilnehmer / Resultate](https://chess-results.com/tnr809253.aspx?lan=0&art=1&rd=7)**<br/>
+**Rangliste & Fotostrecke:**
+[![xyz](/open23/1.jpg)](https://www.sc-seebach.ch/open23/test.html)<br/> 
 
 ***
 
