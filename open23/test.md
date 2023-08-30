@@ -1,1 +1,9 @@
-hallo
+![Tux, the Linux mascot](/open23/1.JPG)
+![Tux, the Linux mascot](/open23/2.JPG)
+![Tux, the Linux mascot](/open23/3.JPG)
+![Tux, the Linux mascot](/open23/4.JPG)
+![Tux, the Linux mascot](/open23/5.JPG)
+![Tux, the Linux mascot](/open23/6.JPG)
+![Tux, the Linux mascot](/open23/7.JPG)
+![Tux, the Linux mascot](/open23/8.JPG)
+![Tux, the Linux mascot](/open23/9.JPG)
