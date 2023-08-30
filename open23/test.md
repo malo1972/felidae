@@ -1,6 +1,7 @@
 **Rangliste des 5. Seebach Open am 27.8.2023** <br/>
 
-https://chess-results.com/tnr809253.aspx?lan=0&art=1&rd=7
+**[Rangliste](https://chess-results.com/tnr809253.aspx?lan=0&art=1&rd=7)** <br/>
+
 
 **U8**
 
