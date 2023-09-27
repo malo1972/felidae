@@ -3,7 +3,7 @@
 
 # Aktuell
 
-**24. September 2023: Vivan Vrghese gewinnt das 1. Qualifikationsturnier für die Schweizer Meisterschaft 2024 U10**<br/>
+**24. September 2023: Vivan Varghese gewinnt das 1. Qualifikationsturnier für die Schweizer Meisterschaft 2024 U10**<br/>
 **[Rangliste](https://chess-results.com/tnr809168.aspx?lan=0&art=1&rd=7)** <br/>
 <img  class="marginauto" src="Varghese-23-5-ru.jpg" alt="centered image" width="650"/><br/> 
 
