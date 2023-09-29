@@ -125,11 +125,11 @@ Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 ***
 # Der SC Seebach in den Medien 
 
-**[How to beat a IM](Busch.pdf)**<br/>
+**[How to beat a IM](press/Busch.pdf)**<br/>
 
-**[SSZ 2/2023](SSZ2_2023.pdf)**<br/>
+**[SSZ 2/2023](press/SSZ2_2023.pdf)**<br/>
 
-**[Tagblatt](Tagblatt.pdf)**<br/>
+**[Tagblatt](press/Tagblatt.pdf)**<br/>
 
 ***
 
