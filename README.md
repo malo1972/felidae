@@ -123,6 +123,15 @@ Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 </p>
 
 ***
+# Der SC Seebach in den Medien 
+
+**[How to beat a IM](Busch.pdf)**<br/>
+
+**[SSZ 2/2023](SSZ2_2023.pdf)**<br/>
+
+**[Tagblatt](Tagblatt.pdf)**<br/>
+
+***
 
 # Spiellokal
 **Mittwochs ab 18:00 im Mehrzweckraum des Freibad Seebach**<br/>
