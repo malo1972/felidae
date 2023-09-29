@@ -123,7 +123,7 @@ Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 </p>
 
 ***
-# Der SC Seebach in den Medien 
+# Medienspiegel 
 
 **[How to beat a IM](/press/Busch.pdf)**<br/>
 
