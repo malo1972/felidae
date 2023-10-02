@@ -3,7 +3,7 @@
 
 # Aktuell
 
-**1. Oktober 2023: Emanuel Evangelovski gewinnt den Zürcher Jugendschachkönig, Timon Trubini auf Rang 3**<br/>
+**1. Oktober 2023: Emanuel Evangelovski gewinnt den Zürcher Jugendschachkönig**<br/>
 **[Rangliste](https://chess-results.com/tnr812932.aspx?lan=0&art=1&rd=7&fed=SUI&turdet=NO)** <br/>
 <img  class="marginauto" src="zjsk23.jpg" alt="centered image" width="650"/><br/>
 
