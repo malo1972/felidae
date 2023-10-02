@@ -3,6 +3,12 @@
 
 # Aktuell
 
+** 1. Oktober 2023: Emanuel Evangelovski gewinnt den Zürcher Jugendschachkönig, Timon Trubini auf Rang 3**<br/>
+**[Rangliste](https://chess-results.com/tnr812932.aspx?lan=0&art=1&rd=7&fed=SUI&turdet=NO)** <br/>
+<img  class="marginauto" src="zjsk23.jpg" alt="centered image" width="650"/><br/>
+
+***
+
 **24. September 2023: Vivan Varghese gewinnt das 1. Qualifikationsturnier für die Schweizer Meisterschaft 2024 U10**<br/>
 **[Rangliste](https://chess-results.com/tnr809168.aspx?lan=0&art=1&rd=7)** <br/>
 <img  class="marginauto" src="Varghese-23-5-ru.jpg" alt="centered image" width="650"/><br/> 
