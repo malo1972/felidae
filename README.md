@@ -272,7 +272,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 **SGM 2023/24:** <br/>
 **[Spielplan](https://test01.swisschess.ch/turniere/sgm/2024/sgm2024.pdf)** <br/>
 **ZMM 2023/24:** <br/>
-[Seebach 1](https://chess-results.com/tnr827699.aspx?lan=0&art=0&turdet=YES) [Seebach 2](https://chess-results.com/tnr827710.aspx?lan=0&art=0&turdet=YES) <br/>
+[Seebach 1](https://chess-results.com/tnr827699.aspx?lan=0&art=0&turdet=YES) / [Seebach 2](https://chess-results.com/tnr827710.aspx?lan=0&art=0&turdet=YES) <br/>
 
 ***
 
