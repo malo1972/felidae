@@ -118,7 +118,7 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 
 **Wir spielen Mittwochs ab 18 Uhr (Kinder-und Jugend 16-18 Uhr) im Mehrzwechraum der Badi Seebach siehe [Spiellokal](#spiellokal)
 Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
-* **am 1. Mittwoch des Monats:** <br/> gemeinsames Menu serviert von unseren Starköchen Simon und Francis
+* **am 1. Mittwoch des Monats:** <br/> gemeinsames Menu serviert von unserem Starkoch Francis
 * **am 2. & 4. Mittwoch des Monats:** <br/> Vereinsmeisterschaft in  verschiedenen Turnierformaten, siehe [Turniere](#turniere)
 * **am 3. Mittwoch des Monats:** <br/> Theorielektionen zu verschiedenen Themen (Eröffnung, Endspiel, Strategie...)
 
