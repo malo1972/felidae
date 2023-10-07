@@ -269,12 +269,10 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 ***
 
 ## Zur Zeit laufende Turniere
-**SMM 2023:** <br/>
-**[Spielplan](https://test01.swisschess.ch/turniere/smm/2023/smmspielplan2023.pdf)** <br/>
-**[Seebach 1: 3. Liga, Gruppe Ost 4](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=504&aliga=5)** <br/>
-**[Seebach 2: 4. Liga, Gruppe Zentral 3](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=607&aliga=6)** <br/>
-**[Seebach 3: 4. Liga, Gruppe Ost 4](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=604&aliga=6)** <br/>
-**[Seebach 4: 4. Liga, Gruppe Zentral 1](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=605&aliga=6)** <br/>
+**SGM 2023/24:** <br/>
+**[Spielplan](https://test01.swisschess.ch/turniere/smm/2024/smmspielplan2024.pdf)** <br/>
+**ZMM 2023/24:** <br/>
+[Seebach 1] (https://chess-results.com/tnr827699.aspx?lan=0&art=0&turdet=YES) [Seebach 2] (https://chess-results.com/tnr827710.aspx?lan=0&art=0&turdet=YES) <br/>
 
 ***
 
@@ -296,6 +294,7 @@ Termine des Schweizerischen Schachbunds: [Turnierkalender des SSB](http://www.sw
 **SMM 2022:** [Spielplan](https://test01.swisschess.ch/turniere/smm/2022/smmspielplan2022.pdf) / [Resultate Seebach 1](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2022&agruppe=504&aliga=5) / [Resultate Seebach 2](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2022&agruppe=605&aliga=6) <br/>
 **SGM 2022/23:** [Spielplan](https://test01.swisschess.ch/turniere/sgm/2023/sgm2023.pdf)  / [Resultate Seebach 1](http://adapter-neu.swisschess.ch/turniere/sgm.php?ajahr=2023&agruppe=512&aliga=5) / [Resultate Seebach 2](http://adapter-neu.swisschess.ch/turniere/sgm.php?ajahr=2023&agruppe=511&aliga=5) / [Resultate Seebach 3](http://adapter-neu.swisschess.ch/turniere/sgm.php?ajahr=2023&agruppe=510&aliga=5) <br/>
 **ZMM 2022/23:** [Seebach 1](https://chess-results.com/tnr681776.aspx?lan=0&art=2) / [Seebach 2](https://chess-results.com/tnr681777.aspx?lan=0&art=2) <br/>
+**SMM 2023:** [Seebach 1](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=504&aliga=5) / [Seebach 2](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=607&aliga=6) / [Seebach 3](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=604&aliga=6) / [Seebach 4](http://adapter-neu.swisschess.ch/turniere/smm.php?ajahr=2023&agruppe=605&aliga=6) /
 
 ***
 
