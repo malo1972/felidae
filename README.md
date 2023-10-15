@@ -3,6 +3,10 @@
 
 # Aktuell
 
+**9. Oktober 2023: Linus Meer auf Rang 3 des Zürichsee Grand Prix**<br/>
+**[Rangliste](http://www.schach-rj.ch/GP_AlbuVille/GP23_Schlussrangliste.pdf)** <br/>
+<img  class="marginauto" src="GP23.jpg" alt="centered image" width="650"/><br/>
+
 **1. Oktober 2023: Emanuel Evangelovski gewinnt den Zürcher Jugendschachkönig**<br/>
 **[Rangliste](https://chess-results.com/tnr812932.aspx?lan=0&art=1&rd=7&fed=SUI&turdet=NO)** <br/>
 <img  class="marginauto" src="zjsk23.jpg" alt="centered image" width="650"/><br/>
