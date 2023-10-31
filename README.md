@@ -161,7 +161,7 @@ Die Parkplatzeinfahrt befindet sich von der Katzenbachstrasse kommend, unmittelb
 ***
 
 # Kinder- und Jugendschach
-**jeden Mittwoch (ausser Feiertage) ab 17 Uhr (übergehend in den Spielabend) im Mehrzweckraum der Badi Seebach, siehe [Spiellokal](#spiellokal) <br/>
+**jeden Mittwoch (ausser Feiertage) ab 16 Uhr (übergehend in den Spielabend) im Mehrzweckraum der Badi Seebach, siehe [Spiellokal](#spiellokal) <br/>
 Ob neugierige\*r Anfänger\*in oder ambitionierte\*r Turnierspieler\*in, unser Betreuungs-Team freut sich, mit Dir die Faszination des Schachspiels zu teilen. Die Teilnahme an unseren Schachtreffen ist kostenlos. Bist Du interessiert? Komm einfach vorbei zum Schnuppern oder ruf Andreas an (079 235 30 87)**
 <br/>
 
