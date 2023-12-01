@@ -242,7 +242,7 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 
 * **Präsident, Aus- und Weiterbildung** <br/> Felix Busch  <br/> <busch.felix@gmail.com> <br/>
 
-* **Vize-Präsident, Kommunikation** <br/> Tobias Füchslin <tobias.fuechslin@gmail.com> <br/>   
+* **Vize-Präsident, Kommunikation** <br/> Tobias Füchslin <br/> <tobias.fuechslin@gmail.com> <br/>   
 
 * **Vize-Präsident, Technische Kommission** <br/> Livio Sgier <br/>   
  
