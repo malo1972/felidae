@@ -239,17 +239,18 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 ***
 
 # Vorstand
-* **Präsident** <br/> Andreas Poncini <br/> <andreas.poncini@ponciniconsulting.ch> <br/> 079 235 30 87
 
-* **Vize-Präsident, Leiter Aus- und Weiterbildung** <br/> Felix Busch  <br/> <busch.felix@gmail.com> <br/>
+* **Präsident, Aus- und Weiterbildung** <br/> Felix Busch  <br/> <busch.felix@gmail.com> <br/>
 
-* **Vize-Präsident, Leiter Technische Kommission** <br/> Livio Sgier <br/>   
+* **Vize-Präsident, Kommunikation** <br/> Tobias Füchslin <tobias.fuechslin@gmail.com> <br/>   
+
+* **Vize-Präsident, Technische Kommission** <br/> Livio Sgier <br/>   
  
 * **Kinder- & Jugendschach** <br/> Richard Bohnenberger <br/> <bohnenbergerrichard@gmail.com> <br/> 079 443 56 72
 
 * **Kinder- & Jugendschach, Turnierschach** <br/> Marino Gambarara <br/> <marino.gambarara@bluewin.ch>
 
-* **Leiter Gastronomie** <br/> Adrian Götz <br/>
+* **Gastronomie** <br/> Adrian Götz <br/>
 
 * **IT & Web Content** <br/> Matthias Lobmayer <br/> <matthias.lobmayer@gmail.com>
 
