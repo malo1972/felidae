@@ -116,8 +116,8 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 
 # Wer sind wir
 
-**Wir sind ein junger, bunter Schachclub in Zürich Seebach mit Spielern aus 30 Nationen.**  <br/> 
-**Wir spielen in den schweizerischen Mannschaftswettbewerben mit 2 Teams in der ZMM, 3 Teams in der SGM und 4 Teams in der SMM und organisieren mehrere offene Turniere.**  <br/>
+**Wir sind ein junger, bunter Schachclub in Zürich Seebach mit Spielern aus über 30 Nationen.**  <br/> 
+**Wir spielen in den schweizerischen Mannschaftswettbewerben mit 2 Teams in der ZMM, je 4 Teams in der SGM / SMM und organisieren mehrere offene Turniere.**  <br/>
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
 **Wir spielen Mittwochs ab 18 Uhr (Kinder-und Jugend 16-18 Uhr) im Mehrzwechraum der Badi Seebach siehe [Spiellokal](#spiellokal)
