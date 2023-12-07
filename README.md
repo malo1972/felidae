@@ -3,6 +3,10 @@
 
 # Aktuell
 
+**6. Dezember 2023: Weihnachtsfeier**<br/>
+**Fotostrecke:**
+[![xyz](/xmas23/7Q0A0783.jpg)](https://www.sc-seebach.ch/xmas23/pic.html)<br/> 
+
 **9. Oktober 2023: Linus Meer auf Rang 3 des Zürichsee Grand Prix**<br/>
 **[Rangliste](http://www.schach-rj.ch/GP_AlbuVille/GP23_Schlussrangliste.pdf)** <br/>
 <img  class="marginauto" src="GP23.jpg" alt="centered image" width="650"/><br/>
