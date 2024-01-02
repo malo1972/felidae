@@ -128,7 +128,7 @@ Grossartiger Erfolg unserer Jungtalente:<br/>
 **Wir spielen in den schweizerischen Mannschaftswettbewerben mit 2 Teams in der ZMM, je 4 Teams in der SGM / SMM und organisieren mehrere offene Turniere.**  <br/>
 **Jede\*r ist bei uns willkommen, auch Anfänger\*innen!**  <br/>
 
-**Wir spielen Mittwochs ab 18 Uhr (Kinder-und Jugend 16-18 Uhr) im Mehrzwechraum der Badi Seebach siehe [Spiellokal](#spiellokal)
+**Wir spielen Mittwochs ab 18 Uhr (Kinder-und Jugend 17-18 Uhr) im Mehrzwechraum der Badi Seebach siehe [Spiellokal](#spiellokal)
 Neben freiem Spiel bieten wir an folgenden Terminen zusätzlich:**
 * **am 1. Mittwoch des Monats:** <br/> gemeinsames Menu serviert von unserem Starkoch Francis
 * **am 2. & 4. Mittwoch des Monats:** <br/> Vereinsmeisterschaft in  verschiedenen Turnierformaten, siehe [Turniere](#turniere)
