@@ -262,12 +262,6 @@ Widersacher. »**  <br/>  *WASSILIJ WASSILJEWITSCH SMYSLOW (1923-2010)*
 
 * **IT & Web Content** <br/> Matthias Lobmayer <br/> <matthias.lobmayer@gmail.com>
 
-* **Postadresse** <br/>
-Schachclub Zürich Seebach <br/>
-c/o Andreas Poncini <br/>
-Kirchenfeld 75 <br/>
-8052 Zürich <br/>
-
 ***
 
 # Kalender
